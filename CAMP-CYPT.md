@@ -12,9 +12,9 @@
 - **Lunch program:** $65/week (snacks + meals) at select sites
 - **Price:** $350/week
 - **Locations (multiple — see below):**
-  - **North:** Unitarian Church of Calgary, 1703–1 St NW — ~8 min from West Hillhurst ✅ (very close)
-  - **South (Riverbend):** Riverbend Community Association, 19 Rivervalley Dr SE — ~35 min
-  - **West:** SCA Community Association, 277 Strathcona Dr SW — ~15 min
+  - **North:** Unitarian Church of Calgary, 1703–1 St NW — ~8 min from West Hillhurst ✅ (very close) ([map](https://maps.google.com/?q=1703+1+St+NW,+Calgary,+AB))
+  - **South (Riverbend):** Riverbend Community Association, 19 Rivervalley Dr SE — ~35 min ([map](https://maps.google.com/?q=19+Rivervalley+Dr+SE,+Calgary,+AB))
+  - **West:** SCA Community Association, 277 Strathcona Dr SW — ~15 min ([map](https://maps.google.com/?q=277+Strathcona+Dr+SW,+Calgary,+AB))
 - **Prerequisites:** None
 - **More info / Book:** https://cypt.ca/camps/
 

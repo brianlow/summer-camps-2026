@@ -8,9 +8,9 @@
 
 - **Indoor/Outdoor:** Outdoor ranch / foothills
 - **Ranch hours:** 10:00am–3:00pm ⚠️ (ends before 3:30pm at the ranch; factor in bus return time)
-- **Bus:** Daily Calgary pickup/drop-off at **Central Memorial High School, 5111 21 St SW** (~20 min from West Hillhurst)
+- **Bus:** Daily Calgary pickup/drop-off at **Central Memorial High School, 5111 21 St SW** (~20 min from West Hillhurst) ([map](https://maps.google.com/?q=5111+21+St+SW,+Calgary,+AB))
 - **Price:** ⚠️ Not listed publicly (deposit: $210; early-bird deadline was Jan 15, 2026 — passed). Contact for full pricing.
-- **Location:** 273041 Beaupre Creek Rd, Rocky View County — ~20 min west of Cochrane, ~60 min from West Hillhurst ⚠️
+- **Location:** 273041 Beaupre Creek Rd, Rocky View County — ~20 min west of Cochrane, ~60 min from West Hillhurst ⚠️ ([map](https://maps.google.com/?q=273041+Beaupre+Creek+Rd,+Rocky+View+County,+AB))
 - **Prerequisites:** None
 - **More info / Book:** https://www.barjo.ca | info@barjo.ca | 403-561-4488
 - **Contact for:** Full 2026 pricing, bus schedule, remaining week availability

@@ -12,7 +12,7 @@
 ---
 
 ## Calgary West Location
-- **Address:** #124, 555 Strathcona Blvd SW — ~15–20 min from West Hillhurst
+- **Address:** #124, 555 Strathcona Blvd SW — ~15–20 min from West Hillhurst ([map](https://maps.google.com/?q=555+Strathcona+Blvd+SW,+Calgary,+AB))
 - **Contact:** (403) 863-9398 | calgarywest@steamoji.com
 
 ---
@@ -107,7 +107,7 @@
 ---
 
 ## Calgary North Location (additional dates)
-- **Address:** Unit #2016, 2060 Symons Valley Pkwy NW — ~25–30 min from West Hillhurst
+- **Address:** Unit #2016, 2060 Symons Valley Pkwy NW — ~25–30 min from West Hillhurst ([map](https://maps.google.com/?q=2060+Symons+Valley+Pkwy+NW,+Calgary,+AB))
 - **Contact:** (587) 316-9928 | calgarynorth@steamoji.com
 
 Same camp programs as Calgary West with different week rotations. Notable age-appropriate options:

@@ -13,7 +13,7 @@
 - **Price:** ⚠️ Not published — contact farm directly: Office@ButterfieldAcres.com | 403-239-0638
 - **What's included:** Farm T-shirt, animal memory photo, all activities
 - **Refund policy:** Refund only if camp cancelled due to low registration; substituting another child is allowed if camper can't attend
-- **Location:** 254077 Rocky Ridge Rd, Calgary (NW edge/Rocky Ridge) — ~25 min from West Hillhurst ✅
+- **Location:** 254077 Rocky Ridge Rd, Calgary (NW edge/Rocky Ridge) — ~25 min from West Hillhurst ✅ ([map](https://maps.google.com/?q=254077+Rocky+Ridge+Rd,+Calgary,+AB))
 - **More info / Book:** https://www.butterfieldacres.com/summer-day-camps/
 
 **Bus weeks (Calgary pickup available):**

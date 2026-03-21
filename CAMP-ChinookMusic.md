@@ -10,7 +10,7 @@
 - **Hours:** 9:00am–4:00pm Mon–Fri
 - **Before/After Care:** 8:00–9:00am and 4:00–5:00pm ($45 each or $80 combined)
 - **Price:** $375/week (supplies included)
-- **Location:** 1101 48 Ave NW, Calgary — ~15 min from West Hillhurst ✅
+- **Location:** 1101 48 Ave NW, Calgary — ~15 min from West Hillhurst ✅ ([map](https://maps.google.com/?q=1101+48+Ave+NW,+Calgary,+AB))
 - **Prerequisites:** None
 - **More info / Book:** https://www.chinookschoolofmusic.com/summerdaycamps
 - **Phone:** 403-246-8446 | info@chinookschoolofmusic.com

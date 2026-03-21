@@ -11,7 +11,7 @@
 - **Before/After care:** Complimentary 8:00–9:00am and 4:00–5:00pm ✅
 - **Price:** $335–$360 / five-day week | $268 / four-day week
 - **Optional lunch add-on:** $90 (five-day) or $73 (four-day) via Spolumbo's
-- **Location:** 750 9th Ave SE, Calgary (Inglewood) — ~20 min from West Hillhurst
+- **Location:** 750 9th Ave SE, Calgary (Inglewood) — ~20 min from West Hillhurst ([map](https://maps.google.com/?q=750+9+Ave+SE,+Calgary,+AB))
 - **Prerequisites:** Child must be six years old on the first day of their camp (no exemptions)
 - **Group size:** Max 22 campers per group; 2–3 leaders + 1–2 volunteer junior leaders
 - **More info / Book:** https://www.theconfluence.ca/summercamps

@@ -54,3 +54,42 @@ Notes:
 - **Skating:** Child does not know how to skate — exclude skating camps
 - **Distance:** Nearby Calgary (~10-15 min) is ideal. Cochrane (~40 min) — keeping as backup
 - **Gender:** Girls-only and mixed both OK
+
+
+## Interactive Map
+
+An interactive map of all camps lives at `map.csv` and is intended for import into [Google My Maps](https://mymaps.google.com).
+
+### Importing
+
+1. Go to [mymaps.google.com](https://mymaps.google.com) → **Create a new map**
+2. Click **Add layer** → **Import** → upload `map.csv`
+3. Google will ask which column to use for location — choose **Address**
+4. Google will ask which column to use for pin titles — choose **Name**
+5. After import, click **Style by data column** → choose **Category** to colour pins by theme
+
+### Categories (pin colours)
+
+| Category | Examples |
+|---|---|
+| STEM & Tech | Robotics, coding, engineering, electronics |
+| Arts & Design | Architecture, game design, animation, drama |
+| Science | Detective science, geography, crafty science |
+| Outdoor & Nature | Nature hikes, outdoor exploration |
+| Sports | Soccer, climbing, track & field, gymnastics |
+
+### CSV columns
+
+| Column | Notes |
+|---|---|
+| Name | Short form: `Provider (Topic)` |
+| Address | Full street address for geocoding. Note: UCalgary downtown building address is unconfirmed — verify and update. |
+| Category | One of the five categories above |
+| Description | 1–2 sentence summary + link to the CAMPS-*.md file |
+
+### Keeping the map up to date
+
+- **When adding a new camp:** add a row to `map.csv` following the format above
+- **When a provider is removed:** delete the corresponding rows
+- **When spots change:** update the Description field if the status note is relevant (e.g. waitlisted)
+- **UCalgary downtown address:** The exact street address for the downtown building camps (Architecture, City Building, Landscape) is not confirmed — update the Address column once verified

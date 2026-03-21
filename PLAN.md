@@ -26,6 +26,7 @@ Notes:
 - Camp files are split by provider
 - Do not use Facebook as a research source
 - Ask user to confirm when unsure before making changes
+- **Do NOT make up camp descriptions.** If website content is unavailable, leave descriptions blank or note "description needed" — never invent placeholder text. Ask the user to provide the content instead.
 
 
 ## Camp Entry Template

@@ -44,6 +44,40 @@
 - **Action:** Call 403-561-4488 or email info@barjo.ca — get 2026 per-week pricing and confirm bus return time (camp ends 3pm at ranch — need to know when bus returns to Calgary).
 - **Website:** https://www.barjo.ca
 
+### Free House Dance Plus ✅✅ Very Close (NW)
+- **What:** Dance studio offering full- and half-day summer camps. Styles include Jazz, Tap, Ballet, Modern, Lyrical, Hip Hop, Musical Theatre — excellent fit for a child who loves dancing and performing.
+- **Ages:** Division 1 (ages 3–8) — she qualifies
+- **Location:** 2020 12 Ave NW, Calgary — ~5 min from West Hillhurst ✅✅
+- **Note:** 2026 summer camp details not yet published online ("check back in the new year"). Half-day and full-day options reportedly offered.
+- **Action:** Call 403-282-0555 or email fhdp@telusplanet.net — ask: (1) Is there a full-day option in 2026? (2) What are the dates and pricing? (3) Do they have a camp for ages 6–7?
+- **Website:** https://freehousedance.com/kids-teens/summer-camps-programs-for-kids-and-teens/
+
+### Calgary Junior Roller Derby — Junior Program ✅ Very Close (NW)
+- **What:** Junior roller derby program (ages 6–17) based at West Hillhurst Community Association. Seasonal intakes (fall/winter), no confirmed summer camp found — but worth asking.
+- **Ages:** 6–17 ✅
+- **Location:** West Hillhurst Community Association, 1940 6 Ave NW — ~5 min ✅✅
+- **Note:** Regular season runs fall/winter. No 2026 summer camp found online yet. The parent noted this club is "nearby" — worth a direct inquiry.
+- **Action:** Email juniors@calgaryrollerderby.com or info@calgaryrollerderby.com — ask: (1) Is there a summer camp or summer skating program for 2026? (2) What ages / skill levels does the junior program accept?
+- **Website:** https://calgaryrollerderby.com/
+
+### Alien In-Line — Confirm Hours ✅ Close (NW)
+- **What:** Inline skate camp, full day, ages 6–8, NW Calgary locations. CAMP file written — daily start/end times not confirmed.
+- **Action:** Call 403-262-4404 or email info@alieninline.com — confirm exact daily hours (full day start/end times). CAMP-AlienInLine.md already created.
+- **Website:** https://alieninline.com/summer-skate-camps/
+
+### Chinook School of Music — Confirm 2026 Dates ✅ Close (NW)
+- **What:** "Magic of Music" for ages 5–6, full day 9am–4pm, NW Calgary location. CAMP file written — 2026 specific dates not found.
+- **Action:** Call 403-246-8446 or email info@chinookschoolofmusic.com — confirm 2026 camp dates and remaining availability. CAMP-ChinookMusic.md already created.
+- **Website:** https://www.chinookschoolofmusic.com/summerdaycamps
+
+### PULSE Studios — Dance Camp (Hip Hop) ✅ Close (NW)
+- **What:** Hip hop dance camp (breaking, popping, locking, house), ages 6–15, 9am–4pm. In Crescent Heights (~10 min). Styles are more street/hip hop than classical — could be a fun stretch for her.
+- **Ages:** 6–15 ✅
+- **Location:** 110 10 Ave NW (Crescent Heights) — ~10 min from West Hillhurst ✅
+- **Note:** Registration opened January 25, 2026. Price not listed online.
+- **Action:** Call 403-452-2846 or email info@pulsestudios.ca — ask: (1) What are the 2026 weekly dates? (2) What is the per-week price? (3) Before/after care options?
+- **Website:** https://pulsestudios.ca/kids-summer-dance-camps
+
 ---
 
 ## ⏰ Excluded (for reference)
@@ -53,16 +87,20 @@
 | Aliki's Art House | Likely half-day only — needs confirmation | No (in TODO above) |
 | Neon Milkshake | AM only — half-day excluded | No |
 | CYPT half-day | Half-day excluded | No (full-day in CAMP-CYPT.md) |
-| AUArts Kids Camps | Age 9–12 — too old for now (save for Grade 4) | No |
+| AUArts Kids Camps | Ages 9–12 confirmed — too old for now (save for Grade 4) | No |
 | WinSport Archery | Age 9–14 — too old | No |
 | Country Trails Riding | Age 8–14 — too old | No |
 | Humblehorse Ranch | Age 9+ — too old | No |
 | Element Martial Arts | Ends 3:00pm; only 2 weeks; far SE | CAMP-ElementMA.md (flagged) |
 | Elbow Valley Outdoor Camp | Restricted to Elbow Valley residents only | No |
-| Skating Camp | Child doesn't know how to skate | No |
+| Skating Camp (ice) | Child doesn't know how to skate | No |
 | Shooting Stars Summer Intensive | Evening only (4:10–7:30pm) | No |
 | Steamoji (Calgary West + North) | All camps end 3:00pm — below 3:30pm cutoff; no aftercare listed | CAMPS-Steamoji.md |
 | Calgary Zoo Summer Camps | Completely sold out for all 2026 sessions (all age groups); no waitlist | No |
+| Studio Bell — Music Makers (ages 6–9) | Sold out all 2026 sessions | No |
+| North Calgary Dance Centre | Half-day only (9:30am–12:30pm) — below cutoff | No |
+| Mahogany Dance Arts — Unicorn Sparkles | Far SE (~40–55 min); Mon–Thurs only (4 days); ends at 3:30pm | No |
+| SAJRD Southern Alberta Junior Roller Derby | Season runs Sept–June only; no summer program | No |
 
 ---
 
@@ -87,3 +125,7 @@
 | University of Calgary | CAMPS-UofC.md |
 | SAIT | CAMPS-SAIT.md |
 | Steamoji (Calgary West + North) | CAMPS-Steamoji.md |
+| Alien In-Line Inline Skate Camp | CAMP-AlienInLine.md |
+| Chinook School of Music | CAMP-ChinookMusic.md |
+| Heritage Park Prairie Explorers | CAMP-HeritagePark.md |
+| Rundle College (Creative Souls, Theatre, LEGO) | CAMP-RundleCollege.md |

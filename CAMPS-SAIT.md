@@ -1,10 +1,6 @@
 # SAIT Summer Camps 2026
 6-year-old girl entering Grade 2 | West Hillhurst, Calgary
 
-## Research Notes
-- **Source:** https://www.sait.ca/youth-programs/summer-camps/programs/summer-camp-programs (as of 2026-03-21)
-- All indoors at Stan Grad Centre except Great Outdoors (offsite parks)
-
 **Applies to all SAIT camps below:**
 - **Hours:** 9:00am–4:00pm, Mon–Fri
 - **Price:** $400/session
@@ -124,3 +120,9 @@
 |---|---|
 | Jul 13–17 | Waitlisted |
 | Jul 27–31 | Waitlisted |
+
+---
+
+## Research Notes
+- **Source:** https://www.sait.ca/youth-programs/summer-camps/programs/summer-camp-programs (as of 2026-03-21)
+- All indoors at Stan Grad Centre except Great Outdoors (offsite parks)

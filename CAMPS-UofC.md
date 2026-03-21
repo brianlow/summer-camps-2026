@@ -1,15 +1,6 @@
 # UCalgary Summer Camps 2026
 6-year-old girl entering Grade 2 | West Hillhurst, Calgary
 
-## Research Notes
-- **Source:** `uofc-2026-03-16.pdf` — spots as of 2026-03-16
-- **Camp pages:** `https://activelivingportal.ucalgary.ca/Program/[slug]` — many load dynamically (JS)
-- Confirmed working slugs: `totsontreks`, `climbon`, `minibrickbuilders`, `minioutdoorsports`, `ElbowValley`, `Stopmotionanimation`
-- Numeric IDs also work: `/Program/2193` (City Building), `/Program/2615` (Landscape Lab), `/Program/1346` (Dinos Soccer), `/Program/1554` (Dinos T&F), `/Program/2604` (Early Tech), `/Program/2080` (GeoVenture)
-- Pool closed Aug 18–22 for maintenance; no swimming Aug 4 (statutory holiday)
-- Swim test required for pool camps; lifejackets available
-- Before/after care available some weeks (see PDF)
-
 ---
 
 ## Tots on Treks *(Grades 1-2 | Mixed)*
@@ -297,3 +288,14 @@
 | Jul 27–31 | 7 |
 | Aug 4–7 (4 days, Tue–Fri) | 9 |
 | Aug 10–14 | 3 |
+
+---
+
+## Research Notes
+- **Source:** `uofc-2026-03-16.pdf` — spots as of 2026-03-16
+- **Camp pages:** `https://activelivingportal.ucalgary.ca/Program/[slug]` — many load dynamically (JS)
+- Confirmed working slugs: `totsontreks`, `climbon`, `minibrickbuilders`, `minioutdoorsports`, `ElbowValley`, `Stopmotionanimation`
+- Numeric IDs also work: `/Program/2193` (City Building), `/Program/2615` (Landscape Lab), `/Program/1346` (Dinos Soccer), `/Program/1554` (Dinos T&F), `/Program/2604` (Early Tech), `/Program/2080` (GeoVenture)
+- Pool closed Aug 18–22 for maintenance; no swimming Aug 4 (statutory holiday)
+- Swim test required for pool camps; lifejackets available
+- Before/after care available some weeks (see PDF)

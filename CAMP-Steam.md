@@ -11,7 +11,7 @@
 - **Before/After Care:** Before care 7:30–9:00am ($40/week); After care 4:00–5:30pm ($40/week)
 - **Price:** $268/week
 - **Ages:** 6–13 years old ✅ (she qualifies)
-- **Location:** Hillhurst United Church, 1227 Kensington Close NW, Calgary — ~5 min from West Hillhurst ✅✅
+- **Location:** Hillhurst United Church, 1227 Kensington Close NW, Calgary — ~5 min from West Hillhurst ✅✅ ([map](https://maps.google.com/?q=1227+Kensington+Close+NW,+Calgary,+AB))
 - **Prerequisites:** None
 - **Refund deadline:** May 14, 2026 (full refund minus 2.4% processing fee)
 - **More info / Book:** [campsteam.ca/summer-camps/calgary/](https://campsteam.ca/summer-camps/calgary/)

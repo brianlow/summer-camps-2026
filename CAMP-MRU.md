@@ -1,6 +1,6 @@
 # MRU (Mount Royal University) Camps — Calgary
 
-**Location:** 4825 Mount Royal Gate SW, Calgary — ~15 min from West Hillhurst
+**Location:** 4825 Mount Royal Gate SW, Calgary — ~15 min from West Hillhurst ([map](https://maps.google.com/?q=4825+Mount+Royal+Gate+SW,+Calgary,+AB))
 **Hours:** 9:00am–4:00pm, Mon–Fri | Complimentary before care 8–9am | after care 4–5pm ✅
 **Ages:** Gr 1–3 (entering Grades 1–3 in fall 2026, ages 5–9)
 **Price:** $400 / five-day week | $320 / four-day week

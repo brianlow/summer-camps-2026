@@ -9,8 +9,8 @@
 - **Indoor/Outdoor:** Indoor art studio
 - **Hours:** 8:30am–4:00pm, Mon–Fri (full week) ✅
 - **Price:** $395 + tax / five-day week | half-day options at $195 + tax (AM or PM — excluded)
-- **Location (closer):** Edgemont Community Association, 33 Edgevalley Circle NW — ~20 min from West Hillhurst ✅
-- **Location (further):** Rosscarrock Community Association, 4410–10 Ave SW — ~15 min from West Hillhurst
+- **Location (closer):** Edgemont Community Association, 33 Edgevalley Circle NW — ~20 min from West Hillhurst ✅ ([map](https://maps.google.com/?q=33+Edgevalley+Circle+NW,+Calgary,+AB))
+- **Location (further):** Rosscarrock Community Association, 4410–10 Ave SW — ~15 min from West Hillhurst ([map](https://maps.google.com/?q=4410+10+Ave+SW,+Calgary,+AB))
 - **Prerequisites:** None
 - **Media used:** Acrylic paint, watercolour, chalk pastels, charcoal, coloured pencils, mixed media
 - **What's included:** All art supplies and materials

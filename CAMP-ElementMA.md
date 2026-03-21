@@ -10,7 +10,7 @@
 - **Hours:** 9:00am–3:00pm ⚠️ (program end) | After care: 3:00–5:00pm ✅ (available at extra cost)
 - **Before care:** 8:00–9:00am (extra cost)
 - **Price:** $346 + GST / full week | Before/after care extra
-- **Location:** 13226 Macleod Trail SE, Calgary — ~30–35 min from West Hillhurst ⚠️
+- **Location:** 13226 Macleod Trail SE, Calgary — ~30–35 min from West Hillhurst ⚠️ ([map](https://maps.google.com/?q=13226+Macleod+Trail+SE,+Calgary,+AB))
 - **Prerequisites:** None
 - **Disciplines included:** Karate, Muay Thai, Kickboxing, Self-Defense, Yoga
 - **More info / Book:** https://elementyyc.ca/ | 368-993-5668

@@ -10,7 +10,7 @@
 - **Hours:** 8:15am drop-off | 5:00pm pick-up ✅ (long day — flexible for parents)
 - **Price:** $375 + GST / week (~$394 after 5% GST)
 - **Cancellation:** Free within 1 week of start; $25 fee for date changes (1 free change)
-- **Location:** 137 Mahogany Plaza SE (Mahogany Village, behind Sobeys) — ~35 min from West Hillhurst ⚠️
+- **Location:** 137 Mahogany Plaza SE (Mahogany Village, behind Sobeys) — ~35 min from West Hillhurst ⚠️ ([map](https://maps.google.com/?q=137+Mahogany+Plaza+SE,+Calgary,+AB))
 - **Prerequisites:** None
 - **Contact:** 403-278-9065 | info@pinnovate.ca
 - **More info / Book:** https://pinnovate.ca/camps/

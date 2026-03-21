@@ -11,7 +11,7 @@
 - **Drop-off/pick-up:** 8:30–9:00am drop-off | 4:00–4:30pm pick-up
 - **After-care:** Available until 5:00pm, $40/week
 - **Price:** $400/week | $365 early bird (through Mar 21, 2026)
-- **Location:** cSPACE Marda Loop, 1721 29 Ave SW, Calgary — ~15 min from West Hillhurst
+- **Location:** cSPACE Marda Loop, 1721 29 Ave SW, Calgary — ~15 min from West Hillhurst ([map](https://maps.google.com/?q=1721+29+Ave+SW,+Calgary,+AB))
 - **Prerequisites:** None
 - **Group size:** Max 16 campers, 2 professional artist instructors per class ✅ (great for introverted kids)
 - **Included:** Complimentary camp t-shirt + pizza party

@@ -12,7 +12,7 @@
 - **Indoor/Outdoor:** Outdoor (rain or shine), plus pool
 - **Hours:** 8:00am–3:45pm, Mon–Fri (full week; Aug 4–7 is 4 days)
 - **Price:** $296 (Jun 29 week) / $370 (all other weeks)
-- **Location:** UCalgary campus — ~10 min from West Hillhurst
+- **Location:** UCalgary campus — ~10 min from West Hillhurst ([map](https://maps.google.com/?q=2500+University+Dr+NW,+Calgary,+AB)) ([map](https://maps.google.com/?q=2500+University+Dr+NW,+Calgary,+AB))
 - **Prerequisites:** None
 - **More info / Book:** https://activelivingportal.ucalgary.ca/Program/totsontreks
 - **Spots:**
@@ -38,7 +38,7 @@
 - **Indoor/Outdoor:** Both — indoor climbing gym + outdoor Natural Adventure Park
 - **Hours:** 8:00am–3:45pm, Mon–Fri (full week; Aug 4–7 is 4 days)
 - **Price:** $400 (5-day weeks) / $320 (4-day week)
-- **Location:** UCalgary campus — ~10 min from West Hillhurst
+- **Location:** UCalgary campus — ~10 min from West Hillhurst ([map](https://maps.google.com/?q=2500+University+Dr+NW,+Calgary,+AB))
 - **Prerequisites:** None
 - **More info / Book:** https://activelivingportal.ucalgary.ca/Program/climbon
 - **Spots:**
@@ -60,7 +60,7 @@
 - **Indoor/Outdoor:** Both — indoor building + outdoor games + pool
 - **Hours:** 8:00am–3:45pm, Mon–Fri (full week; Aug 4–7 is 4 days)
 - **Price:** $296 (Jun 29 & Aug 4–7 weeks) / $370 (all other weeks)
-- **Location:** UCalgary campus — ~10 min from West Hillhurst
+- **Location:** UCalgary campus — ~10 min from West Hillhurst ([map](https://maps.google.com/?q=2500+University+Dr+NW,+Calgary,+AB))
 - **Prerequisites:** None
 - **More info / Book:** https://activelivingportal.ucalgary.ca/Program/minibrickbuilders
 - **Spots:**
@@ -82,7 +82,7 @@
 - **Indoor/Outdoor:** Primarily outdoor + daily indoor activities + pool
 - **Hours:** 8:00am–3:45pm (A) or 9:00am–4:45pm (B), Mon–Fri
 - **Price:** $296 (Jun 29 & Aug 4–7 weeks) / $370 (all other weeks)
-- **Location:** UCalgary campus — ~10 min from West Hillhurst
+- **Location:** UCalgary campus — ~10 min from West Hillhurst ([map](https://maps.google.com/?q=2500+University+Dr+NW,+Calgary,+AB))
 - **Prerequisites:** None
 - **More info / Book:** https://activelivingportal.ucalgary.ca/Program/minioutdoorsports
 - **Spots:**
@@ -105,7 +105,7 @@
 - **Indoor/Outdoor:** Mixed — indoor design studio + outdoor observation in downtown Calgary
 - **Hours:** 8:00am–3:45pm, Mon–Fri (full week; Aug 4–7 is 4 days)
 - **Price:** ~$370/week (shorter weeks ~$296) ⚠️ **Not confirmed** — estimated based on similar design camps
-- **Location:** 801 7 Ave SW, Calgary (SAPL downtown building) — ~15 min from West Hillhurst
+- **Location:** 801 7 Ave SW, Calgary (SAPL downtown building) — ~15 min from West Hillhurst ([map](https://maps.google.com/?q=801+7+Ave+SW,+Calgary,+AB))
 - **Prerequisites:** None
 - **More info / Book:** https://activelivingportal.ucalgary.ca/Program/achievearcitecture
 - **Spots:**
@@ -127,7 +127,7 @@
 - **Indoor/Outdoor:** Mixed — indoor design work + outdoor exploration of downtown
 - **Hours:** 8:00am–3:45pm, Mon–Fri (full week; Aug 4–7 is 4 days)
 - **Price:** ~$370/week (shorter weeks ~$296)
-- **Location:** 801 7 Ave SW, Calgary (SAPL downtown building) — ~15 min from West Hillhurst
+- **Location:** 801 7 Ave SW, Calgary (SAPL downtown building) — ~15 min from West Hillhurst ([map](https://maps.google.com/?q=801+7+Ave+SW,+Calgary,+AB))
 - **Prerequisites:** None
 - **More info / Book:** https://activelivingportal.ucalgary.ca/Program/2193
 - **Spots:**
@@ -148,7 +148,7 @@
 - **Indoor/Outdoor:** Mixed — classroom + outdoor geocaching
 - **Hours:** 9:00am–4:45pm, Mon–Fri (full week; Aug 4–7 is 4 days)
 - **Price:** $370 (5-day weeks) / $296 (4-day weeks)
-- **Location:** UCalgary campus — ~10 min from West Hillhurst
+- **Location:** UCalgary campus — ~10 min from West Hillhurst ([map](https://maps.google.com/?q=2500+University+Dr+NW,+Calgary,+AB))
 - **Prerequisites:** None
 - **More info / Book:** https://activelivingportal.ucalgary.ca/Program/2080
 - **Spots:**
@@ -169,7 +169,7 @@
 - **Indoor/Outdoor:** Indoor (film studio setup)
 - **Hours:** 9:00am–4:45pm, Mon–Fri (Jun 29 week is 4 days)
 - **Price:** $425 (5-day weeks) / $340 (4-day weeks)
-- **Location:** UCalgary campus — ~10 min from West Hillhurst
+- **Location:** UCalgary campus — ~10 min from West Hillhurst ([map](https://maps.google.com/?q=2500+University+Dr+NW,+Calgary,+AB))
 - **Prerequisites:** None
 - **More info / Book:** https://activelivingportal.ucalgary.ca/Program/Stopmotionanimation
 - **Spots:**
@@ -189,7 +189,7 @@
 - **Indoor/Outdoor:** Both — indoor model-making + outdoor exploration around UCalgary's downtown building
 - **Hours:** 8:00am–3:45pm, Mon–Fri (full week; Aug 4–7 is 4 days)
 - **Price:** ~$370/week
-- **Location:** 801 7 Ave SW, Calgary (SAPL downtown building) — ~15 min from West Hillhurst
+- **Location:** 801 7 Ave SW, Calgary (SAPL downtown building) — ~15 min from West Hillhurst ([map](https://maps.google.com/?q=801+7+Ave+SW,+Calgary,+AB))
 - **Prerequisites:** None
 - **More info / Book:** https://activelivingportal.ucalgary.ca/Program/2615
 - **Spots:**
@@ -211,7 +211,7 @@
 - **Indoor/Outdoor:** Outdoor
 - **Hours:** 8:30am–4:00pm, Mon–Fri (full week)
 - **Price:** ~$300/week
-- **Location:** UCalgary campus — ~10 min from West Hillhurst
+- **Location:** UCalgary campus — ~10 min from West Hillhurst ([map](https://maps.google.com/?q=2500+University+Dr+NW,+Calgary,+AB))
 - **Prerequisites:** None
 - **More info / Book:** https://activelivingportal.ucalgary.ca/Program/1346
 - **Spots:**
@@ -232,7 +232,7 @@
 - **Indoor/Outdoor:** Outdoor
 - **Hours:** 9:00am–3:15pm ⚠️ (ends 15 min before our 3:30pm target)
 - **Price:** $425/week
-- **Location:** UCalgary campus — ~10 min from West Hillhurst
+- **Location:** UCalgary campus — ~10 min from West Hillhurst ([map](https://maps.google.com/?q=2500+University+Dr+NW,+Calgary,+AB))
 - **Prerequisites:** None
 - **More info / Book:** https://activelivingportal.ucalgary.ca/Program/1554
 - **Spots:**
@@ -255,7 +255,7 @@
 - **Indoor/Outdoor:** Indoor
 - **Hours:** 9:00am–4:45pm, Mon–Fri
 - **Price:** $296 (Jun 29 week is 4 days)
-- **Location:** UCalgary campus — ~10 min from West Hillhurst
+- **Location:** UCalgary campus — ~10 min from West Hillhurst ([map](https://maps.google.com/?q=2500+University+Dr+NW,+Calgary,+AB))
 - **Prerequisites:** None
 - **More info / Book:** https://activelivingportal.ucalgary.ca/Program/2604
 - **Spots:**
@@ -277,7 +277,7 @@
 - **Indoor/Outdoor:** Primarily indoor gym + some outdoor
 - **Hours:** 8:30am–4:30pm, Mon–Fri (full week; Aug 4–7 is 4 days)
 - **Price:** Not listed ⚠️ — call 403-932-7373 or email cochranegym@ucalgary.ca to get pricing
-- **Location:** Spray Lake Sawmills Family Sport Centre, Cochrane — ~40 min from West Hillhurst
+- **Location:** Spray Lake Sawmills Family Sport Centre, Cochrane — ~40 min from West Hillhurst ([map](https://maps.google.com/?q=Spray+Lake+Sawmills+Family+Sport+Centre,+Cochrane,+AB))
 - **Prerequisites:** None (open to all skill levels)
 - **More info / Book:** https://active-living.ucalgary.ca/programs/ucalgary-summer-camps/cochrane-gymnastics-camps
 - **Spots:**

@@ -39,7 +39,7 @@ Notes:
 - **Indoor/Outdoor:** ...
 - **Hours:** ... Mon–Fri (full week) or note if shorter
 - **Price:** $X/week (note if first week is cheaper)
-- **Location:** ... — ~X min from West Hillhurst
+- **Location:** ... — ~X min from West Hillhurst ([map](https://maps.google.com/?q=ADDRESS))
 - **Prerequisites:** None / [what's needed]
 - **More info / Book:** [URL]
 - **Spots:**

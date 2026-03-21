@@ -10,7 +10,7 @@
 - **Hours:** Core camp hours TBD — extended care available **7:30am–5:30pm** ✅
 - **Before/After care:** 7:30am drop-off, 5:30pm pickup — Calgary location ✅
 - **Price:** ⚠️ Not listed publicly — call 587-892-6100 or visit clip-clop.ca to confirm
-- **Location:** Carousel Ridge Stables, 254207 Bearspaw Rd NW, Calgary — ~20–25 min from West Hillhurst ✅
+- **Location:** Carousel Ridge Stables, 254207 Bearspaw Rd NW, Calgary — ~20–25 min from West Hillhurst ✅ ([map](https://maps.google.com/?q=254207+Bearspaw+Rd+NW,+Calgary,+AB))
 - **Prerequisites:** None — beginner-friendly
 - **Sibling discount:** Automatically applied at registration
 - **More info / Book:** https://www.clip-clop.ca | 587-892-6100

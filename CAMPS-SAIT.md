@@ -5,7 +5,7 @@
 - **Hours:** 9:00am–4:00pm, Mon–Fri
 - **Price:** $400/session
 - **Before/after care:** Free, no registration needed
-- **Location:** MB026, Stan Grad Centre, SAIT Main Campus, 1301 16 Ave NW — ~15 min from West Hillhurst
+- **Location:** MB026, Stan Grad Centre, SAIT Main Campus, 1301 16 Ave NW — ~15 min from West Hillhurst ([map](https://maps.google.com/?q=1301+16+Ave+NW,+Calgary,+AB))
 - **Swimming:** None
 - **Registration:** https://saitsummercamps.campbrainregistration.com
 - **Contact:** 403-210-5650 | youth.programs@sait.ca

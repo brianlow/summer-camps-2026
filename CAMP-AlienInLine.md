@@ -17,11 +17,11 @@
 
 | Dates | Location | Distance from West Hillhurst | Spots (Age 6–8) |
 |---|---|---|---|
-| July 6–10 | Triwood Arena, NW | ~10 min ✅ | Waitlist |
-| July 20–24 | Huntington Hills Community Assoc., NW | ~20 min ✅ | Available |
-| Aug 4–7 (4 days) | North Glenmore Park Community Assoc., SW | ~20 min | Waitlist |
+| July 6–10 | [Triwood Arena, NW](https://maps.google.com/?q=Triwood+Arena,+Calgary,+AB) | ~10 min ✅ | Waitlist |
+| July 20–24 | [Huntington Hills Community Assoc., NW](https://maps.google.com/?q=Huntington+Hills+Community+Association,+Calgary,+AB) | ~20 min ✅ | Available |
+| Aug 4–7 (4 days) | [North Glenmore Park Community Assoc., SW](https://maps.google.com/?q=North+Glenmore+Park+Community+Association,+Calgary,+AB) | ~20 min | Waitlist |
 | Aug 10–14 | (SW Calgary location) | ~20 min | Available |
-| Aug 17–21 | Montgomery Community Association, NW | ~10 min ✅ | Waitlist |
-| Aug 24–28 | Edgemont Community Association, NW | ~25 min ✅ | Available |
+| Aug 17–21 | [Montgomery Community Association, NW](https://maps.google.com/?q=Montgomery+Community+Association,+Calgary,+AB) | ~10 min ✅ | Waitlist |
+| Aug 24–28 | [Edgemont Community Association, NW](https://maps.google.com/?q=Edgemont+Community+Association,+Calgary,+AB) | ~25 min ✅ | Available |
 
 > ⚠️ **Note:** The camp name is "Alien **In-Line**" — this is **inline skating** (rollerblades), not quad roller skates. Technique transfers but it's not identical to rollerskating. Confirm hours (full day start/end) when booking.

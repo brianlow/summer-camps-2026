@@ -10,7 +10,7 @@
 - **Hours:** 9:00am–4:00pm, Mon–Fri (drop-off 8:45am)
 - **Price:** $310/week | $285/week early bird (pay by Apr 30, 2026)
 - **Full month (4 weeks):** $1,160 | $1,060 early bird
-- **Location:** #2 12127 44 St SE, Calgary — ~30–35 min from West Hillhurst ⚠️ (far — SE)
+- **Location:** #2 12127 44 St SE, Calgary — ~30–35 min from West Hillhurst ⚠️ (far — SE) ([map](https://maps.google.com/?q=12127+44+St+SE,+Calgary,+AB))
 - **Prerequisites:** None (open to beginners and non-students)
 - **What's included:** Karate training, cultural lessons, self-defense, camp t-shirt, daily snack, end-of-week certificate
 - **More info / Book:** https://empowkarate.com/

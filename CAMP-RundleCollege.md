@@ -29,7 +29,7 @@ Multiple themed camps for Grades 1–3 (ages ~6–8). Camps are run in AM + PM "
 - **Indoor/Outdoor:** Mixed (indoor facilities + outdoor space on campus)
 - **Hours:** 8:30am–3:30pm Mon–Fri (extended care 8:00–8:30am and 3:30–4:00pm at no charge)
 - **Price:** $340–$420/week (combo AM+PM)
-- **Location:** 7615 17 Avenue SW, Calgary — ~20–25 min from West Hillhurst
+- **Location:** 7615 17 Avenue SW, Calgary — ~20–25 min from West Hillhurst ([map](https://maps.google.com/?q=7615+17+Ave+SW,+Calgary,+AB))
 - **Prerequisites:** None
 - **More info / Book:** https://rundle.ab.ca/summercamps/
 - **Phone / Email:** 403-282-8411 | summercamps@rundle.ab.ca

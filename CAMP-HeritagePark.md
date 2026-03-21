@@ -10,7 +10,7 @@
 - **Hours:** 9:30am–4:00pm Mon–Fri
 - **Before/After Care:** Pre-care from 8:30am, aftercare to 5:00pm (cost not listed)
 - **Price:** $325/week (GST exempt); Annual members and Heritage Club VIPs get 15% off
-- **Location:** Heritage Park Historical Village, 1900 Heritage Dr SW — ~20–25 min from West Hillhurst
+- **Location:** Heritage Park Historical Village, 1900 Heritage Dr SW — ~20–25 min from West Hillhurst ([map](https://maps.google.com/?q=1900+Heritage+Dr+SW,+Calgary,+AB))
 - **Prerequisites:** None
 - **More info / Book:** https://heritagepark.ca/summer-camps/
 - **Spots:**

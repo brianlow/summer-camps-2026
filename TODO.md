@@ -1,9 +1,5 @@
 # Camp Research TODO
 
-Leads still needing a phone call or direct contact before a decision can be made.
-
----
-
 ## 📞 Needs a phone call / direct contact
 
 ### Aliki's Art House ✅ Close (NW)
@@ -83,5 +79,5 @@ Leads still needing a phone call or direct contact before a decision can be made
 | Pinnovate DIY Studio | CAMP-Pinnovate.md |
 | Affinity Academy | CAMP-AffinityAcademy.md |
 | Camp STEAM Canada | CAMP-Steam.md |
-| SAIT Summer Camps | CAMPS-SAIT.md |
-| UCalgary Summer Camps | CAMPS-UofC.md |
+| University of Calgary | CAMPS-UofC.md |
+| SAIT | CAMPS-SAIT.md |

@@ -58,6 +58,9 @@
 | Country Trails Riding | Age 8–14 — too old | No |
 | Humblehorse Ranch | Age 9+ — too old | No |
 | Element Martial Arts | Ends 3:00pm; only 2 weeks; far SE | CAMP-ElementMA.md (flagged) |
+| Elbow Valley Outdoor Camp | Restricted to Elbow Valley residents only | No |
+| Skating Camp | Child doesn't know how to skate | No |
+| Shooting Stars Summer Intensive | Evening only (4:10–7:30pm) | No |
 
 ---
 
@@ -81,3 +84,4 @@
 | Camp STEAM Canada | CAMP-Steam.md |
 | University of Calgary | CAMPS-UofC.md |
 | SAIT | CAMPS-SAIT.md |
+| Steamoji (Calgary West + North) | CAMPS-Steamoji.md |

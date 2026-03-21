@@ -104,7 +104,7 @@
 
 - **Indoor/Outdoor:** Mixed — indoor design studio + outdoor observation in downtown Calgary
 - **Hours:** 8:00am–3:45pm, Mon–Fri (full week; Aug 4–7 is 4 days)
-- **Price:** ~$370/week (shorter weeks ~$296)
+- **Price:** ~$370/week (shorter weeks ~$296) ⚠️ **Not confirmed** — estimated based on similar design camps
 - **Location:** UCalgary downtown building — ~15 min from West Hillhurst
 - **Prerequisites:** None
 - **More info / Book:** https://activelivingportal.ucalgary.ca/Program/achievearcitecture
@@ -242,6 +242,8 @@
 | Aug 10–14 | 41 |
 | Aug 17–21 | 12 |
 
+> ⚠️ **Decision needed:** Ends at 3:15pm — 15 min before our 3:30pm preference. Keep or cut?
+
 ---
 
 ## Early Technology *(Grades 1-2 | Mixed)*
@@ -274,7 +276,7 @@
 
 - **Indoor/Outdoor:** Primarily indoor gym + some outdoor
 - **Hours:** 8:30am–4:30pm, Mon–Fri (full week; Aug 4–7 is 4 days)
-- **Price:** Not listed — contact 403-932-7373 or cochranegym@ucalgary.ca
+- **Price:** Not listed ⚠️ — call 403-932-7373 or email cochranegym@ucalgary.ca to get pricing
 - **Location:** Spray Lake Sawmills Family Sport Centre, Cochrane — ~40 min from West Hillhurst
 - **Prerequisites:** None (open to all skill levels)
 - **More info / Book:** https://active-living.ucalgary.ca/programs/ucalgary-summer-camps/cochrane-gymnastics-camps

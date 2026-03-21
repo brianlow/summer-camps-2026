@@ -43,8 +43,7 @@ Notes:
 ```
 
 ## Filtering Rules
-- **Hours:** End time must be 3:30pm or later. Half-day camps excluded.
+- **Hours:** End time must be 3:30pm or later. Half-day camps excluded. Check for aftercare.
 - **Skating:** Child does not know how to skate — exclude skating camps
 - **Distance:** Nearby Calgary (~10-15 min) is ideal. Cochrane (~40 min) — keeping as backup
 - **Gender:** Girls-only and mixed both OK
-

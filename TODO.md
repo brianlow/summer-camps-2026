@@ -12,10 +12,17 @@
 
 ### City of Calgary — Arts Ventures Summer Day Camp ✅ Very close (NW)
 - **What:** Visual arts camp — drawing, painting, mixed media, sculpture. Take-home artwork. 9am–4pm.
-- **Ages:** Listed as 7–8 years — **need to confirm if a child entering Grade 2 (who may be 6 turning 7) qualifies.**
+- **Ages:** 7–12 years — **need to confirm if a child entering Grade 2 (who may be 6 turning 7) qualifies for the 7+ age group.**
 - **Location:** North Mount Pleasant Arts Centre (NW Calgary) — ~8 min from West Hillhurst ✅✅
-- **Action:** Call 403-268-3800 — ask: (1) Does a child entering Grade 2 who turns 7 during camp qualify for the 7–8 age group? (2) What are the 2026 dates and price per week?
+- **Action:** Call 403-268-3800 — ask: (1) Does a child entering Grade 2 who turns 7 during camp qualify? (2) What are the 2026 dates and price per week?
 - **Website:** https://liveandplay.calgary.ca/REGPROG/public/booking/CourseTypes/AVSDCK
+
+### City of Calgary — Rock Climbing Summer Day Camp ✅ Close
+- **What:** Daily bouldering and climbing walls, 2 hours of climbing instruction per day. 9am–4pm.
+- **Ages:** 5–12 years — she qualifies ✅
+- **Location:** Unclear — City recreation facility (likely NW/W Calgary). Registration through liveandplay.calgary.ca.
+- **Action:** Call 403-268-3800 — ask: (1) Which facility hosts the climbing camp? (2) What are the 2026 dates and price per week? (3) Any spots available?
+- **Website:** https://www.calgary.ca/parks-rec-programs/day-camps/summer.html
 
 ### Clip Clop — Horseback Riding
 - **What:** Beginner-friendly horseback riding + horse care camp. CAMP file written — price not public.
@@ -39,13 +46,6 @@
 
 ---
 
-## 🔍 Still needs research
-
-- Calgary Zoo Summer Camps — https://www.calgaryzoo.com/education/zoo-camp/summer-camps/
-- City of Calgary Day Camps (general) — https://www.calgary.ca/parks-rec-programs/day-camps/summer.html
-
----
-
 ## ⏰ Excluded (for reference)
 
 | Camp | Reason | CAMP file? |
@@ -61,6 +61,8 @@
 | Elbow Valley Outdoor Camp | Restricted to Elbow Valley residents only | No |
 | Skating Camp | Child doesn't know how to skate | No |
 | Shooting Stars Summer Intensive | Evening only (4:10–7:30pm) | No |
+| Steamoji (Calgary West + North) | All camps end 3:00pm — below 3:30pm cutoff; no aftercare listed | CAMPS-Steamoji.md |
+| Calgary Zoo Summer Camps | Completely sold out for all 2026 sessions (all age groups); no waitlist | No |
 
 ---
 

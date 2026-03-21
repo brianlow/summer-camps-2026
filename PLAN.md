@@ -3,8 +3,15 @@
 We are planning summer camps for my daughter
 
 ## Context
-- **Child:** 6-year-old girl, turning 7 during the summer, entering Grade 2 after summer
-- **Parent location:** West Hillhurst, Calgary (NW Calgary, ~10 min from UCalgary campus)
+- **Child:**
+  - 6-year-old girl, turning 7 during the summer, entering Grade 2 after summer
+  - tends towards introverted, prefers indoors, prefers being around girls
+  - play style: storytelling rather than building
+  - top tier interests: arts, crafts, reading, unicorns,
+  - mid tier interests: dancing, singing, lego, scootering, rollerskating
+- **Family:**
+  - location: West Hillhurst, Calgary (NW Calgary, ~10 min from UCalgary campus)
+  - would like camps geared towards her interests but also want one or two that will be outdoors and/or skills focused
 
 ## Process
 

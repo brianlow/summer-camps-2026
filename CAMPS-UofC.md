@@ -105,7 +105,7 @@
 - **Indoor/Outdoor:** Mixed — indoor design studio + outdoor observation in downtown Calgary
 - **Hours:** 8:00am–3:45pm, Mon–Fri (full week; Aug 4–7 is 4 days)
 - **Price:** ~$370/week (shorter weeks ~$296) ⚠️ **Not confirmed** — estimated based on similar design camps
-- **Location:** UCalgary downtown building — ~15 min from West Hillhurst
+- **Location:** 801 7 Ave SW, Calgary (SAPL downtown building) — ~15 min from West Hillhurst
 - **Prerequisites:** None
 - **More info / Book:** https://activelivingportal.ucalgary.ca/Program/achievearcitecture
 - **Spots:**
@@ -127,7 +127,7 @@
 - **Indoor/Outdoor:** Mixed — indoor design work + outdoor exploration of downtown
 - **Hours:** 8:00am–3:45pm, Mon–Fri (full week; Aug 4–7 is 4 days)
 - **Price:** ~$370/week (shorter weeks ~$296)
-- **Location:** UCalgary downtown building — ~15 min from West Hillhurst
+- **Location:** 801 7 Ave SW, Calgary (SAPL downtown building) — ~15 min from West Hillhurst
 - **Prerequisites:** None
 - **More info / Book:** https://activelivingportal.ucalgary.ca/Program/2193
 - **Spots:**
@@ -189,7 +189,7 @@
 - **Indoor/Outdoor:** Both — indoor model-making + outdoor exploration around UCalgary's downtown building
 - **Hours:** 8:00am–3:45pm, Mon–Fri (full week; Aug 4–7 is 4 days)
 - **Price:** ~$370/week
-- **Location:** UCalgary downtown building — ~15 min from West Hillhurst
+- **Location:** 801 7 Ave SW, Calgary (SAPL downtown building) — ~15 min from West Hillhurst
 - **Prerequisites:** None
 - **More info / Book:** https://activelivingportal.ucalgary.ca/Program/2615
 - **Spots:**

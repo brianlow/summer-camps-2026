@@ -56,7 +56,7 @@ Source: `uofc-2026-03-16.pdf` (spots as of 2026-03-16)
 
 **For her:** Build giant LEGO cities, bridges, vehicles, and planes with a team. Also outdoor games and pool time with lifeguard games.
 
-**For you:** Creativity and problem-solving through LEGO construction challenges (Grades 4-6 add SPIKE robotics, not relevant here). Includes swimming (swim test required, lifejackets available). Pool closed Aug 18–22.
+**For you:** Creativity and problem-solving through LEGO construction challenges. Includes swimming (swim test required, lifejackets available). Pool closed Aug 18–22.
 
 - **Indoor/Outdoor:** Both — indoor building + outdoor games + pool
 - **Hours:** 8:00am–3:45pm, Mon–Fri (full week; Aug 4–7 is 4 days)
@@ -224,7 +224,7 @@ Source: `uofc-2026-03-16.pdf` (spots as of 2026-03-16)
 
 ---
 
-## Dinos Track & Field — Ready, Set, Go! *(Grades 2-5 | Mixed)*
+## Dinos Track & Field — Ready, Set, Go! *(Grades 2-5 | Mixed)* ⚠️ Ends early
 
 **For her:** Run, jump, and throw like a real athlete! Train for different track events and compete in a mini track meet at the end of the week.
 
@@ -249,7 +249,7 @@ Source: `uofc-2026-03-16.pdf` (spots as of 2026-03-16)
 
 **For her:** Build circuits, explore electrical parts, and program a robot using colours — no typing needed!
 
-**For you:** Hands-on intro to programming concepts and electronics for young kids. Part of UCalgary's Schulich School of Engineering series. No swimming mentioned.
+**For you:** Hands-on intro to programming concepts and electronics for young kids. Part of UCalgary's Schulich School of Engineering series. Indoor. No swimming.
 
 - **Indoor/Outdoor:** Indoor
 - **Hours:** 9:00am–4:45pm, Mon–Fri
@@ -271,11 +271,11 @@ Source: `uofc-2026-03-16.pdf` (spots as of 2026-03-16)
 
 **For her:** Gymnastics with a fun theme each week — things like Circus Tricks, Wizards, or Beach week. Mix of gym skills, games, crafts, and outdoor activities.
 
-**For you:** Recreational gymnastics for all experience levels. Each week has a different fun theme. Open to all skill levels. Indoor gym + some outdoor time. No swimming mentioned.
+**For you:** Recreational gymnastics for all experience levels. Each week has a different fun theme. Indoor gym + some outdoor time. No swimming.
 
 - **Indoor/Outdoor:** Primarily indoor gym + some outdoor
 - **Hours:** 8:30am–4:30pm, Mon–Fri (full week; Aug 4–7 is 4 days)
-- **Price:** Not listed on website — contact 403-932-7373 or cochranegym@ucalgary.ca
+- **Price:** Not listed — contact 403-932-7373 or cochranegym@ucalgary.ca
 - **Location:** Spray Lake Sawmills Family Sport Centre, Cochrane — ~40 min from West Hillhurst
 - **Prerequisites:** None (open to all skill levels)
 - **More info / Book:** https://active-living.ucalgary.ca/programs/ucalgary-summer-camps/cochrane-gymnastics-camps

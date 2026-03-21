@@ -1,181 +1,291 @@
-# UCalgary Summer Camps 2026 — Suitable for a 6-Year-Old Girl Entering Grade 2
-
-Source: uofc-2026-03-16.pdf
-
----
-
-## Achieve Architecture *(Entering Grades 2-4)*
-Design and build — architecture-themed camp.
-
-| Event ID | Dates | Time | Spots |
-|---|---|---|---|
-| S26NDAA201 | Jun 29 – Jul 3 | 8:00am–3:45pm | 9 |
-| S26NDAA202 | Jul 6–10 | 8:00am–3:45pm | 1 |
-| S26NDAA205 | Jul 27–31 | 8:00am–3:45pm | 4 |
+# UCalgary Summer Camps 2026
+6-year-old girl entering Grade 2 | West Hillhurst, Calgary
+Source: `uofc-2026-03-16.pdf` (spots as of 2026-03-16)
 
 ---
 
-## City Building *(Entering Grades 2-4)*
-Urban design and planning themed camp.
+## Tots on Treks *(Grades 1-2 | Mixed)*
 
-| Event ID | Dates | Time | Spots |
-|---|---|---|---|
-| S26NDCB204 | Jul 20–24 | 8:00am–3:45pm | 9 |
-| S26NDCB206 | Aug 4–7 | 8:00am–3:45pm | 8 |
+**For her:** Go outside every day to explore nature — catching bugs and critters, hiking trails, visiting the zoo, splashing in the pool, and a day trip to Bowness Park. Arts and crafts too. Runs rain or shine.
 
----
+**For you:** Outdoor nature camp with a varied daily schedule. Includes swimming (swim test required, lifejackets available). Pool closed Aug 18–22 for maintenance.
 
-## Climb On! *(Grades 2-3)*
-Climbing camp.
+- **Indoor/Outdoor:** Outdoor (rain or shine), plus pool
+- **Hours:** 8:00am–3:45pm, Mon–Fri (full week; Aug 4–7 is 4 days)
+- **Price:** $296 (Jun 29 week) / $370 (all other weeks)
+- **Location:** UCalgary campus — ~10 min from West Hillhurst
+- **Prerequisites:** None
+- **More info / Book:** https://activelivingportal.ucalgary.ca/Program/totsontreks
+- **Spots:**
 
-| Event ID | Dates | Time | Spots |
-|---|---|---|---|
-| S26OYCL211 | Jun 29 – Jul 3 | 8:00am–3:45pm | 6 |
-
----
-
-## Dinos Soccer Camps — Girls *(Girls Grades 2-3)*
-Girls-only soccer camp run by UCalgary Dinos.
-
-| Event ID | Dates | Time | Spots |
-|---|---|---|---|
-| S26YDSG101 | Jun 29 – Jul 3 | 8:30am–4:00pm | 23 |
-| S26YDSG104 | Jul 20–24 | 8:30am–4:00pm | 14 |
+| Dates | Spots |
+|---|---|
+| Jun 29 – Jul 3 | 32 across 3 groups |
+| Jul 6–10 | 4 |
+| Jul 20–24 | 7 |
+| Jul 27–31 | 17 across 3 groups |
+| Aug 4–7 (4 days) | 16 across 2 groups |
+| Aug 10–14 | 11 across 2 groups |
+| Aug 17–21 | 9 |
 
 ---
 
-## Dinos Track & Field — Ready, Set, Go! *(Grades 2-5)*
-Track and field fundamentals camp.
+## Climb On! *(Grades 2-3 | Mixed)*
 
-| Event ID | Dates | Time | Spots |
-|---|---|---|---|
-| S26YDTF107 | Aug 10–14 | 8:30am–3:45pm | 41 |
-| S26YDTF108 | Aug 17–21 | 8:30am–3:45pm | 12 |
+**For her:** Climb walls and boulders indoors every day, then head outside to the adventure park for field games and swimming.
 
----
+**For you:** Combination of indoor climbing gym and outdoor play. Includes swimming. Builds confidence and physical skills. No experience needed.
 
-## Early Technology *(Entering Grades 1-2)*
-Introduction to technology concepts for younger kids.
+- **Indoor/Outdoor:** Both — indoor climbing gym + outdoor Natural Adventure Park
+- **Hours:** 8:00am–3:45pm, Mon–Fri (full week; Aug 4–7 is 4 days)
+- **Price:** $400 (5-day weeks) / $320 (4-day week)
+- **Location:** UCalgary campus — ~10 min from West Hillhurst
+- **Prerequisites:** None
+- **More info / Book:** https://activelivingportal.ucalgary.ca/Program/climbon
+- **Spots:**
 
-| Event ID | Dates | Time | Spots |
-|---|---|---|---|
-| S26MMET101 | Jun 29 – Jul 3 | 9:00am–4:45pm | 7 |
+| Dates | Spots |
+|---|---|
+| Jun 29 – Jul 3 | 6 |
 
----
-
-## Elbow Valley Outdoor Camp *(Entering Grades 2-4)*
-Outdoor nature camp in the Elbow Valley area.
-
-| Event ID | Dates | Time | Spots |
-|---|---|---|---|
-| S26OYEV107 | Aug 10–14 | 8:00am–3:30pm | 13 |
+*No other Grade 2-3 sessions with spots remaining.*
 
 ---
 
-## GeoVenture *(Entering Grades 2-4)*
-Geography and earth science exploration camp.
+## Mini Brick Builders *(Grades 2-3 | Mixed)*
 
-| Event ID | Dates | Time | Spots |
-|---|---|---|---|
-| S26JYGV201 | Jun 29 – Jul 3 | 9:00am–4:45pm | 9 |
-| S26JYGV206 | Aug 4–7 | 9:00am–4:45pm | 13 |
+**For her:** Build giant LEGO cities, bridges, vehicles, and planes with a team. Also outdoor games and pool time with lifeguard games.
 
----
+**For you:** Creativity and problem-solving through LEGO construction challenges (Grades 4-6 add SPIKE robotics, not relevant here). Includes swimming (swim test required, lifejackets available). Pool closed Aug 18–22.
 
-## Gymnastics Summer Camps — Recreation, Cochrane *(Ages 6-13)*
-Full-day recreational gymnastics camp in Cochrane.
+- **Indoor/Outdoor:** Both — indoor building + outdoor games + pool
+- **Hours:** 8:00am–3:45pm, Mon–Fri (full week; Aug 4–7 is 4 days)
+- **Price:** $296 (Jun 29 & Aug 4–7 weeks) / $370 (all other weeks)
+- **Location:** UCalgary campus — ~10 min from West Hillhurst
+- **Prerequisites:** None
+- **More info / Book:** https://activelivingportal.ucalgary.ca/Program/minibrickbuilders
+- **Spots:**
 
-| Event ID | Dates | Time | Spots |
-|---|---|---|---|
-| S26CBFD62 | Jul 6–10 | 8:30am–4:30pm | 3 |
-| S26CCFD63 | Jul 13–17 | 8:30am–4:30pm | 2 |
-| S26CDFD64 | Jul 20–24 | 8:30am–4:30pm | 7 |
-| S26CEFD65 | Jul 27–31 | 8:30am–4:30pm | 7 |
-| S26CFFD66 | Aug 4–7 (Tue–Fri) | 8:30am–4:30pm | 9 |
-| S26CGFD67 | Aug 10–14 | 8:30am–4:30pm | 3 |
+| Dates | Spots |
+|---|---|
+| Aug 17–21 | 1 ⚠️ |
+
+*Only 1 spot remaining — register urgently if interested.*
 
 ---
 
-## Jr. LEGO™ Stop Motion Animation *(Entering Grades 2-4)*
-Creative filmmaking with LEGO bricks.
+## Mini Outdoor Sports & Games *(Grades 2-3 | Mixed)*
 
-| Event ID | Dates | Time | Spots |
-|---|---|---|---|
-| S26YFJL101 | Jun 29 – Jul 3 | 9:00am–4:45pm | 13 |
+**For her:** A different sport every day — soccer, kickball, capture the flag, baseball, ultimate frisbee, dodgeball, relay races, cricket — plus pool games with the lifeguard.
 
----
+**For you:** High-energy, varied outdoor sports camp. Includes swimming (swim test required, lifejackets available). No swimming Aug 4 (statutory holiday) or Aug 18–22 (maintenance).
 
-## Landscape Lab *(Entering Grades 2-4)*
-Landscape design and architecture camp.
+- **Indoor/Outdoor:** Primarily outdoor + daily indoor activities + pool
+- **Hours:** 8:00am–3:45pm (A) or 9:00am–4:45pm (B), Mon–Fri
+- **Price:** $296 (Jun 29 & Aug 4–7 weeks) / $370 (all other weeks)
+- **Location:** UCalgary campus — ~10 min from West Hillhurst
+- **Prerequisites:** None
+- **More info / Book:** https://activelivingportal.ucalgary.ca/Program/minioutdoorsports
+- **Spots:**
 
-| Event ID | Dates | Time | Spots |
-|---|---|---|---|
-| S26NDLL203 | Jul 13–17 | 8:00am–3:45pm | 14 |
-| S26NDLL205 | Jul 27–31 | 8:00am–3:45pm | 11 |
-| S26NDLL206 | Aug 4–7 | 8:00am–3:45pm | 15 |
+| Dates | Spots |
+|---|---|
+| Jun 29 – Jul 3 | 1 ⚠️ |
+| Jul 13–17 | 1 ⚠️ |
 
----
-
-## Mini Brick Builders *(Entering Grades 2-3)*
-Building and construction camp using bricks/blocks.
-
-| Event ID | Dates | Time | Spots |
-|---|---|---|---|
-| S26YMBB218 | Aug 17–21 | 8:00am–3:45pm | 1 |
+*Very few spots remaining — register urgently if interested.*
 
 ---
 
-## Mini Outdoor Sports & Games *(Entering Grades 2-3)*
-Variety of outdoor sports and games.
+## Achieve Architecture *(Grades 2-4 | Mixed)*
 
-| Event ID | Dates | Time | Spots |
-|---|---|---|---|
-| S26YMOS221 | Jun 29 – Jul 3 | 9:00am–4:45pm | 1 |
-| S26YMOS223 | Jul 13–17 | 9:00am–4:45pm | 1 |
+**For her:** Design and build your own buildings! Draw plans, make models, and get inspired by real buildings in Calgary. Led by university architecture students.
 
----
+**For you:** Design-thinking camp grounded in real architecture practice — materials, scale, drawing, and model-making. Run by UCalgary School of Architecture students. No swimming.
 
-## Shooting Stars Summer Intensive *(Grades 1-3)* — Evening
-Gymnastics intensive (evening sessions).
+- **Indoor/Outdoor:** Mixed — indoor design studio + outdoor observation in downtown Calgary
+- **Hours:** 8:00am–3:45pm, Mon–Fri (full week; Aug 4–7 is 4 days)
+- **Price:** ~$370/week (shorter weeks ~$296)
+- **Location:** UCalgary downtown building — ~15 min from West Hillhurst
+- **Prerequisites:** None
+- **More info / Book:** https://activelivingportal.ucalgary.ca/Program/achievearcitecture
+- **Spots:**
 
-| Event ID | Dates | Time | Spots |
-|---|---|---|---|
-| S26GCSS380 | Jul 13–16 | 4:10pm–7:30pm | 5 |
-| S26GCSS480 | Jul 20–23 | 4:10pm–7:30pm | 7 |
-| S26GCSS580 | Jul 27–30 | 4:10pm–7:30pm | 7 |
-| S26GCSS780 | Aug 10–13 | 4:10pm–7:30pm | 6 |
-| S26GCSS880 | Aug 17–20 | 4:10pm–7:30pm | 7 |
-
----
-
-## Skating Camp *(Grades 2-3)*
-Ice skating skills camp.
-
-| Event ID | Dates | Time | Spots |
-|---|---|---|---|
-| S26YSKC103 | Jul 13–17 (Group 1) | 9:00am–4:45pm | 2 |
-| S26YSKC104 | Jul 13–17 (Group 2) | 9:00am–4:45pm | 3 |
-| S26YSKC105 | Jul 20–24 (Group 1) | 9:00am–4:45pm | 2 |
-| S26YSKC106 | Jul 20–24 (Group 2) | 9:00am–4:45pm | 12 |
-| S26YSKC107 | Jul 27–31 (Group 1) | 9:00am–4:45pm | 4 |
+| Dates | Spots |
+|---|---|
+| Jun 29 – Jul 3 | 9 |
+| Jul 6–10 | 1 ⚠️ |
+| Jul 27–31 | 4 |
 
 ---
 
-## Tots on Treks *(Grades 1-2)*
-Outdoor hiking and nature exploration for younger kids.
+## City Building *(Grades 2-4 | Mixed)*
 
-| Event ID | Dates | Time | Spots |
-|---|---|---|---|
-| S26OYAO101 | Jun 29 – Jul 3 (Group 1) | 8:00am–3:45pm | 6 |
-| S26OYAO111 | Jun 29 – Jul 3 (Group 2) | 8:00am–3:45pm | 13 |
-| S26OYAO121 | Jun 29 – Jul 3 (Group 3) | 8:00am–3:45pm | 13 |
-| S26OYAO122 | Jul 6–10 (Group 3) | 8:00am–3:45pm | 4 |
-| S26OYAO124 | Jul 20–24 (Group 3) | 8:00am–3:45pm | 7 |
-| S26OYAO105 | Jul 27–31 (Group 1) | 8:00am–3:45pm | 1 |
-| S26OYAO115 | Jul 27–31 (Group 2) | 8:00am–3:45pm | 6 |
-| S26OYAO125 | Jul 27–31 (Group 3) | 8:00am–3:45pm | 10 |
-| S26OYAO116 | Aug 4–7 (Group 2) | 8:00am–3:45pm | 5 |
-| S26OYAO126 | Aug 4–7 (Group 3) | 8:00am–3:45pm | 11 |
-| S26OYAO117 | Aug 10–14 (Group 2) | 8:00am–3:45pm | 1 |
-| S26OYAO127 | Aug 10–14 (Group 3) | 8:00am–3:45pm | 10 |
-| S26OYAO128 | Aug 17–21 (Group 3) | 8:00am–3:45pm | 9 |
+**For her:** Use the real streets of downtown Calgary to design your own city! Map neighbourhoods, build models, and come up with ideas to make the city better.
+
+**For you:** Urban planning and design camp using downtown Calgary as a hands-on lab. Explores mapping, materials, and model-making. Led by UCalgary architecture students. No swimming.
+
+- **Indoor/Outdoor:** Mixed — indoor design work + outdoor exploration of downtown
+- **Hours:** 8:00am–3:45pm, Mon–Fri (full week; Aug 4–7 is 4 days)
+- **Price:** ~$370/week (shorter weeks ~$296)
+- **Location:** UCalgary downtown building — ~15 min from West Hillhurst
+- **Prerequisites:** None
+- **More info / Book:** https://activelivingportal.ucalgary.ca/Program/2193
+- **Spots:**
+
+| Dates | Spots |
+|---|---|
+| Jul 20–24 | 9 |
+| Aug 4–7 (4 days) | 8 |
+
+---
+
+## GeoVenture *(Grades 2-4 | Mixed)*
+
+**For her:** Explore geography using cool digital maps (Google Earth, GIS) to solve real-world puzzles about cities, animals, and rivers. Go geocaching outside!
+
+**For you:** Geography and earth science camp combining digital mapping tools with outdoor geocaching. Explores urban planning, habitats, and natural systems. Run with UCalgary Geography department. No swimming.
+
+- **Indoor/Outdoor:** Mixed — classroom + outdoor geocaching
+- **Hours:** 9:00am–4:45pm, Mon–Fri (full week; Aug 4–7 is 4 days)
+- **Price:** $370 (5-day weeks) / $296 (4-day weeks)
+- **Location:** UCalgary campus — ~10 min from West Hillhurst
+- **Prerequisites:** None
+- **More info / Book:** https://activelivingportal.ucalgary.ca/Program/2080
+- **Spots:**
+
+| Dates | Spots |
+|---|---|
+| Jun 29 – Jul 3 | 9 |
+| Aug 4–7 (4 days) | 13 |
+
+---
+
+## Jr. LEGO™ Stop Motion Animation *(Grades 2-4 | Mixed)*
+
+**For her:** Make your own LEGO movie! Write the story, build the sets, film it with a real camera, and edit it — then show it at a mini film festival at the end of the week.
+
+**For you:** Full filmmaking process — pre-production, production, post-production — using LEGO, MacBooks, and 4K cameras. Delivered by Film Camp in a Box. Entirely indoor. No swimming.
+
+- **Indoor/Outdoor:** Indoor (film studio setup)
+- **Hours:** 9:00am–4:45pm, Mon–Fri (Jun 29 week is 4 days)
+- **Price:** $425 (5-day weeks) / $340 (4-day weeks)
+- **Location:** UCalgary campus — ~10 min from West Hillhurst
+- **Prerequisites:** None
+- **More info / Book:** https://activelivingportal.ucalgary.ca/Program/Stopmotionanimation
+- **Spots:**
+
+| Dates | Spots |
+|---|---|
+| Jun 29 – Jul 3 (4 days) | 13 |
+
+---
+
+## Landscape Lab *(Grades 2-4 | Mixed)*
+
+**For her:** Design parks and outdoor spaces! Work with real materials like sticks, soil, and stones to build models of gardens and green spaces in the city.
+
+**For you:** Landscape architecture camp exploring how designed outdoor spaces connect nature and people. Led by UCalgary architecture students. Explores sustainable design. No swimming.
+
+- **Indoor/Outdoor:** Both — indoor model-making + outdoor exploration around UCalgary's downtown building
+- **Hours:** 8:00am–3:45pm, Mon–Fri (full week; Aug 4–7 is 4 days)
+- **Price:** ~$370/week
+- **Location:** UCalgary downtown building — ~15 min from West Hillhurst
+- **Prerequisites:** None
+- **More info / Book:** https://activelivingportal.ucalgary.ca/Program/2615
+- **Spots:**
+
+| Dates | Spots |
+|---|---|
+| Jul 13–17 | 14 |
+| Jul 27–31 | 11 |
+| Aug 4–7 (4 days) | 15 |
+
+---
+
+## Dinos Soccer — Girls *(Girls Grades 2-3 | Girls only)*
+
+**For her:** Play soccer all day with other girls! Learn to dribble, pass, and shoot in drills and real games. Coached by real UCalgary Dinos players.
+
+**For you:** Girls-only skills development camp with games, drills, and scrimmage, run by current and former UCalgary athletes. Outdoor. No swimming.
+
+- **Indoor/Outdoor:** Outdoor
+- **Hours:** 8:30am–4:00pm, Mon–Fri (full week)
+- **Price:** ~$300/week
+- **Location:** UCalgary campus — ~10 min from West Hillhurst
+- **Prerequisites:** None
+- **More info / Book:** https://activelivingportal.ucalgary.ca/Program/1346
+- **Spots:**
+
+| Dates | Spots |
+|---|---|
+| Jun 29 – Jul 3 | 23 |
+| Jul 20–24 | 14 |
+
+---
+
+## Dinos Track & Field — Ready, Set, Go! *(Grades 2-5 | Mixed)*
+
+**For her:** Run, jump, and throw like a real athlete! Train for different track events and compete in a mini track meet at the end of the week.
+
+**For you:** Fundamentals of running, jumping, and throwing events. Coached by current and former UCalgary athletes. Ends at 3:15pm — slightly earlier than our 3:30pm preference. No swimming.
+
+- **Indoor/Outdoor:** Outdoor
+- **Hours:** 9:00am–3:15pm ⚠️ (ends 15 min before our 3:30pm target)
+- **Price:** $425/week
+- **Location:** UCalgary campus — ~10 min from West Hillhurst
+- **Prerequisites:** None
+- **More info / Book:** https://activelivingportal.ucalgary.ca/Program/1554
+- **Spots:**
+
+| Dates | Spots |
+|---|---|
+| Aug 10–14 | 41 |
+| Aug 17–21 | 12 |
+
+---
+
+## Early Technology *(Grades 1-2 | Mixed)*
+
+**For her:** Build circuits, explore electrical parts, and program a robot using colours — no typing needed!
+
+**For you:** Hands-on intro to programming concepts and electronics for young kids. Part of UCalgary's Schulich School of Engineering series. No swimming mentioned.
+
+- **Indoor/Outdoor:** Indoor
+- **Hours:** 9:00am–4:45pm, Mon–Fri
+- **Price:** $296 (Jun 29 week is 4 days)
+- **Location:** UCalgary campus — ~10 min from West Hillhurst
+- **Prerequisites:** None
+- **More info / Book:** https://activelivingportal.ucalgary.ca/Program/2604
+- **Spots:**
+
+| Dates | Spots |
+|---|---|
+| Jun 29 – Jul 3 (4 days) | 7 |
+
+*Only one session available with spots.*
+
+---
+
+## Gymnastics — Recreation, Cochrane *(Ages 6-13 | Mixed)* ⚠️ Far
+
+**For her:** Gymnastics with a fun theme each week — things like Circus Tricks, Wizards, or Beach week. Mix of gym skills, games, crafts, and outdoor activities.
+
+**For you:** Recreational gymnastics for all experience levels. Each week has a different fun theme. Open to all skill levels. Indoor gym + some outdoor time. No swimming mentioned.
+
+- **Indoor/Outdoor:** Primarily indoor gym + some outdoor
+- **Hours:** 8:30am–4:30pm, Mon–Fri (full week; Aug 4–7 is 4 days)
+- **Price:** Not listed on website — contact 403-932-7373 or cochranegym@ucalgary.ca
+- **Location:** Spray Lake Sawmills Family Sport Centre, Cochrane — ~40 min from West Hillhurst
+- **Prerequisites:** None (open to all skill levels)
+- **More info / Book:** https://active-living.ucalgary.ca/programs/ucalgary-summer-camps/cochrane-gymnastics-camps
+- **Spots:**
+
+| Dates | Spots |
+|---|---|
+| Jul 6–10 | 3 |
+| Jul 13–17 | 2 ⚠️ |
+| Jul 20–24 | 7 |
+| Jul 27–31 | 7 |
+| Aug 4–7 (4 days, Tue–Fri) | 9 |
+| Aug 10–14 | 3 |

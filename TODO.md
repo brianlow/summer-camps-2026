@@ -43,6 +43,13 @@ Leads still needing a phone call or direct contact before a decision can be made
 
 ---
 
+## 🔍 Still needs research
+
+- Calgary Zoo Summer Camps — https://www.calgaryzoo.com/education/zoo-camp/summer-camps/
+- City of Calgary Day Camps (general) — https://www.calgary.ca/parks-rec-programs/day-camps/summer.html
+
+---
+
 ## ⏰ Excluded (for reference)
 
 | Camp | Reason | CAMP file? |
@@ -76,3 +83,5 @@ Leads still needing a phone call or direct contact before a decision can be made
 | Pinnovate DIY Studio | CAMP-Pinnovate.md |
 | Affinity Academy | CAMP-AffinityAcademy.md |
 | Camp STEAM Canada | CAMP-Steam.md |
+| SAIT Summer Camps | CAMPS-SAIT.md |
+| UCalgary Summer Camps | CAMPS-UofC.md |

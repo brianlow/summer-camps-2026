@@ -5,9 +5,9 @@
 ### Aliki's Art House ✅ Close (NW)
 - **What:** Professional fine art instruction — drawing, painting, sculpting. Small groups (max 12). Friday gallery showing.
 - **Ages:** 5+ ("Mini Camp for Mini Masters" for age 5–6)
-- **Hours:** Likely half-day only ⚠️ — confirmed half-day in 2023 (10am–noon, $195). **Need to confirm if full-day option exists for 2026.**
+- **Hours:** Primarily half-day — but **2026 website now lists "New This Year: Full Day Combos (Please enquire.)"** ✅ Full-day option confirmed to exist. No hours or prices shown online.
 - **Location:** 551 Northmount Dr NW (Brentwood) — ~10 min from West Hillhurst ✅
-- **Action:** Call 403-667-7020 or email info@alikisarthouse.com — ask: (1) Is there a full-day option in 2026? (2) What are the summer 2026 dates and pricing?
+- **Action:** Call 403-667-7020 or email info@alikisarthouse.com — ask: (1) What are the full-day combo hours and price? (2) What are the 2026 dates?
 - **Website:** https://alikisarthouse.com/art-camps/
 
 ### City of Calgary — Arts Ventures Summer Day Camp ✅ Very close (NW)
@@ -66,11 +66,11 @@
 - **Website:** https://www.barjo.ca
 
 ### Free House Dance Plus ✅✅ Very Close (NW)
-- **What:** Dance studio offering full- and half-day summer camps. Styles include Jazz, Tap, Ballet, Modern, Lyrical, Hip Hop, Musical Theatre — excellent fit for a child who loves dancing and performing.
-- **Ages:** Division 1 (ages 3–8) — she qualifies
+- **What:** Dance studio offering full- and half-day summer camps. Styles include Jazz, Tap, Ballet, Modern, Lyrical, Hip Hop, Musical Theatre — excellent fit.
+- **Ages:** Ages 6–11 group — she qualifies ✅
 - **Location:** 2020 12 Ave NW, Calgary — ~5 min from West Hillhurst ✅✅
-- **Note:** 2026 summer camp details not yet published online ("check back in the new year"). Half-day and full-day options reportedly offered.
-- **Action:** Call 403-282-0555 or email fhdp@telusplanet.net — ask: (1) Is there a full-day option in 2026? (2) What are the dates and pricing? (3) Do they have a camp for ages 6–7?
+- **Note:** Full-day confirmed ✅. Dates found: Jul 13–17 and Jul 20–24 (more weeks may exist). $50 off when booking 2 full-day weeks. **CAMP-FreeHouseDance.md created.**
+- **Action:** Call 403-282-0555 or email fhdp@telusplanet.net — ask: (1) What are all the 2026 full-day weekly dates? (2) What is the price per week? (3) What are the daily hours?
 - **Website:** https://freehousedance.com/kids-teens/summer-camps-programs-for-kids-and-teens/
 
 ### Calgary Junior Roller Derby — Junior Program ✅ Very Close (NW)
@@ -94,18 +94,52 @@
 - **Action:** Call 403-262-4404 or email info@alieninline.com — confirm exact daily hours (full day start/end times). CAMP-AlienInLine.md already created.
 - **Website:** https://alieninline.com/summer-skate-camps/
 
-### Chinook School of Music — Confirm 2026 Dates ✅ Close (NW)
-- **What:** "Magic of Music" for ages 5–6, full day 9am–4pm, NW Calgary location. CAMP file written — 2026 specific dates not found.
-- **Action:** Call 403-246-8446 or email info@chinookschoolofmusic.com — confirm 2026 camp dates and remaining availability. CAMP-ChinookMusic.md already created.
-- **Website:** https://www.chinookschoolofmusic.com/summerdaycamps
+### Enchanted Events — Fairy Camp ✅✅✅ Extremely Close (NW) ⭐ HIGH PRIORITY
+- **What:** Fairy-themed week camp with daily activities — crafts, dance, drama, singing, creative movement, and fairy training. Ends with a graduation show for families on the final day.
+- **Ages:** 4–8 years — she qualifies ✅
+- **Hours:** 9:00am–4:00pm ✅
+- **Location:** #9, 213 19th St NW, Calgary (Kensington area) — ~5 min from West Hillhurst ✅✅
+- **Note:** 2026 dates not yet published online. $75 non-refundable deposit required at registration.
+- **Action:** Contact via https://www.enchantedevents.ca/fairy_camp_1.html — ask: (1) When are the 2026 summer dates? (2) What is the per-week price?
+- **Why high priority:** Fairy/unicorn theme + dance + crafts + singing + drama = hits every one of her top interests. Closest possible location.
+- **Website:** https://www.enchantedevents.ca/fairy_camp_1.html
 
-### PULSE Studios — Dance Camp (Hip Hop) ✅ Close (NW)
-- **What:** Hip hop dance camp (breaking, popping, locking, house), ages 6–15, 9am–4pm. In Crescent Heights (~10 min). Styles are more street/hip hop than classical — could be a fun stretch for her.
-- **Ages:** 6–15 ✅
-- **Location:** 110 10 Ave NW (Crescent Heights) — ~10 min from West Hillhurst ✅
-- **Note:** Registration opened January 25, 2026. Price not listed online.
-- **Action:** Call 403-452-2846 or email info@pulsestudios.ca — ask: (1) What are the 2026 weekly dates? (2) What is the per-week price? (3) Before/after care options?
-- **Website:** https://pulsestudios.ca/kids-summer-dance-camps
+### StoryBook Theatre — Summer Theatre Camps ✅ Close (NW)
+- **What:** Week-long theatre camps at StoryBook Theatre NW Calgary. Kids create and perform an original show by Friday. Historically ages 6–12, 9am–4pm.
+- **Ages:** 6–12 historically — **need to confirm 2026 format** (their main 2026 summer revue is ages 9–12 only)
+- **Location:** 375 Bermuda Drive NW, Calgary — ~15–20 min from West Hillhurst ✅
+- **Action:** Call 403-216-0808 ext. 2 or email theatreschool@storybooktheatre.org — ask: (1) Is there a week-format camp for ages 6–8 in summer 2026? (2) What are the dates and price?
+- **Website:** https://www.storybooktheatre.org/summer
+
+### Evolutions Dance — Enchanted Forest Dance Camp ✅ Moderate (SE)
+- **What:** Magical themed dance camp — campers dress as characters each day and join an adventure of dance, music, storytelling, crafts, and dramatic play.
+- **Ages:** 6+ — she qualifies ✅
+- **Price:** $335–360/week (early bird before May 15: $335)
+- **Location:** #5, 6624 Centre St SE, Calgary — ~20–25 min from West Hillhurst ⚠️
+- **Action:** Call 403-819-0758 or email info@evolutionsdance.com — ask: (1) Which camps are full-day for ages 6–7? (2) What are the 2026 dates? (3) Confirm daily hours (end time 3:30pm or later?)
+- **Website:** https://www.evolutionsdance.com/summer
+
+### Premiere Dance Academy — Pop Star Dance Escapes ✅ Close (NW)
+- **What:** Themed dance camps for ages 6–9. "Pop Star Dance Escapes" with various themed weeks.
+- **Ages:** 6–9 — she qualifies ✅
+- **Location:** #310, 19 Royal Vista Link NW, Calgary (Royal Oak) — ~20–25 min from West Hillhurst ✅
+- **Action:** Call 403-286-8561 or email office@premieredance.com — ask: (1) Are these full-day camps (ending 3:30pm+)? (2) What are the 2026 weekly dates and prices?
+- **Website:** https://premieredance.com/camps_and_workshops/camps/
+
+### Prestige Dance — Happily Ever After *(Ages 4–7)* ⚠️ SW location
+- **What:** Fairy tale / princess-themed camp — brings stories to life through ballet, jazz, tap, hip hop, acro, and yoga.
+- **Ages:** 4–7 — she qualifies ✅
+- **Location:** West location: #134, 3715 51st St SW — ~20–25 min from West Hillhurst ⚠️
+- **Action:** Call West location 403-873-7228 — ask: (1) Is this a full-day camp (ending 3:30pm+)? (2) What are the 2026 dates and price?
+- **Website:** https://prestigedance.com/dance-camps/
+
+### McDonald-Wilson Dance Academy — Summer Dance Camp ✅✅ Very Close (NW)
+- **What:** Dance studio in Brentwood NW offering summer programs for ages 4–9. Styles include ballet, tap, and jazz. Very close to home.
+- **Ages:** 4–9 — she qualifies ✅
+- **Location:** 5107 33 St NW (Brentwood) — ~10 min from West Hillhurst ✅✅
+- **Note:** In 2025, their summer program ran Tue/Thu evenings only (not a full week day camp). Need to confirm 2026 format.
+- **Action:** Call 403-463-0280 or email mwdadance@gmail.com — ask: (1) Is there a full-day week-format summer camp in 2026? (2) If so, dates, hours, and price?
+- **Website:** https://www.mwda.ca/summer-dance-camps
 
 ---
 
@@ -113,7 +147,7 @@
 
 | Camp                                       | Reason                                                                  | CAMP file?                    |
 | ------------------------------------------ | ----------------------------------------------------------------------- | ----------------------------- |
-| Aliki's Art House                          | Likely half-day only — needs confirmation                               | No (in TODO above)            |
+| Aliki's Art House                          | Primarily half-day — full-day combo option now exists (call to confirm) | No (in TODO above)            |
 | Neon Milkshake                             | AM only — half-day excluded                                             | No                            |
 | CYPT half-day                              | Half-day excluded                                                       | No (full-day in CAMP-CYPT.md) |
 | AUArts Kids Camps                          | Ages 9–12 confirmed — too old for now (save for Grade 4)                | No                            |
@@ -172,3 +206,6 @@
 | Heritage Park Prairie Explorers                                 | CAMP-HeritagePark.md         |
 | Rundle College (Creative Souls, Theatre, LEGO)                  | CAMP-RundleCollege.md        |
 | STS (Art Studio, Crafty Adventurers, Theatre, Forest Explorers) | CAMP-STS.md                  |
+| PULSE Studios Hip Hop Dance Camp                                | CAMP-PULSE.md                |
+| Free House Dance Plus                                           | CAMP-FreeHouseDance.md       |
+| WinSport (Wilderness Explorers, Summer Sampler)                 | CAMP-WinSport.md             |

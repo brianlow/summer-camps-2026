@@ -46,6 +46,9 @@ Weeks run **Sunday to Saturday**. Camp programs typically run Mon–Fri within e
 | [Clip Clop Horseback Riding](CAMP-ClipClop.md)           | Horse/Outdoors       | Price TBD · Week 1 of 9                   |      |
 | [Steamoji VEX Robotics Jr.](CAMPS-Steamoji.md)           | Robotics             | $499 · 6 spots ⚠️ ends 3pm              |      |
 | [Steamoji North: STEAM Goes Medieval](CAMPS-Steamoji.md) | Engineering          | $399 · 5 spots ⚠️ ends 3pm              |      |
+| [WinSport Wilderness Explorers](CAMP-WinSport.md)        | Outdoor/Nature       | $296 (4-day) · Canada Olympic Park        |      |
+| [WinSport Summer Sampler](CAMP-WinSport.md)              | Multi-Activity       | $296 (4-day) · Ages 6–8                   |      |
+| [PULSE Studios Hip Hop](CAMP-PULSE.md)                   | Dance/Hip Hop        | $395+GST · Crescent Heights               |      |
 | [Westmount SC — CAA](CAMP-WestmountStudentCare.md)       | General Day Camp     | $120 (2-day) · Summer Splash              |      |
 | [Westmount SC — JE](CAMP-WestmountStudentCare.md)        | General Day Camp     | $120 (2-day) · Summer Splash              |      |
 
@@ -82,6 +85,7 @@ Weeks run **Sunday to Saturday**. Camp programs typically run Mon–Fri within e
 | [STS Crafty Adventurers](CAMP-STS.md)                   | Arts/Crafts           | Price/hours TBD ⚠️ Far      |
 | [STS Theatre Camp](CAMP-STS.md)                         | Drama/Theatre         | Price/hours TBD ⚠️ Far      |
 | [STS Forest Explorers](CAMP-STS.md)                     | Outdoor/Nature        | Price/hours TBD ⚠️ Far      |
+| [PULSE Studios Hip Hop](CAMP-PULSE.md)                   | Dance/Hip Hop         | $395+GST · Crescent Heights  |
 
 ---
 
@@ -114,6 +118,9 @@ Weeks run **Sunday to Saturday**. Camp programs typically run Mon–Fri within e
 | [STS Art Studio](CAMP-STS.md)                               | Arts/Crafts          | Price/hours TBD ⚠️ Far            |
 | [STS Theatre Camp](CAMP-STS.md)                             | Drama/Theatre        | Price/hours TBD ⚠️ Far            |
 | [STS Forest Explorers](CAMP-STS.md)                         | Outdoor/Nature       | Ages 4–8 · Price/hours TBD ⚠️ Far |
+| [PULSE Studios Hip Hop](CAMP-PULSE.md)                      | Dance/Hip Hop        | $395+GST · Crescent Heights        |
+| [Chinook Music — Magic of Music](CAMP-ChinookMusic.md)      | Music/Dance/Drama    | $375 · NW location ✅             |
+| [Free House Dance Plus](CAMP-FreeHouseDance.md)             | Dance (multi-style)  | Price TBD · ✅✅ 5 min away       |
 
 ---
 
@@ -149,6 +156,9 @@ Weeks run **Sunday to Saturday**. Camp programs typically run Mon–Fri within e
 | [STS Art Studio](CAMP-STS.md)                              | Arts/Crafts           | Price/hours TBD ⚠️ Far               |
 | [STS Theatre Camp](CAMP-STS.md)                            | Drama/Theatre         | Price/hours TBD ⚠️ Far               |
 | [STS Forest Explorers](CAMP-STS.md)                        | Outdoor/Nature        | Ages 4–8 · Price/hours TBD ⚠️ Far    |
+| [PULSE Studios Hip Hop](CAMP-PULSE.md)                     | Dance/Hip Hop         | $395+GST · Crescent Heights           |
+| [Chinook Music — Magic of Music](CAMP-ChinookMusic.md)     | Music/Dance/Drama     | $375 · South location ⚠️             |
+| [Free House Dance Plus](CAMP-FreeHouseDance.md)            | Dance (multi-style)   | Price TBD · ✅✅ 5 min away          |
 
 ---
 
@@ -177,6 +187,7 @@ Weeks run **Sunday to Saturday**. Camp programs typically run Mon–Fri within e
 | [Steamoji West: RoboCity Builders](CAMPS-Steamoji.md)   | Robotics            | $399 · 6 spots ⚠️ ends 3pm |
 | [Westmount SC — CAA](CAMP-WestmountStudentCare.md)      | General Day Camp    | $290 · Pirate Party Week     |
 | [Westmount SC — JE](CAMP-WestmountStudentCare.md)       | General Day Camp    | $290 · Out at Sea Week       |
+| [PULSE Studios Hip Hop](CAMP-PULSE.md)                   | Dance/Hip Hop       | $395+GST · Crescent Heights  |
 
 ---
 
@@ -203,6 +214,7 @@ Weeks run **Sunday to Saturday**. Camp programs typically run Mon–Fri within e
 | [Steamoji North: RoboCity Builders](CAMPS-Steamoji.md)  | Robotics             | $399 · Aug 4–7 · Open ⚠️ ends 3pm        |
 | [Westmount SC — CAA](CAMP-WestmountStudentCare.md)      | General Day Camp     | $240 (4-day) · Undersea Explorers          |
 | [Westmount SC — JE](CAMP-WestmountStudentCare.md)       | General Day Camp     | $240 (4-day) · Kitchen Chemistry           |
+| [PULSE Studios Hip Hop](CAMP-PULSE.md)                   | Dance/Hip Hop        | $320+GST (4-day) · Crescent Heights        |
 
 ---
 
@@ -235,6 +247,8 @@ Weeks run **Sunday to Saturday**. Camp programs typically run Mon–Fri within e
 | [STS Art Studio](CAMP-STS.md)                           | Arts/Crafts         | Price/hours TBD ⚠️ Far            |
 | [STS Theatre Camp](CAMP-STS.md)                         | Drama/Theatre       | Price/hours TBD ⚠️ Far            |
 | [STS Forest Explorers](CAMP-STS.md)                     | Outdoor/Nature      | Ages 4–8 · Price/hours TBD ⚠️ Far |
+| [PULSE Studios Hip Hop](CAMP-PULSE.md)                   | Dance/Hip Hop       | $395+GST · Crescent Heights        |
+| [Chinook Music — Magic of Music](CAMP-ChinookMusic.md)   | Music/Dance/Drama   | $375 · South location ⚠️          |
 
 ---
 
@@ -261,6 +275,8 @@ Weeks run **Sunday to Saturday**. Camp programs typically run Mon–Fri within e
 | [Westmount SC — JE](CAMP-WestmountStudentCare.md)          | General Day Camp      | $290 · Around the World             |
 | [STS Art Studio](CAMP-STS.md)                              | Arts/Crafts           | Price/hours TBD ⚠️ Far            |
 | [STS Theatre Camp](CAMP-STS.md)                            | Drama/Theatre         | Price/hours TBD ⚠️ Far            |
+| [PULSE Studios Hip Hop](CAMP-PULSE.md)                     | Dance/Hip Hop         | $395+GST · Crescent Heights        |
+| [Chinook Music — Magic of Music](CAMP-ChinookMusic.md)     | Music/Dance/Drama     | $375 · NW location ✅              |
 
 ---
 
@@ -305,5 +321,8 @@ These camps run during the summer but specific weeks are not published online:
 | [Bar JO Ranch](CAMP-BarJO.md)                   | Horseback Riding   | Jul–Aug — call 403-561-4488                                              |
 | [Growing Roots](CAMP-GrowingRoots.md)           | Forest/Outdoor     | Feb 6 registration opened — check website                                |
 | [Pinnovate](CAMP-Pinnovate.md)                  | Arts/Crafts        | Multiple weeks — check [pinnovate.ca/camps](https://pinnovate.ca/camps/) |
-| [Chinook School of Music](CAMP-ChinookMusic.md) | Music/Drama/Dance  | Dates TBD — call 403-246-8446                                            |
 | [JKA Karate](CAMP-JKAKarate.md)                 | Martial Arts       | Jul–Aug — check [empowkarate.com](https://empowkarate.com/)              |
+| [WinSport Wilderness Explorers](CAMP-WinSport.md) | Outdoor/Nature   | 9 weeks Jun 29–Aug 28 · Ages 4–8 · $296–370/wk · Free before/after care |
+| [WinSport Summer Sampler](CAMP-WinSport.md)     | Multi-Activity     | 9 weeks Jun 29–Aug 28 · Ages 6–8 · $296–370/wk · Free before/after care |
+| [Free House Dance Plus](CAMP-FreeHouseDance.md) | Dance (multi-style) | Jul 13–17, Jul 20–24 confirmed · more weeks TBC · call for details      |
+| [Enchanted Events Fairy Camp](TODO.md)          | Dance/Crafts/Drama | 2026 dates TBA — contact via enchantedevents.ca ⭐ HIGH PRIORITY         |

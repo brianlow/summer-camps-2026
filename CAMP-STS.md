@@ -57,13 +57,13 @@ STS Summer Camps are open to all (no need to be an STS student). Set on a large 
 
 ## Theatre Camp *(Ages 6–12 | Mixed)*
 
-**For her:** description needed
+**For her:** Work with a group to write, cast, and rehearse a brand-new play — then perform it for families on the last day. Everyone contributes to the story.
 
-**For you:** description needed
+**For you:** Full-day theatre camp run by StoryBook Theatre. Students collaboratively create and perform an original show. 2024 data: 9am–3:45pm, $350+GST. Confirm 2026 pricing when booking.
 
-- **Indoor/Outdoor:** ⚠️ Not confirmed
-- **Hours:** ⚠️ Not published — confirm end time is 3:30pm or later
-- **Price:** ⚠️ Not published
+- **Indoor/Outdoor:** Indoor
+- **Hours:** 9:00am–3:45pm Mon–Fri *(2024 data — confirm 2026)* ✅
+- **Price:** $350+GST/week *(2024 data — confirm 2026)*
 - **Location:** 298136 24 St W, Foothills, AB — ~45 min from West Hillhurst ⚠️ ([map](https://maps.google.com/?q=298136+24+St+W,+Foothills,+AB))
 - **Prerequisites:** None
 - **More info / Book:** https://www.stssummercamps.ca/camp-schedule

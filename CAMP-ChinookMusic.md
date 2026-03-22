@@ -16,8 +16,11 @@
 - **Phone:** 403-246-8446 | info@chinookschoolofmusic.com
 - **Spots:**
 
-| Dates | Spots |
-|---|---|
-| TBD — check website | — |
+| Dates | Location | Spots |
+|---|---|---|
+| Jul 13–17 | NW — 1101 48 Ave NW ✅ | — |
+| Jul 20–24 | South — 3916 Macleod Trail S | — |
+| Aug 10–14 | South — 3916 Macleod Trail S | — |
+| Aug 17–21 | NW — 1101 48 Ave NW ✅ | — |
 
 > ⚠️ **Note:** The older-age camps (ages 7–10: Musical Theatre, Drum & Strum, etc.) run at the same price and hours — worth revisiting when she's a year older. Age requirement is strictly enforced (child must be 5–6 for this camp).

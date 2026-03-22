@@ -396,6 +396,54 @@
         "marker-color": "#7B2D8B",
         "marker-symbol": "art-gallery"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-114.0686, 51.0628] },
+      "properties": {
+        "name": "PULSE Studios (Hip Hop Dance)",
+        "address": "110 10 Ave NW, Calgary, AB",
+        "category": "Arts & Design",
+        "description": "Hip hop dance camp -- breaking, popping, house, choreography. Ages 6-7 group. 9am-4pm. $395+GST/wk. Before/after care available. ~10 min from home. https://github.com/brianlow/summer-camps-2026/blob/main/CAMP-PULSE.md",
+        "marker-color": "#7B2D8B",
+        "marker-symbol": "music"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-114.0987, 51.0585] },
+      "properties": {
+        "name": "Free House Dance Plus",
+        "address": "2020 12 Ave NW, Calgary, AB",
+        "category": "Arts & Design",
+        "description": "Dance camp with ballet, jazz, tap, lyrical, musical theatre. Ages 6-11. Full-day confirmed. ~5 min from home -- one of the closest options. Price/hours TBD -- call to confirm. https://github.com/brianlow/summer-camps-2026/blob/main/CAMP-FreeHouseDance.md",
+        "marker-color": "#7B2D8B",
+        "marker-symbol": "music"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-114.0975, 51.0595] },
+      "properties": {
+        "name": "Enchanted Events (Fairy Camp)",
+        "address": "#9, 213 19th St NW, Calgary, AB",
+        "category": "Arts & Design",
+        "description": "Fairy-themed camp -- crafts, dance, drama, singing, magical adventures. Ages 4-8. 9am-4pm. 2026 dates TBA -- contact to register interest. ~5 min from home. TOP PICK. https://www.enchantedevents.ca/fairy_camp_1.html",
+        "marker-color": "#7B2D8B",
+        "marker-symbol": "star"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-114.2281, 51.0786] },
+      "properties": {
+        "name": "WinSport (Wilderness Explorers)",
+        "address": "88 Canada Olympic Rd SW, Calgary, AB",
+        "category": "Outdoor & Nature",
+        "description": "Nature-based outdoor camp on Paskapoo Slopes -- guided hikes, nature crafts, discovery activities. Ages 4-8. 9am-4pm. $370/wk. Free before/after care. ~15 min from home. https://github.com/brianlow/summer-camps-2026/blob/main/CAMP-WinSport.md",
+        "marker-color": "#D4680A",
+        "marker-symbol": "park"
+      }
     }
   ]
 }

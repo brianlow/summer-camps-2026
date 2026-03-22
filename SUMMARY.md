@@ -31,6 +31,16 @@ One line per camp. See individual CAMP-*.md files for full details.
 |     | **Rundle College** — Theatre Camp | Drama games, storytelling, and perform an original story on a real stage    | $340–420 | ½ day (PM); waitlist                       |
 |     | **SAIT** — Acting Stars           | Act out characters, drama games, and bring stories to life on stage         | $400     | Jun 29 & Aug 4 only                        |
 
+## 💃 Dance
+
+|     | Camp                                   | What you do                                                                    | $/wk         | Notes                                                     |
+| --- | -------------------------------------- | ------------------------------------------------------------------------------ | ------------ | --------------------------------------------------------- |
+|     | **Enchanted Events** — Fairy Camp      | Fairy crafts, dance, drama, singing, and magical adventures — graduation show  | ⚠️ Contact | ✅✅ 5 min away; ages 4–8; 9am–4pm; 2026 dates TBA ⭐  |
+|     | **Free House Dance Plus** — Dance Camp | Ballet, jazz, tap, lyrical, musical theatre — all in one week                  | ⚠️ Contact | ✅✅ 5 min away; Jul 13–17 & Jul 20–24                  |
+|     | **PULSE Studios** — Hip Hop Camp       | Breaking, popping, house dance, and group choreography                         | $395+GST     | ✅ 10 min away; 9am–4pm; 7 weeks; street styles ⚠️     |
+|     | **StoryBook Theatre** — Theatre Camp   | Create and perform an original play by Friday — everyone shapes the story      | ⚠️ Contact | ✅ ~15 min NW; confirm ages 6–8 still offered in 2026    |
+|     | **Evolutions Dance** — Enchanted Forest | Dress as magical characters, adventure through dance, music, crafts, and drama | $335–360     | ⚠️ SE Calgary (~20 min); confirm full-day for ages 6–7  |
+
 ## 🎵 Music
 
 | Camp                               | What you do                                                  | $/wk | Notes              |
@@ -55,6 +65,7 @@ One line per camp. See individual CAMP-*.md files for full details.
 |     | **Heritage Park** — Prairie Explorers | Pioneer activities, bannock-making, Indigenous crafts in a real historical village | $325         | SW location (~20 min)                                |
 |     | **SAIT** — Great Outdoors             | Explore Calgary parks, outdoor challenges and team adventures every day            | $400         | Jun 29 & Aug 4 only                                  |
 |     | **UCalgary** — Tots on Treks          | Catch bugs, hike trails, visit the zoo, and splash in the pool                     | $370         | Includes swimming                                    |
+|     | **WinSport** — Wilderness Explorers   | Guided hikes on Paskapoo Slopes, nature crafts, outdoor discovery                  | $370         | ✅ ~15 min; ages 4–8; free before/after care          |
 
 ## ⚽ Sports & Movement
 

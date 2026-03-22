@@ -10,40 +10,10 @@
 - **Action:** Call 403-667-7020 or email info@alikisarthouse.com — ask: (1) What are the full-day combo hours and price? (2) What are the 2026 dates?
 - **Website:** https://alikisarthouse.com/art-camps/
 
-### City of Calgary — Arts Ventures Summer Day Camp ✅ Very close (NW)
-- **What:** Visual arts camp — drawing, painting, mixed media, sculpture. Take-home artwork. 9am–4pm.
-- **Ages:** 7–12 years — **need to confirm if a child entering Grade 2 (who may be 6 turning 7) qualifies for the 7+ age group.**
-- **Location:** North Mount Pleasant Arts Centre (NW Calgary) — ~8 min from West Hillhurst ✅✅
-- **Action:** Call 403-268-3800 — ask: (1) Does a child entering Grade 2 who turns 7 during camp qualify? (2) What are the 2026 dates and price per week?
-- **Website:** https://liveandplay.calgary.ca/REGPROG/public/booking/CourseTypes/AVSDCK
-
-### City of Calgary — Arts & Dance Summer Day Camp ✅ Very close (NW)
-- **What:** Combo camp exploring art techniques and dance styles — kids create choreography and artwork. 9am–4pm.
-- **Ages:** 7–12 years — **need to confirm if child turning 7 during summer qualifies.**
-- **Location:** Likely North Mount Pleasant Arts Centre or similar NW facility — need to confirm.
-- **Action:** Call 403-268-3800 — ask: (1) Which NW facility hosts this? (2) Does a child turning 7 during camp qualify? (3) 2026 dates and price per week?
-- **Website:** https://www.calgary.ca/parks-rec-programs/day-camps/summer.html
-
-### City of Calgary — Rec Adventures Summer Day Camp ✅ Close (NW)
-- **What:** General day camp — games, sports, crafts, and outdoor adventures. Also available as single-day booking. 9am–4pm.
-- **Ages:** 5–12 years — she qualifies ✅
-- **Location:** Multiple City recreation centres — need to confirm nearest NW/W Calgary location.
-- **Action:** Call 403-268-3800 — ask: (1) Which NW/W Calgary facilities host Rec Adventures? (2) 2026 dates and price per week?
-- **Website:** https://liveandplay.calgary.ca/REGPROG/public/booking/CourseTypes/DCRAD5
-
-### City of Calgary — Rock Climbing Summer Day Camp ✅ Close
-- **What:** Daily bouldering and climbing walls, 2 hours of climbing instruction per day. 9am–4pm.
-- **Ages:** 5–12 years — she qualifies ✅
-- **Location:** Unclear — City recreation facility (likely NW/W Calgary). Registration through liveandplay.calgary.ca.
-- **Action:** Call 403-268-3800 — ask: (1) Which facility hosts the climbing camp? (2) What are the 2026 dates and price per week? (3) Any spots available?
-- **Website:** https://www.calgary.ca/parks-rec-programs/day-camps/summer.html
-
-### City of Calgary — Field Sports / Sports Summer Day Camp
-- **What:** Field Sports (5–12): ultimate frisbee, soccer, lacrosse, park trips. Sports (5–12): variety of sports daily (soccer, basketball, badminton). Both outdoor-focused. 9am–4pm.
-- **Ages:** 5–12 years — she qualifies ✅
-- **Location:** Multiple City recreation centres — need to confirm nearest NW/W Calgary location.
-- **Action:** Call 403-268-3800 — ask: (1) Which NW/W facilities host Field Sports or Sports camps? (2) 2026 dates and price? Good outdoor option even if not her top interest.
-- **Website:** https://www.calgary.ca/parks-rec-programs/day-camps/summer.html
+### City of Calgary — Arts Ventures (age eligibility) ✅ Very close (NW)
+- **What:** Visual arts camp, North Mount Pleasant Arts Centre, $305/week, 9am–4pm. **CAMP file: CAMP-CityOfCalgary.md**
+- **Status:** 7–8 age group almost completely full — only **2 spots left for Jul 27–31** at NMP.
+- **Action:** Call 403-268-3800 — ask: does a child entering Grade 2 who turns 7 **during** summer qualify, or must she be 7 before camp starts? If yes: book Jul 27–31 immediately (2 spots only).
 
 ### Clip Clop — Horseback Riding
 - **What:** Beginner-friendly horseback riding + horse care camp. CAMP file written — price not public.
@@ -209,3 +179,4 @@
 | PULSE Studios Hip Hop Dance Camp                                | CAMP-PULSE.md                |
 | Free House Dance Plus                                           | CAMP-FreeHouseDance.md       |
 | WinSport (Wilderness Explorers, Summer Sampler)                 | CAMP-WinSport.md             |
+| City of Calgary (Rec Adventures, Arts Ventures, Arts & Dance, Rock Climbing, Field Sports, Sports) | CAMP-CityOfCalgary.md |

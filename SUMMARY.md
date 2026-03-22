@@ -55,6 +55,16 @@ One line per camp. See individual CAMP-*.md files for full details.
 | **Butterfield Acres** — Farm Day Camp | Care for farm animals, wagon rides, and outdoor adventures on a real farm | ⚠️ Contact | NW edge of city (~25 min)               |
 | **Clip Clop** — Rookie Rider          | Learn to ride a horse, groom and tack up, horse-themed games and crafts   | ⚠️ Contact | NW Calgary (~20 min)                    |
 
+## 🏙️ City of Calgary
+
+|     | Camp                                          | What you do                                                                        | $/wk     | Notes                                                                  |
+| --- | --------------------------------------------- | ---------------------------------------------------------------------------------- | -------- | ---------------------------------------------------------------------- |
+|     | **City of Calgary** — Rec Adventures (NW)     | Games, sports, crafts, outdoor adventures, park trips, and swimming                | $269     | ✅✅ Shouldice Aquatic Centre, ~10 min; ages 5–7; spots available     |
+|     | **City of Calgary** — Arts Ventures (NW)      | Drawing, painting, mixed media, and sculpture — take-home artwork                  | $305     | ✅ N. Mt Pleasant Arts Centre, ~8 min; 7–8 age group **mostly full** ⚠️ |
+|     | **City of Calgary** — Arts & Dance            | Art techniques + dance — create choreography and artwork each day                  | $290     | 7–9 age group **sold out**; Wildflower Arts Centre (SW, ~20 min) ⚠️  |
+|     | **City of Calgary** — Rock Climbing           | 2 hrs/day bouldering + climbing-wall instruction, plus crafts and swimming         | $285     | **Completely sold out** ❌; Southland (SW, ~25 min)                   |
+|     | **City of Calgary** — Field Sports            | Ultimate frisbee, soccer, lacrosse — park trips and water activities               | $269     | Lots of spots; locations SE/SW (~25–35 min) ⚠️                        |
+
 ## 🌿 Nature & Outdoors
 
 |     | Camp                                  | What you do                                                                        | $/wk         | Notes                                                |

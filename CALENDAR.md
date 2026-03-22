@@ -86,6 +86,7 @@ Weeks run **Sunday to Saturday**. Camp programs typically run Mon–Fri within e
 | [STS Theatre Camp](CAMP-STS.md)                         | Drama/Theatre         | Price/hours TBD ⚠️ Far      |
 | [STS Forest Explorers](CAMP-STS.md)                     | Outdoor/Nature        | Price/hours TBD ⚠️ Far      |
 | [PULSE Studios Hip Hop](CAMP-PULSE.md)                   | Dance/Hip Hop         | $395+GST · Crescent Heights  |
+| [City — Rec Adventures](CAMP-CityOfCalgary.md)           | Outdoor/Sports/Mixed  | $269 · Shouldice NW ~10 min · **4 spots** ⚠️ ages 5–7 |
 
 ---
 
@@ -121,6 +122,7 @@ Weeks run **Sunday to Saturday**. Camp programs typically run Mon–Fri within e
 | [PULSE Studios Hip Hop](CAMP-PULSE.md)                      | Dance/Hip Hop        | $395+GST · Crescent Heights        |
 | [Chinook Music — Magic of Music](CAMP-ChinookMusic.md)      | Music/Dance/Drama    | $375 · NW location ✅             |
 | [Free House Dance Plus](CAMP-FreeHouseDance.md)             | Dance (multi-style)  | Price TBD · ✅✅ 5 min away       |
+| [City — Rec Adventures](CAMP-CityOfCalgary.md)              | Outdoor/Sports/Mixed | $269 · Shouldice NW ~10 min · **10 spots** ages 5–7 |
 
 ---
 
@@ -159,6 +161,7 @@ Weeks run **Sunday to Saturday**. Camp programs typically run Mon–Fri within e
 | [PULSE Studios Hip Hop](CAMP-PULSE.md)                     | Dance/Hip Hop         | $395+GST · Crescent Heights           |
 | [Chinook Music — Magic of Music](CAMP-ChinookMusic.md)     | Music/Dance/Drama     | $375 · South location ⚠️             |
 | [Free House Dance Plus](CAMP-FreeHouseDance.md)            | Dance (multi-style)   | Price TBD · ✅✅ 5 min away          |
+| [City — Rec Adventures](CAMP-CityOfCalgary.md)             | Outdoor/Sports/Mixed  | $269 · Shouldice NW ~10 min · **8 spots** ages 5–7 |
 
 ---
 
@@ -188,6 +191,8 @@ Weeks run **Sunday to Saturday**. Camp programs typically run Mon–Fri within e
 | [Westmount SC — CAA](CAMP-WestmountStudentCare.md)      | General Day Camp    | $290 · Pirate Party Week     |
 | [Westmount SC — JE](CAMP-WestmountStudentCare.md)       | General Day Camp    | $290 · Out at Sea Week       |
 | [PULSE Studios Hip Hop](CAMP-PULSE.md)                   | Dance/Hip Hop       | $395+GST · Crescent Heights  |
+| [City — Rec Adventures](CAMP-CityOfCalgary.md)           | Outdoor/Sports/Mixed | $269 · Shouldice NW ~10 min · **11 spots** ages 5–7 |
+| [City — Arts Ventures](CAMP-CityOfCalgary.md)            | Visual Arts          | $305 · N. Mt Pleasant NW ~8 min · **2 spots** ages 7–8 ⚠️ call first re: age |
 
 ---
 
@@ -215,6 +220,7 @@ Weeks run **Sunday to Saturday**. Camp programs typically run Mon–Fri within e
 | [Westmount SC — CAA](CAMP-WestmountStudentCare.md)      | General Day Camp     | $240 (4-day) · Undersea Explorers          |
 | [Westmount SC — JE](CAMP-WestmountStudentCare.md)       | General Day Camp     | $240 (4-day) · Kitchen Chemistry           |
 | [PULSE Studios Hip Hop](CAMP-PULSE.md)                   | Dance/Hip Hop        | $320+GST (4-day) · Crescent Heights        |
+| [City — Rec Adventures](CAMP-CityOfCalgary.md)           | Outdoor/Sports/Mixed | $215 (4-day) · Shouldice NW ~10 min · **12 spots** ages 5–7 |
 
 ---
 
@@ -249,6 +255,7 @@ Weeks run **Sunday to Saturday**. Camp programs typically run Mon–Fri within e
 | [STS Forest Explorers](CAMP-STS.md)                     | Outdoor/Nature      | Ages 4–8 · Price/hours TBD ⚠️ Far |
 | [PULSE Studios Hip Hop](CAMP-PULSE.md)                   | Dance/Hip Hop       | $395+GST · Crescent Heights        |
 | [Chinook Music — Magic of Music](CAMP-ChinookMusic.md)   | Music/Dance/Drama   | $375 · South location ⚠️          |
+| [City — Rec Adventures](CAMP-CityOfCalgary.md)           | Outdoor/Sports/Mixed | $269 · Shouldice NW ~10 min · **10 spots** ages 5–7 |
 
 ---
 
@@ -277,6 +284,7 @@ Weeks run **Sunday to Saturday**. Camp programs typically run Mon–Fri within e
 | [STS Theatre Camp](CAMP-STS.md)                            | Drama/Theatre         | Price/hours TBD ⚠️ Far            |
 | [PULSE Studios Hip Hop](CAMP-PULSE.md)                     | Dance/Hip Hop         | $395+GST · Crescent Heights        |
 | [Chinook Music — Magic of Music](CAMP-ChinookMusic.md)     | Music/Dance/Drama     | $375 · NW location ✅              |
+| [City — Rec Adventures](CAMP-CityOfCalgary.md)             | Outdoor/Sports/Mixed  | $269 · Shouldice NW ~10 min · **3 spots** ⚠️ ages 5–7 |
 
 ---
 

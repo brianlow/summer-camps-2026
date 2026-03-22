@@ -444,6 +444,30 @@
         "marker-color": "#D4680A",
         "marker-symbol": "park"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-114.1101, 51.0623] },
+      "properties": {
+        "name": "City of Calgary (Rec Adventures)",
+        "address": "1515 Home Rd NW, Calgary, AB",
+        "category": "Sports",
+        "description": "City of Calgary Rec Adventures day camp at Shouldice Aquatic Centre. Games, sports, crafts, outdoor adventures, swimming. Ages 5-7. 9am-4pm. $269/wk. Spots available Jul-Aug. ~10 min from home. https://github.com/brianlow/summer-camps-2026/blob/main/CAMP-CityOfCalgary.md",
+        "marker-color": "#C0392B",
+        "marker-symbol": "swimming"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-114.0571, 51.0682] },
+      "properties": {
+        "name": "City of Calgary (Arts Ventures)",
+        "address": "523 27 Ave NW, Calgary, AB",
+        "category": "Arts & Design",
+        "description": "City of Calgary Arts Ventures camp at North Mount Pleasant Arts Centre. Drawing, painting, mixed media, sculpture. Ages 7-8. 9am-4pm. $305/wk. 7-8 age group mostly sold out -- only Jul 27-31 has 2 spots. Call re: age eligibility if turning 7 during summer. ~8 min from home. https://github.com/brianlow/summer-camps-2026/blob/main/CAMP-CityOfCalgary.md",
+        "marker-color": "#7B2D8B",
+        "marker-symbol": "art-gallery"
+      }
     }
   ]
 }

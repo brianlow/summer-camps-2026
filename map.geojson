@@ -3,6 +3,18 @@
   "features": [
     {
       "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-114.0825, 51.0762] },
+      "properties": {
+        "name": "Aliki's Art House (Fine Art Camps)",
+        "address": "551 Northmount Drive NW, Calgary, AB T2K 3J3",
+        "category": "Arts & Design",
+        "description": "Half-day fine art camps — drawing, painting, mixed media. Ages 5–7 (Mini Camp) and 7+ (Basics of Drawing, Multi-Media, Drawing in 3D). Full-day combos may be available (call to confirm). https://github.com/brianlow/summer-camps-2026/blob/main/CAMP-AlikiArtHouse.md",
+        "marker-color": "#7B2D8B",
+        "marker-symbol": "art-gallery"
+      }
+    },
+    {
+      "type": "Feature",
       "geometry": { "type": "Point", "coordinates": [-114.1867775, 51.0479541] },
       "properties": {
         "name": "Steamoji (Robotics)",

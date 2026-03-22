@@ -32,6 +32,7 @@ Notes:
 - Do not use Facebook as a research source
 - Ask user to confirm when unsure before making changes
 - **Do NOT make up camp descriptions.** If website content is unavailable, leave descriptions blank or note "description needed" — never invent placeholder text. Ask the user to provide the content instead.
+- Prefer WebFetch over the Playwright MCP. Fetch is much faster and uses fewer tokens.
 
 
 ## Camp Entry Template

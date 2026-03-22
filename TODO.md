@@ -2,12 +2,12 @@
 
 ## 📞 Needs a phone call / direct contact
 
-### Aliki's Art House ✅ Close (NW)
-- **What:** Professional fine art instruction — drawing, painting, sculpting. Small groups (max 12). Friday gallery showing.
-- **Ages:** 5+ ("Mini Camp for Mini Masters" for age 5–6)
-- **Hours:** Primarily half-day — but **2026 website now lists "New This Year: Full Day Combos (Please enquire.)"** ✅ Full-day option confirmed to exist. No hours or prices shown online.
+### Aliki's Art House ✅ Close (NW) — CAMP file created, call still needed
+- **What:** Professional fine art instruction — drawing, painting. Small groups (max 10). Friday gallery showing. **CAMP-AlikiArtHouse.md created.**
+- **Ages:** 5–7 (Mini Camp) and 7+ (Basics of Drawing, Multi-Media, Drawing in 3D)
+- **Hours:** All individual sessions are half-day (9am–12pm or 1pm–4pm) — but website advertises **"New This Year: Full Day Combos (Please enquire.)"**
 - **Location:** 551 Northmount Dr NW (Brentwood) — ~10 min from West Hillhurst ✅
-- **Action:** Call 403-667-7020 or email info@alikisarthouse.com — ask: (1) What are the full-day combo hours and price? (2) What are the 2026 dates?
+- **Action:** Call 403-667-7020 or email info@alikisarthouse.com — ask: (1) What are the full-day combo hours and price? (2) Can a 6-year-old turning 7 in summer register for the Mini Camp?
 - **Website:** https://alikisarthouse.com/art-camps/
 
 ### City of Calgary — Arts Ventures (age eligibility) ✅ Very close (NW)
@@ -113,7 +113,7 @@
 
 | Camp                                       | Reason                                                                  | CAMP file?                    |
 | ------------------------------------------ | ----------------------------------------------------------------------- | ----------------------------- |
-| Aliki's Art House                          | Primarily half-day — full-day combo option now exists (call to confirm) | No (in TODO above)            |
+| Aliki's Art House                          | Primarily half-day — full-day combo option advertised (call to confirm) | CAMP-AlikiArtHouse.md         |
 | Neon Milkshake                             | AM only — half-day excluded                                             | No                            |
 | CYPT half-day                              | Half-day excluded                                                       | No (full-day in CAMP-CYPT.md) |
 | AUArts Kids Camps                          | Ages 9–12 confirmed — too old for now (save for Grade 4)                | No                            |
@@ -179,4 +179,5 @@
 | Free House Dance Plus                                           | CAMP-FreeHouseDance.md       |
 | StoryBook Theatre (Summer Theatre Camps)                        | CAMP-StorybookTheatre.md     |
 | WinSport (Wilderness Explorers, Summer Sampler)                 | CAMP-WinSport.md             |
+| Aliki's Art House (Mini Camp, Basics of Drawing, Multi-Media, Drawing in 3D)        | CAMP-AlikiArtHouse.md        |
 | City of Calgary (Rec Adventures, Arts Ventures, Arts & Dance, Rock Climbing, Field Sports, Sports) | CAMP-CityOfCalgary.md |

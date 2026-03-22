@@ -6,20 +6,20 @@
 
 ## 🎨 Arts & Crafts
 
-|      | Camp                                 | What you do                                                                              | $/wk               | Notes                                                                |
-| ---- | ------------------------------------ | ---------------------------------------------------------------------------------------- | ------------------ | -------------------------------------------------------------------- |
-|      | **Westmount Student Care** — CAA     | Daily crafts with themed weeks: Storybook, Pirate Party, Medieval Times (unicorns!)      | $290               | General day camp; ~15 min; reg deadline May 1 ⚠️                   |
-|      | **Westmount Student Care** — JE      | Daily crafts: Witches & Wizards, Out at Sea, Kitchen Chemistry, Outer Space              | $290               | General day camp; ~20 min; runs to Aug 28; reg deadline May 1 ⚠️   |
-|      | **Aliki's Art House** — Art Camps    | Drawing, painting, mixed media — real techniques, small classes (max 10), Friday gallery | ⚠️ Half-day only | ✅ ~10 min NW; ages 5–7 / 7+; full-day combo may be available (call) |
-| ❤️ | **Colour on Fire** — Art Camp        | Painting, drawing, and mixed media all week; Thursday art show for families              | $395               | 2 locations (NW + SW)                                                |
-|      | **MRU** — Magical Adventures         | Make spell books, craft wands, paint dragon eggs, act out magical stories                | $400               | ⭐ Top pick; 9 weeks · mostly waitlisted ⚠️                        |
-|      | **MRU** — Tiny Tales                 | Journey through books, invent your own characters, draw and write your own stories       | $400               | ⭐ Great for readers; 3 weeks · very few spots ⚠️                  |
-|      | **Pinnovate** — Summer Art Camp      | 7+ art & craft projects per week — painting, mixed media, DIY builds                     | $375+tax           | ⚠️ Far (SE Calgary)                                                |
-|      | **Rundle College** — Art             | Clay, acrylics, watercolours, pastels — animals, nature, and abstract designs            | $340–420           | ½ day (PM); waitlist                                                 |
-| ❤️ | **Rundle College** — Creative Souls  | Crafts, visual art, mixed media, journaling, yoga, and nature-inspired art               | $340–420           | ½ day (AM or PM)                                                     |
-|      | **Rundle College** — Math+Art Fusion | Geometry meets graffiti, symmetry meets sketching — math and art together                | $420               | ½ day (PM); Week 4                                                   |
-|      | **STS** — Art Studio & School Camp   | description needed                                                                       | ⚠️ TBD           | ⚠️ Far (~45 min S, Foothills); hours TBD                           |
-|      | **STS** — Crafty Adventurers Camp    | description needed                                                                       | ⚠️ TBD           | ⚠️ Far (~45 min S, Foothills); Weeks 1–2 only; hours TBD           |
+|      | Camp                               | What you do                                                                              | $/wk          | Notes                                |
+| ---- | ---------------------------------- | ---------------------------------------------------------------------------------------- | ------------- | ------------------------------------ |
+|      | **Westmount** — CAA                | Daily crafts with themed weeks: Storybook, Pirate Party, Medieval Times (unicorns!)      | $290          | General day camp; ~15 min ⚠️       |
+|      | **Westmount** — JE                 | Daily crafts: Witches & Wizards, Out at Sea, Kitchen Chemistry, Outer Space              | $290          | General day camp; ~20 min ⚠️       |
+|      | **Aliki's** — Art Camps           | Drawing, painting, mixed media — real techniques, small classes (max 10), Friday gallery | ⚠️ Half-day | ✅ ~10 min NW; full-day combo avail  |
+| ❤️ | **Colour on Fire** — Art Camp      | Painting, drawing, and mixed media all week; Thursday art show for families              | $395          | 2 locations (NW + SW)                |
+|      | **MRU** — Magical Adventures       | Make spell books, craft wands, paint dragon eggs, act out magical stories                | $400          | ⭐ Top pick;  mostly waitlisted ⚠️ |
+|      | **MRU** — Tiny Tales               | Journey through books, invent your own characters, draw and write your own stories       | $400          | ⭐ Readers; few spots ⚠️           |
+|      | **Pinnovate** —  Art Camp          | 7+ art & craft projects per week — painting, mixed media, DIY builds                     | $375+tax      | ⚠️ Far (SE Calgary)                |
+|      | **Rundle** — Art                   | Clay, acrylics, watercolours, pastels — animals, nature, and abstract designs            | $340–420      | ½ day (PM); waitlist                 |
+| ❤️ | **Rundle** — Creative Souls        | Crafts, visual art, mixed media, journaling, yoga, and nature-inspired art               | $340–420      | ½ day (AM or PM)                     |
+|      | **Rundle** — Math+Art Fusion       | Geometry meets graffiti, symmetry meets sketching — math and art together                | $420          | ½ day (PM); Week 4                   |
+|      | **STS** — Art Studio & School Camp | description needed                                                                       | ⚠️ TBD      | ⚠️ Far (~45 min); hours TBD        |
+|      | **STS** — Crafty Adventurers Camp  | description needed                                                                       | ⚠️ TBD      | ⚠️ Far (~45 min); Weeks 1–2 only;  |
 
 ## 🎭 Drama & Theatre
 
@@ -34,12 +34,12 @@
 
 ## 💃 Dance
 
-|     | Camp                                   | What you do                                                                   | $/wk         | Notes                                                                              |
-| --- | -------------------------------------- | ----------------------------------------------------------------------------- | ------------ | ---------------------------------------------------------------------------------- |
-|     | **Enchanted Events** — Fairy Camp      | Fairy crafts, dance, drama, singing, and magical adventures — graduation show | ⚠️ Contact | ✅✅ 5 min away; ages 4–8; 9am–4pm; 2026 dates TBA ⭐                              |
-|     | **Free House Dance Plus** — Dance Camp | Ballet, jazz, tap, lyrical, musical theatre — all in one week                 | $375         | ✅✅ 5 min away; 9am–4pm; Jul 13–17 & Jul 20–24 only; before/after care $30        |
-|     | **PULSE Studios** — Hip Hop Camp       | Breaking, popping, house dance, and group choreography                        | $395+GST     | ✅ 10 min away; 9am–4pm; 7 weeks; street styles ⚠️                               |
-|     | **StoryBook Theatre** — Theatre Camps  | Write, cast, rehearse, and perform an original play by Friday                 | $375         | ✅ ~15–20 min NW; ages 6–7 "Groundlings"; 9am–4pm; FREE before/after care; 6 weeks |
+|     | Camp                                   | What you do                                                                   | $/wk         | Notes                                                   |
+| --- | -------------------------------------- | ----------------------------------------------------------------------------- | ------------ | ------------------------------------------------------- |
+|     | **Enchanted Events** — Fairy Camp      | Fairy crafts, dance, drama, singing, and magical adventures — graduation show | ⚠️ Contact | ✅✅ 5 min away; 2026 dates TBA ⭐                      |
+|     | **Free House Dance Plus** — Dance Camp | Ballet, jazz, tap, lyrical, musical theatre — all in one week                 | $375         | ✅✅ 5 min away; Jul 13–17 & Jul 20–24 only; after care |
+|     | **PULSE Studios** — Hip Hop Camp       | Breaking, popping, house dance, and group choreography                        | $395+GST     | ✅ 10 min away; 7 weeks; street styles ⚠️             |
+|     | **StoryBook Theatre** — Theatre Camps  | Write, cast, rehearse, and perform an original play by Friday                 | $375         | ✅ ~15–20 min NW; 9am–4pm; FREE after care; 6 weeks     |
 
 ## 🎵 Music
 
@@ -49,33 +49,33 @@
 
 ## 🐴 Animals & Farm
 
-|     | Camp                                  | What you do                                                               | $/wk         | Notes                                   |
-| --- | ------------------------------------- | ------------------------------------------------------------------------- | ------------ | --------------------------------------- |
-|     | **Bar JO Ranch** — Horse & Pony Camp  | Real ranch adventure — ride ponies, care for horses in the foothills      | ⚠️ Contact | ⚠️ Far (~60 min); bus from SW Calgary |
-|     | **Butterfield Acres** — Farm Day Camp | Care for farm animals, wagon rides, and outdoor adventures on a real farm | ⚠️ Contact | NW edge of city (~25 min)               |
-|     | **Clip Clop** — Rookie Rider          | Learn to ride a horse, groom and tack up, horse-themed games and crafts   | ⚠️ Contact | NW Calgary (~20 min)                    |
+|     | Camp                                  | What you do                                                               | $/wk         | Notes                         |
+| --- | ------------------------------------- | ------------------------------------------------------------------------- | ------------ | ----------------------------- |
+|     | **Bar JO Ranch** — Horse & Pony Camp  | Real ranch adventure — ride ponies, care for horses in the foothills      | ⚠️ Contact | ⚠️ Far (~60 min); bus avail |
+|     | **Butterfield Acres** — Farm Day Camp | Care for farm animals, wagon rides, and outdoor adventures on a real farm | ⚠️ Contact | NW edge of city (~25 min)     |
+|     | **Clip Clop** — Rookie Rider          | Learn to ride a horse, groom and tack up, horse-themed games and crafts   | ⚠️ Contact | NW Calgary (~20 min)          |
 
 ## 🏙️ City of Calgary
 
-|     | Camp                                      | What you do                                                                | $/wk | Notes                                                                     |
-| --- | ----------------------------------------- | -------------------------------------------------------------------------- | ---- | ------------------------------------------------------------------------- |
-|     | **City of Calgary** — Rec Adventures (NW) | Games, sports, crafts, outdoor adventures, park trips, and swimming        | $269 | ✅✅ Shouldice Aquatic Centre, ~10 min; ages 5–7; spots available         |
-|     | **City of Calgary** — Arts Ventures (NW)  | Drawing, painting, mixed media, and sculpture — take-home artwork          | $305 | ✅ N. Mt Pleasant Arts Centre, ~8 min; 7–8 age group **mostly full** ⚠️ |
-|     | **City of Calgary** — Arts & Dance        | Art techniques + dance — create choreography and artwork each day          | $290 | 7–9 age group **sold out**; Wildflower Arts Centre (SW, ~20 min) ⚠️     |
-|     | **City of Calgary** — Rock Climbing       | 2 hrs/day bouldering + climbing-wall instruction, plus crafts and swimming | $285 | **Completely sold out** ❌; Southland (SW, ~25 min)                       |
-|     | **City of Calgary** — Field Sports        | Ultimate frisbee, soccer, lacrosse — park trips and water activities       | $269 | Lots of spots; locations SE/SW (~25–35 min) ⚠️                          |
+|     | Camp                                      | What you do                                                                | $/wk | Notes                                                                 |
+| --- | ----------------------------------------- | -------------------------------------------------------------------------- | ---- | --------------------------------------------------------------------- |
+|     | **City of Calgary** — Rec Adventures (NW) | Games, sports, crafts, outdoor adventures, park trips, and swimming        | $269 | ✅✅ Shouldice Aquatic Centre, ~10 min; spots available               |
+|     | **City of Calgary** — Arts Ventures (NW)  | Drawing, painting, mixed media, and sculpture — take-home artwork          | $305 | ✅ N. Mt Pleasant Arts Centre, ~8 min; **mostly full** ⚠️           |
+|     | **City of Calgary** — Arts & Dance        | Art techniques + dance — create choreography and artwork each day          | $290 | 7–9 age group **sold out**; Wildflower Arts Centre (SW, ~20 min) ⚠️ |
+|     | **City of Calgary** — Rock Climbing       | 2 hrs/day bouldering + climbing-wall instruction, plus crafts and swimming | $285 | **Completely sold out** ❌; Southland (SW, ~25 min)                   |
+|     | **City of Calgary** — Field Sports        | Ultimate frisbee, soccer, lacrosse — park trips and water activities       | $269 | Lots of spots; locations SE/SW (~25–35 min) ⚠️                      |
 
 ## 🌿 Nature & Outdoors
 
-|      | Camp                                  | What you do                                                                        | $/wk         | Notes                                                |
-| ---- | ------------------------------------- | ---------------------------------------------------------------------------------- | ------------ | ---------------------------------------------------- |
-| ❤️ | **Confluence** — Birds & Bison        | Spot wildlife along the river, visit the zoo, do nature crafts, go on field trips  | $335–360     | SE location (~20 min)                                |
-|      | **Growing Roots** — Forest Explorers  | Child-led outdoor play in real forests, meadows, and valleys                       | ⚠️ Contact | ⚠️ Far (~40 min, Cochrane)                         |
-|      | **STS** — Forest Explorers            | description needed                                                                 | ⚠️ TBD     | ⚠️ Far (~45 min S, Foothills); ages 4–8; hours TBD |
-|      | **Heritage Park** — Prairie Explorers | Pioneer activities, bannock-making, Indigenous crafts in a real historical village | $325         | SW location (~20 min)                                |
-|      | **SAIT** — Great Outdoors             | Explore Calgary parks, outdoor challenges and team adventures every day            | $400         | Jun 29 & Aug 4 only                                  |
-|      | **UCalgary** — Tots on Treks          | Catch bugs, hike trails, visit the zoo, and splash in the pool                     | $370         | Includes swimming                                    |
-|      | **WinSport** — Wilderness Explorers   | Guided hikes on Paskapoo Slopes, nature crafts, outdoor discovery                  | $370         | ✅ ~15 min; ages 4–8; free before/after care         |
+|      | Camp                                  | What you do                                                                        | $/wk         | Notes                         |
+| ---- | ------------------------------------- | ---------------------------------------------------------------------------------- | ------------ | ----------------------------- |
+| ❤️ | **Confluence** — Birds & Bison        | Spot wildlife along the river, visit the zoo, do nature crafts, go on field trips  | $335–360     | SE location (~20 min)         |
+|      | **Growing Roots** — Forest Explorers  | Child-led outdoor play in real forests, meadows, and valleys                       | ⚠️ Contact | ⚠️ Far (~40 min)            |
+|      | **STS** — Forest Explorers            | description needed                                                                 | ⚠️ TBD     | ⚠️ Far (~45 min); hours TBD |
+|      | **Heritage Park** — Prairie Explorers | Pioneer activities, bannock-making, Indigenous crafts in a real historical village | $325         | SW location (~20 min)         |
+|      | **SAIT** — Great Outdoors             | Explore Calgary parks, outdoor challenges and team adventures every day            | $400         | Jun 29 & Aug 4 only           |
+|      | **UCalgary** — Tots on Treks          | Catch bugs, hike trails, visit the zoo, and splash in the pool                     | $370         | Includes swimming             |
+|      | **WinSport** — Wilderness Explorers   | Guided hikes on Paskapoo Slopes, nature crafts, outdoor discovery                  | $370         | ✅ ~15 min; after care        |
 
 ## ⚽ Sports & Movement
 

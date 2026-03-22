@@ -66,15 +66,10 @@
 - **Schedule updated:** New 2026 locations confirmed — Triwood (Jul 6–10, waitlist), Huntington Hills (Jul 20–24, available), Montgomery (Aug 17–21, waitlist), Edgemont (Aug 24–28, available). Also Airdrie and SE locations.
 - **Status:** No further action needed — register at https://register.alieninline.com/summer-skate-camps-2026
 
-### Enchanted Events — Fairy Camp ✅✅✅ Extremely Close (NW) ⭐ HIGH PRIORITY
-- **What:** Fairy-themed week camp with daily activities — crafts, dance, drama, singing, creative movement, and fairy training. Ends with a graduation show for families on the final day.
-- **Ages:** 4–8 years — she qualifies ✅
-- **Hours:** 9:00am–4:00pm ✅
-- **Location:** #9, 213 19th St NW, Calgary (Kensington area) — ~5 min from West Hillhurst ✅✅
-- **Note:** 2026 dates not yet published online. $75 non-refundable deposit required at registration.
-- **Action:** Contact via https://www.enchantedevents.ca/fairy_camp_1.html — ask: (1) When are the 2026 summer dates? (2) What is the per-week price?
-- **Why high priority:** Fairy/unicorn theme + dance + crafts + singing + drama = hits every one of her top interests. Closest possible location.
-- **Website:** https://www.enchantedevents.ca/fairy_camp_1.html
+### ~~Enchanted Events — Fairy Camp~~ ❌ EXCLUDED (out of business)
+- **Reason:** Enchanted Events is no longer in business as of 2026. Removed from all calendars, summary, and maps.
+- **What was:** Fairy-themed week camp with daily activities — crafts, dance, drama, singing, creative movement, and fairy training. Ends with a graduation show for families on the final day.
+- **Location was:** #9, 213 19th St NW, Calgary (Kensington area) — ~5 min from West Hillhurst
 
 ### StoryBook Theatre — Summer Theatre Camps ✅ Close (NW) — ✅ CONFIRMED
 - **What:** Week-long theatre camps, create and perform an original play by Friday. Ages split into Groundlings (6–7), Minstrels (8–9), Jesters (10–12). **CAMP-StorybookTheatre.md created.**

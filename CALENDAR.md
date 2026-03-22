@@ -347,4 +347,3 @@ These camps run during the summer but specific weeks are not published online:
 | [WinSport Wilderness Explorers](CAMP-WinSport.md) | Outdoor/Nature      | 9 weeks Jun 29–Aug 28 · Ages 4–8 · $296–370/wk · Free before/after care  |
 | [WinSport Summer Sampler](CAMP-WinSport.md)       | Multi-Activity      | 9 weeks Jun 29–Aug 28 · Ages 6–8 · $296–370/wk · Free before/after care  |
 | [Free House Dance Plus](CAMP-FreeHouseDance.md)   | Dance (multi-style) | Jul 13–17, Jul 20–24 confirmed · more weeks TBC · call for details       |
-| [Enchanted Events Fairy Camp](TODO.md)            | Dance/Crafts/Drama  | 2026 dates TBA — contact via enchantedevents.ca ⭐ HIGH PRIORITY         |

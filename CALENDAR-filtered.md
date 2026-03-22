@@ -2,7 +2,7 @@
 
 Filtered to show only ❤️ hearted camps. See [CALENDAR.md](CALENDAR.md) for the full list.
 
-Hearted camps: **Colour on Fire**, **Rundle — Creative Souls+Sportz Sizzler**, **Quest Theatre**, **The Confluence**, **SAIT Digital Creators**, **Enchanted Events Fairy Camp**, **City of Calgary — Arts Ventures**
+Hearted camps: **Colour on Fire**, **Rundle — Creative Souls+Sportz Sizzler**, **Quest Theatre**, **The Confluence**, **SAIT Digital Creators**, **City of Calgary — Arts Ventures**
 
 Weeks run **Sunday to Saturday**. Camp programs typically run Mon–Fri within each week.
 
@@ -136,13 +136,5 @@ Weeks run **Sunday to Saturday**. Camp programs typically run Mon–Fri within e
 > 🎒 Labour Day is **Monday Sep 7** (next week). School starts **Tuesday Sep 8**.
 
 *No camp programs listed for this week — most summer camps have ended.*
-
----
-
-## Dates TBD
-
-| Camp                                             | Type               | Notes                                              |      |
-| ------------------------------------------------ | ------------------ | -------------------------------------------------- | ---- |
-| [Enchanted Events Fairy Camp](TODO.md)           | Dance/Crafts/Drama | 2026 dates TBA — contact via enchantedevents.ca ⭐ | ❤️ |
 
 ---

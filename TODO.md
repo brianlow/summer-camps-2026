@@ -17,11 +17,32 @@
 - **Action:** Call 403-268-3800 — ask: (1) Does a child entering Grade 2 who turns 7 during camp qualify? (2) What are the 2026 dates and price per week?
 - **Website:** https://liveandplay.calgary.ca/REGPROG/public/booking/CourseTypes/AVSDCK
 
+### City of Calgary — Arts & Dance Summer Day Camp ✅ Very close (NW)
+- **What:** Combo camp exploring art techniques and dance styles — kids create choreography and artwork. 9am–4pm.
+- **Ages:** 7–12 years — **need to confirm if child turning 7 during summer qualifies.**
+- **Location:** Likely North Mount Pleasant Arts Centre or similar NW facility — need to confirm.
+- **Action:** Call 403-268-3800 — ask: (1) Which NW facility hosts this? (2) Does a child turning 7 during camp qualify? (3) 2026 dates and price per week?
+- **Website:** https://www.calgary.ca/parks-rec-programs/day-camps/summer.html
+
+### City of Calgary — Rec Adventures Summer Day Camp ✅ Close (NW)
+- **What:** General day camp — games, sports, crafts, and outdoor adventures. Also available as single-day booking. 9am–4pm.
+- **Ages:** 5–12 years — she qualifies ✅
+- **Location:** Multiple City recreation centres — need to confirm nearest NW/W Calgary location.
+- **Action:** Call 403-268-3800 — ask: (1) Which NW/W Calgary facilities host Rec Adventures? (2) 2026 dates and price per week?
+- **Website:** https://liveandplay.calgary.ca/REGPROG/public/booking/CourseTypes/DCRAD5
+
 ### City of Calgary — Rock Climbing Summer Day Camp ✅ Close
 - **What:** Daily bouldering and climbing walls, 2 hours of climbing instruction per day. 9am–4pm.
 - **Ages:** 5–12 years — she qualifies ✅
 - **Location:** Unclear — City recreation facility (likely NW/W Calgary). Registration through liveandplay.calgary.ca.
 - **Action:** Call 403-268-3800 — ask: (1) Which facility hosts the climbing camp? (2) What are the 2026 dates and price per week? (3) Any spots available?
+- **Website:** https://www.calgary.ca/parks-rec-programs/day-camps/summer.html
+
+### City of Calgary — Field Sports / Sports Summer Day Camp
+- **What:** Field Sports (5–12): ultimate frisbee, soccer, lacrosse, park trips. Sports (5–12): variety of sports daily (soccer, basketball, badminton). Both outdoor-focused. 9am–4pm.
+- **Ages:** 5–12 years — she qualifies ✅
+- **Location:** Multiple City recreation centres — need to confirm nearest NW/W Calgary location.
+- **Action:** Call 403-268-3800 — ask: (1) Which NW/W facilities host Field Sports or Sports camps? (2) 2026 dates and price? Good outdoor option even if not her top interest.
 - **Website:** https://www.calgary.ca/parks-rec-programs/day-camps/summer.html
 
 ### Clip Clop — Horseback Riding
@@ -110,6 +131,17 @@
 | Mahogany Dance Arts — Unicorn Sparkles     | Far SE (~40–55 min); Mon–Thurs only (4 days); ends at 3:30pm            | No                            |
 | SAJRD Southern Alberta Junior Roller Derby | Season runs Sept–June only; no summer program                           | No                            |
 | Nature Play Kids — Forest Play Camps       | All sessions end at 1pm (half-day) or 3pm — below 3:30pm cutoff         | No                            |
+| City of Calgary — Dance Camp               | Half-day only (ages 7–9)                                                | No                            |
+| City of Calgary — Golf Camp                | Ages 10–15, half-day — too old                                          | No                            |
+| City of Calgary — Gymnastics Camp          | 2-hour sessions only (half-day)                                         | No                            |
+| City of Calgary — Hockey Beginner Camp     | Skating required; child doesn't skate                                   | No                            |
+| City of Calgary — Leisure Leaders Camp     | Ages 10–12 — too old                                                    | No                            |
+| City of Calgary — Outdoor Adventures Camp  | Ages 8–12 — too old                                                     | No                            |
+| City of Calgary — Rec Adventures Preschool | Ages 3–4 — too young                                                    | No                            |
+| City of Calgary — Sailing Camp             | Ages 7–17, located at Glenmore Reservoir (SW Calgary, ~25 min) — farther but viable if interested in sailing | No |
+| City of Calgary — Skating Skills Camp      | Child doesn't know how to skate                                         | No                            |
+| City of Calgary — Swim to Survive Camp     | Ages 8–12 — too old                                                     | No                            |
+| City of Calgary — Ringette Beginner Camp   | Ages 8–12 — too old                                                     | No                            |
 
 ---
 

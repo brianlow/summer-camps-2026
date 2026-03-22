@@ -11,7 +11,7 @@ We are planning summer camps for my daughter
   - mid tier interests: dancing, singing, lego, scootering, rollerskating
 - **Family:**
   - location: West Hillhurst, Calgary (NW Calgary, ~10 min from UCalgary campus)
-  - would like camps geared towards her interests but also want one or two that will be outdoors and/or skills focused
+  - would like camps geared towards her interests but also want some that will be outdoors and/or skills focused
 
 ## Process
 
@@ -20,7 +20,7 @@ We are planning summer camps for my daughter
 3. Update TODO.md
 4. Update SUMMARY.md
 5. Update CALENDAR.md
-6. Update MAP.md
+6. Update map.geojson
 
 
 Notes:
@@ -64,38 +64,32 @@ Notes:
 
 ## Interactive Map
 
-An interactive map of all camps lives at `map.csv` and is intended for import into [Google My Maps](https://mymaps.google.com).
-
-### Importing
-
-1. Go to [mymaps.google.com](https://mymaps.google.com) → **Create a new map**
-2. Click **Add layer** → **Import** → upload `map.csv`
-3. Google will ask which column to use for location — choose **Address**
-4. Google will ask which column to use for pin titles — choose **Name**
-5. After import, click **Style by data column** → choose **Category** to colour pins by theme
+An interactive map of all camps lives at `map.geojson`. GitHub renders it automatically as a Leaflet.js map — just open the file on GitHub to see it.
 
 ### Categories (pin colours)
 
-| Category | Examples |
-|---|---|
-| STEM & Tech | Robotics, coding, engineering, electronics |
-| Arts & Design | Architecture, game design, animation, drama |
-| Science | Detective science, geography, crafty science |
-| Outdoor & Nature | Nature hikes, outdoor exploration |
-| Sports | Soccer, climbing, track & field, gymnastics |
+| Category | Marker colour | Examples |
+|---|---|---|
+| STEM & Tech | Blue `#0075A2` | Robotics, coding, engineering, electronics |
+| Arts & Design | Purple `#7B2D8B` | Architecture, game design, animation, drama |
+| Science | Green `#1E8449` | Detective science, geography, crafty science |
+| Outdoor & Nature | Orange `#D4680A` | Nature hikes, outdoor exploration |
+| Sports | Red `#C0392B` | Soccer, climbing, track & field, gymnastics |
 
-### CSV columns
+### GeoJSON feature properties
 
-| Column | Notes |
+| Property | Notes |
 |---|---|
-| Name | Short form: `Provider (Topic)` |
-| Address | Full street address for geocoding. UCalgary downtown camps are at 801 7 Ave SW (SAPL building). |
-| Category | One of the five categories above |
-| Description | 1–2 sentence summary + link to the CAMPS-*.md file |
+| name | Short form: `Provider (Topic)` |
+| address | Full street address. UCalgary downtown camps are at 801 7 Ave SW (SAPL building). |
+| category | One of the five categories above |
+| description | 1–2 sentence summary + link to the CAMPS-*.md file |
+| marker-color | Hex colour matching category above |
+| marker-symbol | Maki icon name (`star`, `art-gallery`, `college`, `park`, `swimming`, `music`) |
 
 ### Keeping the map up to date
 
-- **When adding a new camp:** add a row to `map.csv` following the format above
-- **When a provider is removed:** delete the corresponding rows
-- **When spots change:** update the Description field if the status note is relevant (e.g. waitlisted)
+- **When adding a new camp:** add a Feature entry to `map.geojson` with coordinates (use Nominatim or similar to geocode) and properties following the format above
+- **When a provider is removed:** delete the corresponding Feature entries
+- **When spots change:** update the description property if the status note is relevant (e.g. waitlisted)
 - **UCalgary downtown address:** Confirmed as **801 7 Ave SW, Calgary, AB** — UCalgary's SAPL building (office tower conversion, opened Winter 2026), one block from 8th Street LRT station

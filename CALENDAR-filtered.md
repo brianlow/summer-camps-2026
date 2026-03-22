@@ -2,7 +2,7 @@
 
 Filtered to show only ❤️ hearted camps. See [CALENDAR.md](CALENDAR.md) for the full list.
 
-Hearted camps: **Colour on Fire**, **Rundle — Creative Souls**, **Quest Theatre**, **The Confluence**, **SAIT Digital Creators**
+Hearted camps: **Colour on Fire**, **Rundle — Creative Souls+Sportz Sizzler**, **Quest Theatre**, **The Confluence**, **SAIT Digital Creators**, **Enchanted Events Fairy Camp**, **City of Calgary — Arts Ventures**
 
 Weeks run **Sunday to Saturday**. Camp programs typically run Mon–Fri within each week.
 
@@ -32,7 +32,7 @@ Weeks run **Sunday to Saturday**. Camp programs typically run Mon–Fri within e
 
 | Camp                                    | Type            | Notes                               |      |
 | --------------------------------------- | --------------- | ----------------------------------- | ---- |
-| [Rundle College](CAMP-RundleCollege.md) | Multiple combos | $340 · Available (see file)         | ❤️ |
+| [Rundle College](CAMP-RundleCollege.md) | Sportz Sizzler AM + Creative Souls PM | $340 · Available                    | ❤️ |
 
 ---
 
@@ -46,7 +46,6 @@ Weeks run **Sunday to Saturday**. Camp programs typically run Mon–Fri within e
 | [Colour on Fire — Edgemont NW](CAMP-ColourOnFire.md) | Visual Art      | $395                 | ❤️ |
 | [Quest Theatre](CAMP-QuestTheatre.md)                | Drama/Theatre   | $400                 | ❤️ |
 | [SAIT Digital Creators](CAMPS-SAIT.md)               | Coding          | $400 · Open          | ❤️ |
-| [Rundle College](CAMP-RundleCollege.md)              | Multiple combos | Waitlist             | ❤️ |
 
 ---
 
@@ -60,7 +59,6 @@ Weeks run **Sunday to Saturday**. Camp programs typically run Mon–Fri within e
 | [Colour on Fire — Edgemont NW](CAMP-ColourOnFire.md) | Visual Art      | $395                 | ❤️ |
 | [Quest Theatre](CAMP-QuestTheatre.md)                | Drama/Theatre   | $400                 | ❤️ |
 | [The Confluence](CAMP-Confluence.md)                 | Nature/Outdoor  | $360                 | ❤️ |
-| [Rundle College](CAMP-RundleCollege.md)              | Multiple combos | Waitlist             | ❤️ |
 
 ---
 
@@ -74,7 +72,6 @@ Weeks run **Sunday to Saturday**. Camp programs typically run Mon–Fri within e
 | [Colour on Fire — Edgemont NW](CAMP-ColourOnFire.md) | Visual Art      | $395                            | ❤️ |
 | [Quest Theatre](CAMP-QuestTheatre.md)                | Drama/Theatre   | $400                            | ❤️ |
 | [SAIT Digital Creators](CAMPS-SAIT.md)               | Coding          | $400 · Open                     | ❤️ |
-| [Rundle College](CAMP-RundleCollege.md)              | Multiple combos | $400–420 · Available (see file) | ❤️ |
 
 ---
 
@@ -84,10 +81,11 @@ Weeks run **Sunday to Saturday**. Camp programs typically run Mon–Fri within e
 
 | Camp                                                 | Type           | Notes |      |
 | ---------------------------------------------------- | -------------- | ----- | ---- |
-| [Colour on Fire — Rosscarrock](CAMP-ColourOnFire.md) | Visual Art     | $395  | ❤️ |
-| [Colour on Fire — Edgemont NW](CAMP-ColourOnFire.md) | Visual Art     | $395  | ❤️ |
-| [Quest Theatre](CAMP-QuestTheatre.md)                | Drama/Theatre  | $400  | ❤️ |
-| [The Confluence](CAMP-Confluence.md)                 | Nature/Outdoor | $360  | ❤️ |
+| [Colour on Fire — Rosscarrock](CAMP-ColourOnFire.md)    | Visual Art     | $395                                         | ❤️ |
+| [Colour on Fire — Edgemont NW](CAMP-ColourOnFire.md)    | Visual Art     | $395                                         | ❤️ |
+| [Quest Theatre](CAMP-QuestTheatre.md)                   | Drama/Theatre  | $400                                         | ❤️ |
+| [The Confluence](CAMP-Confluence.md)                    | Nature/Outdoor | $360                                         | ❤️ |
+| [City — Arts Ventures](CAMP-CityOfCalgary.md)           | Visual Arts    | $305 · N. Mt Pleasant ~8 min · **2 spots** ⚠️ call first re: age | ❤️ |
 
 ---
 
@@ -138,5 +136,13 @@ Weeks run **Sunday to Saturday**. Camp programs typically run Mon–Fri within e
 > 🎒 Labour Day is **Monday Sep 7** (next week). School starts **Tuesday Sep 8**.
 
 *No camp programs listed for this week — most summer camps have ended.*
+
+---
+
+## Dates TBD
+
+| Camp                                             | Type               | Notes                                              |      |
+| ------------------------------------------------ | ------------------ | -------------------------------------------------- | ---- |
+| [Enchanted Events Fairy Camp](TODO.md)           | Dance/Crafts/Drama | 2026 dates TBA — contact via enchantedevents.ca ⭐ | ❤️ |
 
 ---

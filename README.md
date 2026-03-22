@@ -6,31 +6,31 @@
 
 ## 🎨 Arts & Crafts
 
-|     | Camp                                 | What you do                                                                              | $/wk               | Notes                                                                |
-| --- | ------------------------------------ | ---------------------------------------------------------------------------------------- | ------------------ | -------------------------------------------------------------------- |
-|     | **Westmount Student Care** — CAA     | Daily crafts with themed weeks: Storybook, Pirate Party, Medieval Times (unicorns!)      | $290               | General day camp; ~15 min; reg deadline May 1 ⚠️                   |
-|     | **Westmount Student Care** — JE      | Daily crafts: Witches & Wizards, Out at Sea, Kitchen Chemistry, Outer Space              | $290               | General day camp; ~20 min; runs to Aug 28; reg deadline May 1 ⚠️   |
-|     | **Aliki's Art House** — Art Camps    | Drawing, painting, mixed media — real techniques, small classes (max 10), Friday gallery | ⚠️ Half-day only | ✅ ~10 min NW; ages 5–7 / 7+; full-day combo may be available (call) |
-|     | **Colour on Fire** — Art Camp        | Painting, drawing, and mixed media all week; Thursday art show for families              | $395               | 2 locations (NW + SW)                                                |
-|     | **MRU** — Magical Adventures         | Make spell books, craft wands, paint dragon eggs, act out magical stories                | $400               | ⭐ Top pick; 9 weeks · mostly waitlisted ⚠️                        |
-|     | **MRU** — Tiny Tales                 | Journey through books, invent your own characters, draw and write your own stories       | $400               | ⭐ Great for readers; 3 weeks · very few spots ⚠️                  |
-|     | **Pinnovate** — Summer Art Camp      | 7+ art & craft projects per week — painting, mixed media, DIY builds                     | $375+tax           | ⚠️ Far (SE Calgary)                                                |
-|     | **Rundle College** — Art             | Clay, acrylics, watercolours, pastels — animals, nature, and abstract designs            | $340–420           | ½ day (PM); waitlist                                                 |
-|     | **Rundle College** — Creative Souls  | Crafts, visual art, mixed media, journaling, yoga, and nature-inspired art               | $340–420           | ½ day (AM or PM)                                                     |
-|     | **Rundle College** — Math+Art Fusion | Geometry meets graffiti, symmetry meets sketching — math and art together                | $420               | ½ day (PM); Week 4                                                   |
-|     | **STS** — Art Studio & School Camp   | description needed                                                                       | ⚠️ TBD           | ⚠️ Far (~45 min S, Foothills); hours TBD                           |
-|     | **STS** — Crafty Adventurers Camp    | description needed                                                                       | ⚠️ TBD           | ⚠️ Far (~45 min S, Foothills); Weeks 1–2 only; hours TBD           |
+|      | Camp                                 | What you do                                                                              | $/wk               | Notes                                                                |
+| ---- | ------------------------------------ | ---------------------------------------------------------------------------------------- | ------------------ | -------------------------------------------------------------------- |
+|      | **Westmount Student Care** — CAA     | Daily crafts with themed weeks: Storybook, Pirate Party, Medieval Times (unicorns!)      | $290               | General day camp; ~15 min; reg deadline May 1 ⚠️                   |
+|      | **Westmount Student Care** — JE      | Daily crafts: Witches & Wizards, Out at Sea, Kitchen Chemistry, Outer Space              | $290               | General day camp; ~20 min; runs to Aug 28; reg deadline May 1 ⚠️   |
+|      | **Aliki's Art House** — Art Camps    | Drawing, painting, mixed media — real techniques, small classes (max 10), Friday gallery | ⚠️ Half-day only | ✅ ~10 min NW; ages 5–7 / 7+; full-day combo may be available (call) |
+| ❤️ | **Colour on Fire** — Art Camp        | Painting, drawing, and mixed media all week; Thursday art show for families              | $395               | 2 locations (NW + SW)                                                |
+|      | **MRU** — Magical Adventures         | Make spell books, craft wands, paint dragon eggs, act out magical stories                | $400               | ⭐ Top pick; 9 weeks · mostly waitlisted ⚠️                        |
+|      | **MRU** — Tiny Tales                 | Journey through books, invent your own characters, draw and write your own stories       | $400               | ⭐ Great for readers; 3 weeks · very few spots ⚠️                  |
+|      | **Pinnovate** — Summer Art Camp      | 7+ art & craft projects per week — painting, mixed media, DIY builds                     | $375+tax           | ⚠️ Far (SE Calgary)                                                |
+|      | **Rundle College** — Art             | Clay, acrylics, watercolours, pastels — animals, nature, and abstract designs            | $340–420           | ½ day (PM); waitlist                                                 |
+| ❤️ | **Rundle College** — Creative Souls  | Crafts, visual art, mixed media, journaling, yoga, and nature-inspired art               | $340–420           | ½ day (AM or PM)                                                     |
+|      | **Rundle College** — Math+Art Fusion | Geometry meets graffiti, symmetry meets sketching — math and art together                | $420               | ½ day (PM); Week 4                                                   |
+|      | **STS** — Art Studio & School Camp   | description needed                                                                       | ⚠️ TBD           | ⚠️ Far (~45 min S, Foothills); hours TBD                           |
+|      | **STS** — Crafty Adventurers Camp    | description needed                                                                       | ⚠️ TBD           | ⚠️ Far (~45 min S, Foothills); Weeks 1–2 only; hours TBD           |
 
 ## 🎭 Drama & Theatre
 
-|     | Camp                              | What you do                                                                 | $/wk     | Notes                                      |
-| --- | --------------------------------- | --------------------------------------------------------------------------- | -------- | ------------------------------------------ |
-|     | **CYPT** — Drama Camp             | Learn acting and improv, then make a whole play from scratch and perform it | $350     | Very close (NW, 8 min)                     |
-|     | **STS** — Theatre Camp            | description needed                                                          | ⚠️ TBD | ⚠️ Far (~45 min S, Foothills); hours TBD |
-|     | **MRU** — C.A.T.S.                | Crafts, puppet theatre, science experiments, and basic computer skills      | $400     | All summer                                 |
-|     | **Quest Theatre** — Drama Camp    | Make a play with a small group, build props and costumes, perform Friday    | $400     | Small groups (max 16) ✅                   |
-|     | **Rundle College** — Theatre Camp | Drama games, storytelling, and perform an original story on a real stage    | $340–420 | ½ day (PM); waitlist                       |
-|     | **SAIT** — Acting Stars           | Act out characters, drama games, and bring stories to life on stage         | $400     | Jun 29 & Aug 4 only                        |
+|      | Camp                              | What you do                                                                 | $/wk     | Notes                                      |
+| ---- | --------------------------------- | --------------------------------------------------------------------------- | -------- | ------------------------------------------ |
+|      | **CYPT** — Drama Camp             | Learn acting and improv, then make a whole play from scratch and perform it | $350     | Very close (NW, 8 min)                     |
+|      | **STS** — Theatre Camp            | description needed                                                          | ⚠️ TBD | ⚠️ Far (~45 min S, Foothills); hours TBD |
+|      | **MRU** — C.A.T.S.                | Crafts, puppet theatre, science experiments, and basic computer skills      | $400     | All summer                                 |
+| ❤️ | **Quest Theatre** — Drama Camp    | Make a play with a small group, build props and costumes, perform Friday    | $400     | Small groups (max 16) ✅                   |
+|      | **Rundle College** — Theatre Camp | Drama games, storytelling, and perform an original story on a real stage    | $340–420 | ½ day (PM); waitlist                       |
+|      | **SAIT** — Acting Stars           | Act out characters, drama games, and bring stories to life on stage         | $400     | Jun 29 & Aug 4 only                        |
 
 ## 💃 Dance
 
@@ -67,15 +67,15 @@
 
 ## 🌿 Nature & Outdoors
 
-|     | Camp                                  | What you do                                                                        | $/wk         | Notes                                                |
-| --- | ------------------------------------- | ---------------------------------------------------------------------------------- | ------------ | ---------------------------------------------------- |
-|     | **Confluence** — Birds & Bison        | Spot wildlife along the river, visit the zoo, do nature crafts, go on field trips  | $335–360     | SE location (~20 min)                                |
-|     | **Growing Roots** — Forest Explorers  | Child-led outdoor play in real forests, meadows, and valleys                       | ⚠️ Contact | ⚠️ Far (~40 min, Cochrane)                         |
-|     | **STS** — Forest Explorers            | description needed                                                                 | ⚠️ TBD     | ⚠️ Far (~45 min S, Foothills); ages 4–8; hours TBD |
-|     | **Heritage Park** — Prairie Explorers | Pioneer activities, bannock-making, Indigenous crafts in a real historical village | $325         | SW location (~20 min)                                |
-|     | **SAIT** — Great Outdoors             | Explore Calgary parks, outdoor challenges and team adventures every day            | $400         | Jun 29 & Aug 4 only                                  |
-|     | **UCalgary** — Tots on Treks          | Catch bugs, hike trails, visit the zoo, and splash in the pool                     | $370         | Includes swimming                                    |
-|     | **WinSport** — Wilderness Explorers   | Guided hikes on Paskapoo Slopes, nature crafts, outdoor discovery                  | $370         | ✅ ~15 min; ages 4–8; free before/after care         |
+|      | Camp                                  | What you do                                                                        | $/wk         | Notes                                                |
+| ---- | ------------------------------------- | ---------------------------------------------------------------------------------- | ------------ | ---------------------------------------------------- |
+| ❤️ | **Confluence** — Birds & Bison        | Spot wildlife along the river, visit the zoo, do nature crafts, go on field trips  | $335–360     | SE location (~20 min)                                |
+|      | **Growing Roots** — Forest Explorers  | Child-led outdoor play in real forests, meadows, and valleys                       | ⚠️ Contact | ⚠️ Far (~40 min, Cochrane)                         |
+|      | **STS** — Forest Explorers            | description needed                                                                 | ⚠️ TBD     | ⚠️ Far (~45 min S, Foothills); ages 4–8; hours TBD |
+|      | **Heritage Park** — Prairie Explorers | Pioneer activities, bannock-making, Indigenous crafts in a real historical village | $325         | SW location (~20 min)                                |
+|      | **SAIT** — Great Outdoors             | Explore Calgary parks, outdoor challenges and team adventures every day            | $400         | Jun 29 & Aug 4 only                                  |
+|      | **UCalgary** — Tots on Treks          | Catch bugs, hike trails, visit the zoo, and splash in the pool                     | $370         | Includes swimming                                    |
+|      | **WinSport** — Wilderness Explorers   | Guided hikes on Paskapoo Slopes, nature crafts, outdoor discovery                  | $370         | ✅ ~15 min; ages 4–8; free before/after care         |
 
 ## ⚽ Sports & Movement
 
@@ -98,28 +98,28 @@
 
 ## 🔬 STEM & Tech
 
-|     | Camp                                  | What you do                                                                     | $/wk     | Notes                   |
-| --- | ------------------------------------- | ------------------------------------------------------------------------------- | -------- | ----------------------- |
-|     | **Camp STEAM** — Minecraft/LEGO       | Minecraft missions and LEGO engineering challenges with STEAM projects          | $268     | Very close (5 min) ✅✅ |
-|     | **Rundle College** — LEGO Camp        | Design and build bridges, towers, and zipline cars — engineering challenges     | $340–420 | ½ day (PM)              |
-|     | **Rundle College** — STEAM            | Science, tech, engineering, art, math — hands-on collaborative projects         | $340–420 | ½ day (PM); waitlist    |
-|     | **Rundle College** — Tech Wizards     | Code with Blockly, make movies in iMovie, use your own iPad all week            | $340–420 | ½ day (PM); waitlist    |
-|     | **SAIT** — Crafty Science Junior      | Mix art and science — experiments with colours and materials                    | $400     | Waitlisted              |
-|     | **SAIT** — Digital Creators           | Learn to code by making your own games and projects                             | $400     | Some spots open         |
-|     | **SAIT** — SciSpy Jr. Detectives      | Solve mysteries using science — decode clues, collect evidence                  | $400     | Waitlisted              |
-|     | **SAIT** — STEAM Junior Engineers     | Design, build, and invent! Engineering challenges mixing science, art, and math | $400     | Waitlisted              |
-|     | **Steamoji** — Art of Games           | Design your own board or card game — draw characters, invent the rules          | $399     | ⚠️ Ends 3pm           |
-|     | **Steamoji** — Carnival of Creativity | Make a digital story and bring it to life with crafted props — art + coding     | $399     | ⚠️ Ends 3pm           |
-|     | **Steamoji** — RoboCity Builders      | Build a little robot city with lights, moving bots, and electronic details      | $399     | ⚠️ Ends 3pm           |
-|     | **Steamoji** — STEAM Goes Medieval    | Build your own castle and launch a catapult you make yourself                   | $399     | ⚠️ Ends 3pm           |
-|     | **Steamoji** — VEX Robotics           | Build a real robot from scratch and make it move and react                      | $499     | ⚠️ Ends 3pm           |
-|     | **UCalgary** — Achieve Architecture   | Design and build your own buildings — draw plans, make scale models             | ~$370    | Downtown location       |
-|     | **UCalgary** — City Building          | Use real Calgary streets to design your own city — map and build models         | ~$370    | Downtown location       |
-|     | **UCalgary** — Early Technology       | Build circuits, explore electronics, program a robot using colours              | $296     | 1 session only          |
-|     | **UCalgary** — GeoVenture             | Explore the world on Google Earth and go geocaching outside!                    | $370     | Campus                  |
-|     | **UCalgary** — Jr. LEGO Stop Motion   | Make your own LEGO movie — write the story, film it, show it at a film fest     | $425     | 1 session only          |
-|     | **UCalgary** — Landscape Lab          | Design parks and green spaces using sticks, soil, and stones to build models    | ~$370    | Downtown location       |
-|     | **UCalgary** — Mini Brick Builders    | Build giant LEGO cities, bridges, and vehicles — plus pool games                | $370     | ⚠️ 1 spot left        |
+|      | Camp                                  | What you do                                                                     | $/wk     | Notes                   |
+| ---- | ------------------------------------- | ------------------------------------------------------------------------------- | -------- | ----------------------- |
+|      | **Camp STEAM** — Minecraft/LEGO       | Minecraft missions and LEGO engineering challenges with STEAM projects          | $268     | Very close (5 min) ✅✅ |
+|      | **Rundle College** — LEGO Camp        | Design and build bridges, towers, and zipline cars — engineering challenges     | $340–420 | ½ day (PM)              |
+|      | **Rundle College** — STEAM            | Science, tech, engineering, art, math — hands-on collaborative projects         | $340–420 | ½ day (PM); waitlist    |
+|      | **Rundle College** — Tech Wizards     | Code with Blockly, make movies in iMovie, use your own iPad all week            | $340–420 | ½ day (PM); waitlist    |
+|      | **SAIT** — Crafty Science Junior      | Mix art and science — experiments with colours and materials                    | $400     | Waitlisted              |
+| ❤️ | **SAIT** — Digital Creators           | Learn to code by making your own games and projects                             | $400     | Some spots open         |
+|      | **SAIT** — SciSpy Jr. Detectives      | Solve mysteries using science — decode clues, collect evidence                  | $400     | Waitlisted              |
+|      | **SAIT** — STEAM Junior Engineers     | Design, build, and invent! Engineering challenges mixing science, art, and math | $400     | Waitlisted              |
+|      | **Steamoji** — Art of Games           | Design your own board or card game — draw characters, invent the rules          | $399     | ⚠️ Ends 3pm           |
+|      | **Steamoji** — Carnival of Creativity | Make a digital story and bring it to life with crafted props — art + coding     | $399     | ⚠️ Ends 3pm           |
+|      | **Steamoji** — RoboCity Builders      | Build a little robot city with lights, moving bots, and electronic details      | $399     | ⚠️ Ends 3pm           |
+|      | **Steamoji** — STEAM Goes Medieval    | Build your own castle and launch a catapult you make yourself                   | $399     | ⚠️ Ends 3pm           |
+|      | **Steamoji** — VEX Robotics           | Build a real robot from scratch and make it move and react                      | $499     | ⚠️ Ends 3pm           |
+|      | **UCalgary** — Achieve Architecture   | Design and build your own buildings — draw plans, make scale models             | ~$370    | Downtown location       |
+|      | **UCalgary** — City Building          | Use real Calgary streets to design your own city — map and build models         | ~$370    | Downtown location       |
+|      | **UCalgary** — Early Technology       | Build circuits, explore electronics, program a robot using colours              | $296     | 1 session only          |
+|      | **UCalgary** — GeoVenture             | Explore the world on Google Earth and go geocaching outside!                    | $370     | Campus                  |
+|      | **UCalgary** — Jr. LEGO Stop Motion   | Make your own LEGO movie — write the story, film it, show it at a film fest     | $425     | 1 session only          |
+|      | **UCalgary** — Landscape Lab          | Design parks and green spaces using sticks, soil, and stones to build models    | ~$370    | Downtown location       |
+|      | **UCalgary** — Mini Brick Builders    | Build giant LEGO cities, bridges, and vehicles — plus pool games                | $370     | ⚠️ 1 spot left        |
 
 ---
 

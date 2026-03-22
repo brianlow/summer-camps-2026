@@ -4,7 +4,7 @@
 **Hours:** 9:00am–4:00pm, Mon–Fri | Complimentary before care 8–9am | after care 4–5pm ✅
 **Ages:** Gr 1–3 (entering Grades 1–3 in fall 2026, ages 5–9)
 **Price:** $400 / five-day week | $320 / four-day week
-**More info / Book:** https://www.mtroyal.ca/mrucamps/ | mrucamps@mtroyal.ca | 403-440-6001
+**More info / Book:** https://www.mtroyal.ca/mrucamps/ | mrucamps@mtroyal.ca | 403-440-6001 | [full chart of camps](https://www.mtroyal.ca/mrucamps/2026-Summer-Camp-Registration-Cheat-Sheet-V2.pdf)
 
 Note: No camps on July 1 (Canada Day) or August 3 (Heritage Day).
 
@@ -18,17 +18,17 @@ Note: No camps on July 1 (Canada Day) or August 3 (Heritage Day).
 
 - **Indoor/Outdoor:** Both — indoor studio + pool (select weeks) + climbing wall (week 1)
 
-| Dates | Notes |
-|---|---|
-| Jun 29–Jul 3 (4 days) | $320 — includes climbing wall |
-| Jul 6–10 | $400 — includes pool |
-| Jul 13–17 | $400 — includes pool |
-| Jul 20–24 | $400 |
-| Jul 27–31 | $400 |
-| Aug 4–7 (4 days) | $320 |
-| Aug 10–14 | $400 |
-| Aug 17–21 | $400 |
-| Aug 24–28 | $400 |
+| Dates | Notes | Spots |
+|---|---|---|
+| Jun 29–Jul 3 (4 days) | $320 — includes climbing wall | Swimming: 10 |
+| Jul 6–10 | $400 — includes pool | Waitlist |
+| Jul 13–17 | $400 — includes pool | Waitlist |
+| Jul 20–24 | $400 | Waitlist |
+| Jul 27–31 | $400 | Swimming: 4 |
+| Aug 4–7 (4 days) | $320 | Swimming: 9 |
+| Aug 10–14 | $400 | Swimming: 7 |
+| Aug 17–21 | $400 | Waitlist |
+| Aug 24–28 | $400 | Swimming: 20 |
 
 ---
 
@@ -40,11 +40,11 @@ Note: No camps on July 1 (Canada Day) or August 3 (Heritage Day).
 
 - **Indoor/Outdoor:** Both — indoor creative activities + climbing wall
 
-| Dates | Notes |
-|---|---|
-| Jul 6–10 | $400 |
-| Jul 20–24 | $400 |
-| Aug 17–21 | $400 |
+| Dates | Notes | Spots |
+|---|---|---|
+| Jul 6–10 | $400 | Climbing: 3 |
+| Jul 20–24 | $400 | Climbing: 2 |
+| Aug 17–21 | $400 | Waitlist |
 
 ---
 
@@ -56,17 +56,17 @@ Note: No camps on July 1 (Canada Day) or August 3 (Heritage Day).
 
 - **Indoor/Outdoor:** Both — indoor activities + pool (select weeks) + climbing wall (week 1)
 
-| Dates | Notes |
-|---|---|
-| Jun 29–Jul 3 (4 days) | $320 |
-| Jul 6–10 | $400 |
-| Jul 13–17 | $400 |
-| Jul 20–24 | $400 |
-| Jul 27–31 | $400 |
-| Aug 4–7 (4 days) | $320 |
-| Aug 10–14 | $400 |
-| Aug 17–21 | $400 |
-| Aug 24–28 | $400 |
+| Dates | Notes | Spots |
+|---|---|---|
+| Jun 29–Jul 3 (4 days) | $320 | Climbing: 1 / Swimming: 24 |
+| Jul 6–10 | $400 | Swimming (S3): 14 |
+| Jul 13–17 | $400 | Waitlist |
+| Jul 20–24 | $400 | Climbing: 1 / Swimming: 8 |
+| Jul 27–31 | $400 | Climbing: 8 / Swimming: 30 |
+| Aug 4–7 (4 days) | $320 | Climbing: 10 / Swimming: 15 |
+| Aug 10–14 | $400 | Climbing: 8 / Swimming: 20 |
+| Aug 17–21 | $400 | Swimming: 12 |
+| Aug 24–28 | $400 | Swimming (S2): 2 / Swimming (S3): 22 |
 
 ---
 

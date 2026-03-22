@@ -30,8 +30,8 @@ Weeks run **Sunday to Saturday**. Camp programs typically run Mon–Fri within e
 
 | Camp                                                     | Type                 | Notes                        |      |
 | -------------------------------------------------------- | -------------------- | ---------------------------- | ---- |
-| [MRU Magical Adventures](CAMP-MRU.md)                    | Arts/Crafts/Fantasy  | $320 (4-day)                 |      |
-| [MRU C.A.T.S.](CAMP-MRU.md)                              | STEAM mix            | $320 (4-day)                 |      |
+| [MRU Magical Adventures](CAMP-MRU.md)                    | Arts/Crafts/Fantasy  | $320 (4-day) · Swimming: 10 spots |      |
+| [MRU C.A.T.S.](CAMP-MRU.md)                              | STEAM mix            | $320 (4-day) · Climbing: 1 / Swimming: 24 |      |
 | [UCalgary Tots on Treks](CAMPS-UofC.md)                  | Outdoor/Nature       | $296 · 32 spots              |      |
 | [UCalgary Climb On!](CAMPS-UofC.md)                      | Climbing/Outdoor     | $296 · 6 spots               |      |
 | [UCalgary Mini Outdoor Sports & Games](CAMPS-UofC.md)    | Sports/Outdoor       | $296 · 1 spot ⚠️           |      |
@@ -55,9 +55,9 @@ Weeks run **Sunday to Saturday**. Camp programs typically run Mon–Fri within e
 
 | Camp                                                    | Type                  | Notes                        |
 | ------------------------------------------------------- | --------------------- | ---------------------------- |
-| [MRU Magical Adventures](CAMP-MRU.md)                   | Arts/Crafts/Fantasy   | $400                         |
-| [MRU Tiny Tales](CAMP-MRU.md)                           | Literacy/Storytelling | $400                         |
-| [MRU C.A.T.S.](CAMP-MRU.md)                             | STEAM mix             | $400                         |
+| [MRU Magical Adventures](CAMP-MRU.md)                   | Arts/Crafts/Fantasy   | $400 · Waitlist              |
+| [MRU Tiny Tales](CAMP-MRU.md)                           | Literacy/Storytelling | $400 · Climbing: 3 spots ⚠️ |
+| [MRU C.A.T.S.](CAMP-MRU.md)                             | STEAM mix             | $400 · Swimming: 14 spots    |
 | [UCalgary Tots on Treks](CAMPS-UofC.md)                 | Outdoor/Nature        | $370 · 4 spots ⚠️          |
 | [UCalgary Achieve Architecture](CAMPS-UofC.md)          | Design/Architecture   | $370 · 1 spot ⚠️           |
 | [UCalgary Gymnastics — Cochrane](CAMPS-UofC.md)         | Gymnastics            | Price TBD · 3 spots ⚠️     |
@@ -83,8 +83,8 @@ Weeks run **Sunday to Saturday**. Camp programs typically run Mon–Fri within e
 
 | Camp                                                        | Type                 | Notes                        |
 | ----------------------------------------------------------- | -------------------- | ---------------------------- |
-| [MRU Magical Adventures](CAMP-MRU.md)                       | Arts/Crafts/Fantasy  | $400                         |
-| [MRU C.A.T.S.](CAMP-MRU.md)                                 | STEAM mix            | $400                         |
+| [MRU Magical Adventures](CAMP-MRU.md)                       | Arts/Crafts/Fantasy  | $400 · Waitlist              |
+| [MRU C.A.T.S.](CAMP-MRU.md)                                 | STEAM mix            | $400 · Waitlist              |
 | [UCalgary Mini Outdoor Sports & Games](CAMPS-UofC.md)       | Sports/Outdoor       | $370 · 1 spot ⚠️           |
 | [UCalgary Gymnastics — Cochrane](CAMPS-UofC.md)             | Gymnastics           | Price TBD · 2 spots ⚠️     |
 | [UCalgary Landscape Lab](CAMPS-UofC.md)                     | Landscape Design     | $370 · 14 spots              |
@@ -110,9 +110,9 @@ Weeks run **Sunday to Saturday**. Camp programs typically run Mon–Fri within e
 
 | Camp                                                       | Type                  | Notes                                  |
 | ---------------------------------------------------------- | --------------------- | -------------------------------------- |
-| [MRU Magical Adventures](CAMP-MRU.md)                      | Arts/Crafts/Fantasy   | $400                                   |
-| [MRU Tiny Tales](CAMP-MRU.md)                              | Literacy/Storytelling | $400                                   |
-| [MRU C.A.T.S.](CAMP-MRU.md)                                | STEAM mix             | $400                                   |
+| [MRU Magical Adventures](CAMP-MRU.md)                      | Arts/Crafts/Fantasy   | $400 · Waitlist                        |
+| [MRU Tiny Tales](CAMP-MRU.md)                              | Literacy/Storytelling | $400 · Climbing: 2 spots ⚠️           |
+| [MRU C.A.T.S.](CAMP-MRU.md)                                | STEAM mix             | $400 · Climbing: 1 / Swimming: 8       |
 | [UCalgary Tots on Treks](CAMPS-UofC.md)                    | Outdoor/Nature        | $370 · 7 spots                         |
 | [UCalgary City Building](CAMPS-UofC.md)                    | Urban Design          | $370 · 9 spots                         |
 | [UCalgary Dinos Soccer — Girls](CAMPS-UofC.md)             | Soccer                | $300 · 14 spots                        |
@@ -140,8 +140,8 @@ Weeks run **Sunday to Saturday**. Camp programs typically run Mon–Fri within e
 
 | Camp                                                    | Type                | Notes                        |
 | ------------------------------------------------------- | ------------------- | ---------------------------- |
-| [MRU Magical Adventures](CAMP-MRU.md)                   | Arts/Crafts/Fantasy | $400                         |
-| [MRU C.A.T.S.](CAMP-MRU.md)                             | STEAM mix           | $400                         |
+| [MRU Magical Adventures](CAMP-MRU.md)                   | Arts/Crafts/Fantasy | $400 · Swimming: 4 spots     |
+| [MRU C.A.T.S.](CAMP-MRU.md)                             | STEAM mix           | $400 · Swimming: 30 spots    |
 | [UCalgary Tots on Treks](CAMPS-UofC.md)                 | Outdoor/Nature      | $370 · 17 spots              |
 | [UCalgary Achieve Architecture](CAMPS-UofC.md)          | Design/Architecture | $370 · 4 spots               |
 | [UCalgary Landscape Lab](CAMPS-UofC.md)                 | Landscape Design    | $370 · 11 spots              |
@@ -166,8 +166,8 @@ Weeks run **Sunday to Saturday**. Camp programs typically run Mon–Fri within e
 
 | Camp                                                    | Type                 | Notes                                    |
 | ------------------------------------------------------- | -------------------- | ---------------------------------------- |
-| [MRU Magical Adventures](CAMP-MRU.md)                   | Arts/Crafts/Fantasy  | $320 (4-day, Aug 4–7)                    |
-| [MRU C.A.T.S.](CAMP-MRU.md)                             | STEAM mix            | $320 (4-day, Aug 4–7)                    |
+| [MRU Magical Adventures](CAMP-MRU.md)                   | Arts/Crafts/Fantasy  | $320 (4-day) · Swimming: 9 spots         |
+| [MRU C.A.T.S.](CAMP-MRU.md)                             | STEAM mix            | $320 (4-day) · Climbing: 10 / Swimming: 15 |
 | [UCalgary Tots on Treks](CAMPS-UofC.md)                 | Outdoor/Nature       | $296 · Aug 4–7 · 16 spots                |
 | [UCalgary City Building](CAMPS-UofC.md)                 | Urban Design         | $296 · Aug 4–7 · 8 spots                 |
 | [UCalgary GeoVenture](CAMPS-UofC.md)                    | Geography/Geocaching | $296 · Aug 4–7 · 13 spots                |
@@ -190,8 +190,8 @@ Weeks run **Sunday to Saturday**. Camp programs typically run Mon–Fri within e
 
 | Camp                                                    | Type                | Notes                         |
 | ------------------------------------------------------- | ------------------- | ----------------------------- |
-| [MRU Magical Adventures](CAMP-MRU.md)                   | Arts/Crafts/Fantasy | $400                          |
-| [MRU C.A.T.S.](CAMP-MRU.md)                             | STEAM mix           | $400                          |
+| [MRU Magical Adventures](CAMP-MRU.md)                   | Arts/Crafts/Fantasy | $400 · Swimming: 7 spots      |
+| [MRU C.A.T.S.](CAMP-MRU.md)                             | STEAM mix           | $400 · Climbing: 8 / Swimming: 20 |
 | [UCalgary Tots on Treks](CAMPS-UofC.md)                 | Outdoor/Nature      | $370 · 11 spots               |
 | [UCalgary Gymnastics — Cochrane](CAMPS-UofC.md)         | Gymnastics          | Price TBD · 3 spots ⚠️      |
 | [UCalgary Dinos Track & Field](CAMPS-UofC.md)           | Track/Field         | $425 · ends 3:15pm ⚠️       |
@@ -217,9 +217,9 @@ Weeks run **Sunday to Saturday**. Camp programs typically run Mon–Fri within e
 
 | Camp                                                       | Type                  | Notes                              |
 | ---------------------------------------------------------- | --------------------- | ---------------------------------- |
-| [MRU Magical Adventures](CAMP-MRU.md)                      | Arts/Crafts/Fantasy   | $400                               |
-| [MRU Tiny Tales](CAMP-MRU.md)                              | Literacy/Storytelling | $400                               |
-| [MRU C.A.T.S.](CAMP-MRU.md)                                | STEAM mix             | $400                               |
+| [MRU Magical Adventures](CAMP-MRU.md)                      | Arts/Crafts/Fantasy   | $400 · Waitlist                    |
+| [MRU Tiny Tales](CAMP-MRU.md)                              | Literacy/Storytelling | $400 · Waitlist                    |
+| [MRU C.A.T.S.](CAMP-MRU.md)                                | STEAM mix             | $400 · Swimming: 12 spots          |
 | [UCalgary Tots on Treks](CAMPS-UofC.md)                    | Outdoor/Nature        | $370 · 9 spots · no pool this week |
 | [UCalgary Mini Brick Builders](CAMPS-UofC.md)              | LEGO/Outdoor          | $370 · 1 spot ⚠️                 |
 | [UCalgary Dinos Track & Field](CAMPS-UofC.md)              | Track/Field           | $425 · 12 spots · ends 3:15pm ⚠️ |
@@ -239,8 +239,8 @@ Weeks run **Sunday to Saturday**. Camp programs typically run Mon–Fri within e
 
 | Camp                                                     | Type                | Notes                           |
 | -------------------------------------------------------- | ------------------- | ------------------------------- |
-| [MRU Magical Adventures](CAMP-MRU.md)                    | Arts/Crafts/Fantasy | $400                            |
-| [MRU C.A.T.S.](CAMP-MRU.md)                              | STEAM mix           | $400                            |
+| [MRU Magical Adventures](CAMP-MRU.md)                    | Arts/Crafts/Fantasy | $400 · Swimming: 20 spots       |
+| [MRU C.A.T.S.](CAMP-MRU.md)                              | STEAM mix           | $400 · Swimming: 22 spots       |
 | [Alien In-Line](CAMP-AlienInLine.md)                     | Inline Skating      | $425 · Edgemont NW · Available  |
 | [CYPT](CAMP-CYPT.md)                                     | Drama/Theatre       | $350 · check website            |
 | [Camp STEAM](CAMP-Steam.md)                              | STEAM/LEGO          | $268                            |

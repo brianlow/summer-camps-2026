@@ -6,25 +6,27 @@ One line per camp. See individual CAMP-*.md files for full details.
 
 ## 🎨 Arts & Crafts
 
-|     | Camp                                 | What you do                                                                        | $/wk     | Notes                                               |
-| --- | ------------------------------------ | ---------------------------------------------------------------------------------- | -------- | --------------------------------------------------- |
-|     | **Colour on Fire** — Art Camp        | Painting, drawing, and mixed media all week; Thursday art show for families        | $395     | 2 locations (NW + SW)                               |
-|     | **MRU** — Magical Adventures         | Make spell books, craft wands, paint dragon eggs, act out magical stories          | $400     | ⭐ Top pick; 9 weeks · mostly waitlisted ⚠️       |
-|     | **MRU** — Tiny Tales                 | Journey through books, invent your own characters, draw and write your own stories | $400     | ⭐ Great for readers; 3 weeks · very few spots ⚠️ |
-|     | **Pinnovate** — Summer Art Camp      | 7+ art & craft projects per week — painting, mixed media, DIY builds               | $375+tax | ⚠️ Far (SE Calgary)                               |
-|     | **Rundle College** — Art             | Clay, acrylics, watercolours, pastels — animals, nature, and abstract designs      | $340–420 | ½ day (PM); waitlist                                |
-|     | **Rundle College** — Creative Souls  | Crafts, visual art, mixed media, journaling, yoga, and nature-inspired art         | $340–420 | ½ day (AM or PM)                                    |
-|     | **Rundle College** — Math+Art Fusion | Geometry meets graffiti, symmetry meets sketching — math and art together          | $420     | ½ day (PM); Week 4                                  |
+|     | Camp                                 | What you do                                                                         | $/wk     | Notes                                                              |
+| --- | ------------------------------------ | ----------------------------------------------------------------------------------- | -------- | ------------------------------------------------------------------ |
+|     | **Westmount Student Care** — CAA     | Daily crafts with themed weeks: Storybook, Pirate Party, Medieval Times (unicorns!) | $290     | General day camp; ~15 min; reg deadline May 1 ⚠️                 |
+|     | **Westmount Student Care** — JE      | Daily crafts: Witches & Wizards, Out at Sea, Kitchen Chemistry, Outer Space         | $290     | General day camp; ~20 min; runs to Aug 28; reg deadline May 1 ⚠️ |
+|     | **Colour on Fire** — Art Camp        | Painting, drawing, and mixed media all week; Thursday art show for families         | $395     | 2 locations (NW + SW)                                              |
+|     | **MRU** — Magical Adventures         | Make spell books, craft wands, paint dragon eggs, act out magical stories           | $400     | ⭐ Top pick; 9 weeks · mostly waitlisted ⚠️                      |
+|     | **MRU** — Tiny Tales                 | Journey through books, invent your own characters, draw and write your own stories  | $400     | ⭐ Great for readers; 3 weeks · very few spots ⚠️                |
+|     | **Pinnovate** — Summer Art Camp      | 7+ art & craft projects per week — painting, mixed media, DIY builds                | $375+tax | ⚠️ Far (SE Calgary)                                              |
+|     | **Rundle College** — Art             | Clay, acrylics, watercolours, pastels — animals, nature, and abstract designs       | $340–420 | ½ day (PM); waitlist                                               |
+|     | **Rundle College** — Creative Souls  | Crafts, visual art, mixed media, journaling, yoga, and nature-inspired art          | $340–420 | ½ day (AM or PM)                                                   |
+|     | **Rundle College** — Math+Art Fusion | Geometry meets graffiti, symmetry meets sketching — math and art together           | $420     | ½ day (PM); Week 4                                                 |
 
 ## 🎭 Drama & Theatre
 
-|      | Camp                              | What you do                                                                 | $/wk     | Notes                    |
-| ---- | --------------------------------- | --------------------------------------------------------------------------- | -------- | ------------------------ |
-|      | **CYPT** — Drama Camp             | Learn acting and improv, then make a whole play from scratch and perform it | $350     | Very close (NW, 8 min)   |
-|      | **MRU** — C.A.T.S.                | Crafts, puppet theatre, science experiments, and basic computer skills      | $400     | All summer               |
-|      | **Quest Theatre** — Drama Camp    | Make a play with a small group, build props and costumes, perform Friday    | $400     | Small groups (max 16) ✅ |
-|      | **Rundle College** — Theatre Camp | Drama games, storytelling, and perform an original story on a real stage    | $340–420 | ½ day (PM); waitlist     |
-|      | **SAIT** — Acting Stars           | Act out characters, drama games, and bring stories to life on stage         | $400     | Jun 29 & Aug 4 only      |
+|     | Camp                              | What you do                                                                 | $/wk     | Notes                    |
+| --- | --------------------------------- | --------------------------------------------------------------------------- | -------- | ------------------------ |
+|     | **CYPT** — Drama Camp             | Learn acting and improv, then make a whole play from scratch and perform it | $350     | Very close (NW, 8 min)   |
+|     | **MRU** — C.A.T.S.                | Crafts, puppet theatre, science experiments, and basic computer skills      | $400     | All summer               |
+|     | **Quest Theatre** — Drama Camp    | Make a play with a small group, build props and costumes, perform Friday    | $400     | Small groups (max 16) ✅ |
+|     | **Rundle College** — Theatre Camp | Drama games, storytelling, and perform an original story on a real stage    | $340–420 | ½ day (PM); waitlist     |
+|     | **SAIT** — Acting Stars           | Act out characters, drama games, and bring stories to life on stage         | $400     | Jun 29 & Aug 4 only      |
 
 ## 🎵 Music
 

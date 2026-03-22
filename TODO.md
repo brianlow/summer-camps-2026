@@ -82,50 +82,51 @@
 
 ## ⏰ Excluded (for reference)
 
-| Camp | Reason | CAMP file? |
-|---|---|---|
-| Aliki's Art House | Likely half-day only — needs confirmation | No (in TODO above) |
-| Neon Milkshake | AM only — half-day excluded | No |
-| CYPT half-day | Half-day excluded | No (full-day in CAMP-CYPT.md) |
-| AUArts Kids Camps | Ages 9–12 confirmed — too old for now (save for Grade 4) | No |
-| WinSport Archery | Age 9–14 — too old | No |
-| Country Trails Riding | Age 8–14 — too old | No |
-| Humblehorse Ranch | Age 9+ — too old | No |
-| Element Martial Arts | Ends 3:00pm; only 2 weeks; far SE | CAMP-ElementMA.md (flagged) |
-| Elbow Valley Outdoor Camp | Restricted to Elbow Valley residents only | No |
-| Skating Camp (ice) | Child doesn't know how to skate | No |
-| Shooting Stars Summer Intensive | Evening only (4:10–7:30pm) | No |
-| Steamoji (Calgary West + North) | All camps end 3:00pm — below 3:30pm cutoff; no aftercare listed | CAMPS-Steamoji.md |
-| Calgary Zoo Summer Camps | Completely sold out for all 2026 sessions (all age groups); no waitlist | No |
-| Studio Bell — Music Makers (ages 6–9) | Sold out all 2026 sessions | No |
-| North Calgary Dance Centre | Half-day only (9:30am–12:30pm) — below cutoff | No |
-| Mahogany Dance Arts — Unicorn Sparkles | Far SE (~40–55 min); Mon–Thurs only (4 days); ends at 3:30pm | No |
-| SAJRD Southern Alberta Junior Roller Derby | Season runs Sept–June only; no summer program | No |
+| Camp                                       | Reason                                                                  | CAMP file?                    |
+| ------------------------------------------ | ----------------------------------------------------------------------- | ----------------------------- |
+| Aliki's Art House                          | Likely half-day only — needs confirmation                               | No (in TODO above)            |
+| Neon Milkshake                             | AM only — half-day excluded                                             | No                            |
+| CYPT half-day                              | Half-day excluded                                                       | No (full-day in CAMP-CYPT.md) |
+| AUArts Kids Camps                          | Ages 9–12 confirmed — too old for now (save for Grade 4)                | No                            |
+| WinSport Archery                           | Age 9–14 — too old                                                      | No                            |
+| Country Trails Riding                      | Age 8–14 — too old                                                      | No                            |
+| Humblehorse Ranch                          | Age 9+ — too old                                                        | No                            |
+| Element Martial Arts                       | Ends 3:00pm; only 2 weeks; far SE                                       | CAMP-ElementMA.md (flagged)   |
+| Elbow Valley Outdoor Camp                  | Restricted to Elbow Valley residents only                               | No                            |
+| Skating Camp (ice)                         | Child doesn't know how to skate                                         | No                            |
+| Shooting Stars Summer Intensive            | Evening only (4:10–7:30pm)                                              | No                            |
+| Steamoji (Calgary West + North)            | All camps end 3:00pm — below 3:30pm cutoff; no aftercare listed         | CAMPS-Steamoji.md             |
+| Calgary Zoo Summer Camps                   | Completely sold out for all 2026 sessions (all age groups); no waitlist | No                            |
+| Studio Bell — Music Makers (ages 6–9)      | Sold out all 2026 sessions                                              | No                            |
+| North Calgary Dance Centre                 | Half-day only (9:30am–12:30pm) — below cutoff                           | No                            |
+| Mahogany Dance Arts — Unicorn Sparkles     | Far SE (~40–55 min); Mon–Thurs only (4 days); ends at 3:30pm            | No                            |
+| SAJRD Southern Alberta Junior Roller Derby | Season runs Sept–June only; no summer program                           | No                            |
 
 ---
 
 ## ✅ Researched — CAMP files created
 
-| Provider | File |
-|---|---|
-| The Confluence | CAMP-Confluence.md |
-| Quest Theatre | CAMP-QuestTheatre.md |
-| Calgary Young People's Theatre | CAMP-CYPT.md |
-| JKA Empower Karate | CAMP-JKAKarate.md |
-| Colour on Fire Art Studio | CAMP-ColourOnFire.md |
-| MRU Camps (Magical Adventures, Tiny Tales, C.A.T.S.) | CAMP-MRU.md |
-| Clip Clop Horseback Riding | CAMP-ClipClop.md |
-| Butterfield Acres Farm Camp | CAMP-ButterfieldAcres.md |
-| Bar JO Ranch | CAMP-BarJO.md |
-| Element Martial Arts | CAMP-ElementMA.md |
-| Growing Roots Forest Play | CAMP-GrowingRoots.md |
-| Pinnovate DIY Studio | CAMP-Pinnovate.md |
-| Affinity Academy | CAMP-AffinityAcademy.md |
-| Camp STEAM Canada | CAMP-Steam.md |
-| University of Calgary | CAMPS-UofC.md |
-| SAIT | CAMPS-SAIT.md |
-| Steamoji (Calgary West + North) | CAMPS-Steamoji.md |
-| Alien In-Line Inline Skate Camp | CAMP-AlienInLine.md |
-| Chinook School of Music | CAMP-ChinookMusic.md |
-| Heritage Park Prairie Explorers | CAMP-HeritagePark.md |
-| Rundle College (Creative Souls, Theatre, LEGO) | CAMP-RundleCollege.md |
+| Provider                                             | File                         |
+| ---------------------------------------------------- | ---------------------------- |
+| Westmount Student Care (CAA + JE locations)          | CAMP-WestmountStudentCare.md |
+| The Confluence                                       | CAMP-Confluence.md           |
+| Quest Theatre                                        | CAMP-QuestTheatre.md         |
+| Calgary Young People's Theatre                       | CAMP-CYPT.md                 |
+| JKA Empower Karate                                   | CAMP-JKAKarate.md            |
+| Colour on Fire Art Studio                            | CAMP-ColourOnFire.md         |
+| MRU Camps (Magical Adventures, Tiny Tales, C.A.T.S.) | CAMP-MRU.md                  |
+| Clip Clop Horseback Riding                           | CAMP-ClipClop.md             |
+| Butterfield Acres Farm Camp                          | CAMP-ButterfieldAcres.md     |
+| Bar JO Ranch                                         | CAMP-BarJO.md                |
+| Element Martial Arts                                 | CAMP-ElementMA.md            |
+| Growing Roots Forest Play                            | CAMP-GrowingRoots.md         |
+| Pinnovate DIY Studio                                 | CAMP-Pinnovate.md            |
+| Affinity Academy                                     | CAMP-AffinityAcademy.md      |
+| Camp STEAM Canada                                    | CAMP-Steam.md                |
+| University of Calgary                                | CAMPS-UofC.md                |
+| SAIT                                                 | CAMPS-SAIT.md                |
+| Steamoji (Calgary West + North)                      | CAMPS-Steamoji.md            |
+| Alien In-Line Inline Skate Camp                      | CAMP-AlienInLine.md          |
+| Chinook School of Music                              | CAMP-ChinookMusic.md         |
+| Heritage Park Prairie Explorers                      | CAMP-HeritagePark.md         |
+| Rundle College (Creative Souls, Theatre, LEGO)       | CAMP-RundleCollege.md        |

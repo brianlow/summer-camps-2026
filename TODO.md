@@ -35,13 +35,14 @@
 - **Action:** Call 403-561-4488 or email info@barjo.ca — get 2026 per-week pricing and confirm bus return time (camp ends 3pm at ranch — need to know when bus returns to Calgary).
 - **Website:** https://www.barjo.ca
 
-### Free House Dance Plus ✅✅ Very Close (NW)
-- **What:** Dance studio offering full- and half-day summer camps. Styles include Jazz, Tap, Ballet, Modern, Lyrical, Hip Hop, Musical Theatre — excellent fit.
+### Free House Dance Plus ✅✅ Very Close (NW) — ✅ CONFIRMED
+- **What:** Dance studio offering full-day dance camps. Styles: Jazz, Tap, Ballet, Modern, Lyrical, Hip Hop, Musical Theatre. **CAMP-FreeHouseDance.md updated.**
 - **Ages:** Ages 6–11 group — she qualifies ✅
 - **Location:** 2020 12 Ave NW, Calgary — ~5 min from West Hillhurst ✅✅
-- **Note:** Full-day confirmed ✅. Dates found: Jul 13–17 and Jul 20–24 (more weeks may exist). $50 off when booking 2 full-day weeks. **CAMP-FreeHouseDance.md created.**
-- **Action:** Call 403-282-0555 or email fhdp@telusplanet.net — ask: (1) What are all the 2026 full-day weekly dates? (2) What is the price per week? (3) What are the daily hours?
-- **Website:** https://freehousedance.com/kids-teens/summer-camps-programs-for-kids-and-teens/
+- **Hours:** 9:00am–4:00pm confirmed ✅. Before/after care: $30/week (8:30–9am + 4–5pm) ✅
+- **Price:** $375/week confirmed. $50 off when booking both weeks ($700 total).
+- **Dates:** Jul 13–17 ("All That Jazz") and Jul 20–24 ("Rhythm Fusions") — only 2 full-day weeks offered for ages 6–11. Both have 5+ spots.
+- **Status:** No further action needed — register at https://app.amilia.com/store/en/free-house-dance-plus/shop/programs/128512
 
 ### Calgary Junior Roller Derby — Junior Program ✅ Very Close (NW)
 - **What:** Junior roller derby program (ages 6–17) based at West Hillhurst Community Association. Seasonal intakes (fall/winter), no confirmed summer camp found — but worth asking.
@@ -59,10 +60,11 @@
 - **Website:** https://www.stssummercamps.ca/camp-schedule
 - **CAMP file:** CAMP-STS.md already created
 
-### Alien In-Line — Confirm Hours ✅ Close (NW)
-- **What:** Inline skate camp, full day, ages 6–8, NW Calgary locations. CAMP file written — daily start/end times not confirmed.
-- **Action:** Call 403-262-4404 or email info@alieninline.com — confirm exact daily hours (full day start/end times). CAMP-AlienInLine.md already created.
-- **Website:** https://alieninline.com/summer-skate-camps/
+### Alien In-Line ✅ Close (NW) — ✅ CONFIRMED
+- **What:** Inline skate camp, full day, ages 6–8, NW Calgary locations. **CAMP-AlienInLine.md updated.**
+- **Hours:** 8:30am–4:30pm confirmed ✅ (drop off 8:30am, pick up 4:30pm)
+- **Schedule updated:** New 2026 locations confirmed — Triwood (Jul 6–10, waitlist), Huntington Hills (Jul 20–24, available), Montgomery (Aug 17–21, waitlist), Edgemont (Aug 24–28, available). Also Airdrie and SE locations.
+- **Status:** No further action needed — register at https://register.alieninline.com/summer-skate-camps-2026
 
 ### Enchanted Events — Fairy Camp ✅✅✅ Extremely Close (NW) ⭐ HIGH PRIORITY
 - **What:** Fairy-themed week camp with daily activities — crafts, dance, drama, singing, creative movement, and fairy training. Ends with a graduation show for families on the final day.
@@ -74,42 +76,36 @@
 - **Why high priority:** Fairy/unicorn theme + dance + crafts + singing + drama = hits every one of her top interests. Closest possible location.
 - **Website:** https://www.enchantedevents.ca/fairy_camp_1.html
 
-### StoryBook Theatre — Summer Theatre Camps ✅ Close (NW)
-- **What:** Week-long theatre camps at StoryBook Theatre NW Calgary. Kids create and perform an original show by Friday. Historically ages 6–12, 9am–4pm.
-- **Ages:** 6–12 historically — **need to confirm 2026 format** (their main 2026 summer revue is ages 9–12 only)
-- **Location:** 375 Bermuda Drive NW, Calgary — ~15–20 min from West Hillhurst ✅
-- **Action:** Call 403-216-0808 ext. 2 or email theatreschool@storybooktheatre.org — ask: (1) Is there a week-format camp for ages 6–8 in summer 2026? (2) What are the dates and price?
-- **Website:** https://www.storybooktheatre.org/summer
+### StoryBook Theatre — Summer Theatre Camps ✅ Close (NW) — ✅ CONFIRMED
+- **What:** Week-long theatre camps, create and perform an original play by Friday. Ages split into Groundlings (6–7), Minstrels (8–9), Jesters (10–12). **CAMP-StorybookTheatre.md created.**
+- **Ages:** 6–7 "Groundlings" group confirmed ✅
+- **Location:** 375 Bermuda Dr NW (Beddington Theatre Arts Centre) — ~15–20 min from West Hillhurst ✅
+- **Hours:** 9am–4pm ✅. FREE before/after care: 7am–9am and 4pm–6pm ✅
+- **Price:** $375/week confirmed ✅
+- **Dates:** 6 sessions — Jun 29–Jul 3, Jul 6–10, Jul 13–17, Jul 20–24, Jul 27–31, Aug 3–7 (camp runs on Jul 1 and Aug 3)
+- **Status:** No further action needed — register at https://storybook-theatre.jumbula.com/Summer2026/SummerTheatreCamps/Register
 
-### Evolutions Dance — Enchanted Forest Dance Camp ✅ Moderate (SE)
-- **What:** Magical themed dance camp — campers dress as characters each day and join an adventure of dance, music, storytelling, crafts, and dramatic play.
-- **Ages:** 6+ — she qualifies ✅
-- **Price:** $335–360/week (early bird before May 15: $335)
-- **Location:** #5, 6624 Centre St SE, Calgary — ~20–25 min from West Hillhurst ⚠️
-- **Action:** Call 403-819-0758 or email info@evolutionsdance.com — ask: (1) Which camps are full-day for ages 6–7? (2) What are the 2026 dates? (3) Confirm daily hours (end time 3:30pm or later?)
-- **Website:** https://www.evolutionsdance.com/summer
+### ~~Evolutions Dance — Enchanted Forest Dance Camp~~ ❌ EXCLUDED (half-day)
+- All camps for ages 6+ are half-day only: either 9am–12pm (AM) or 1pm–4pm (PM)
+- Enchanted Forest Dance Camp specifically: 9am–12pm, Aug 17–21, ages 3+ — half-day, excluded
+- AM/PM combo option ($325–350) is technically possible for some weeks but requires previous dance training — not a beginner program
+- Moved to Excluded table below
 
-### Premiere Dance Academy — Pop Star Dance Escapes ✅ Close (NW)
-- **What:** Themed dance camps for ages 6–9. "Pop Star Dance Escapes" with various themed weeks.
-- **Ages:** 6–9 — she qualifies ✅
-- **Location:** #310, 19 Royal Vista Link NW, Calgary (Royal Oak) — ~20–25 min from West Hillhurst ✅
-- **Action:** Call 403-286-8561 or email office@premieredance.com — ask: (1) Are these full-day camps (ending 3:30pm+)? (2) What are the 2026 weekly dates and prices?
-- **Website:** https://premieredance.com/camps_and_workshops/camps/
+### ~~Premiere Dance Academy — Pop Star Dance Escapes~~ ❌ EXCLUDED (half-day)
+- All Pop Star Dance Escapes (ages 6–9) are half-day only: Jul 6–10 (1–4pm), Jul 13–17 (9am–12pm), Jul 20–24 (1–4pm), Jul 27–31 (9am–12pm), Aug 10–14 (1–4pm)
+- Moved to Excluded table below
 
 ### Prestige Dance — Happily Ever After *(Ages 4–7)* ⚠️ SW location
-- **What:** Fairy tale / princess-themed camp — brings stories to life through ballet, jazz, tap, hip hop, acro, and yoga.
+- **What:** Fairy tale / princess-themed camp — brings stories to life through ballet, jazz, tap, hip hop, acro, and yoga. 2026 themes confirmed online — "Happily Ever After (Ages 4–7)" is listed. Hours and dates not published.
 - **Ages:** 4–7 — she qualifies ✅
 - **Location:** West location: #134, 3715 51st St SW — ~20–25 min from West Hillhurst ⚠️
 - **Action:** Call West location 403-873-7228 — ask: (1) Is this a full-day camp (ending 3:30pm+)? (2) What are the 2026 dates and price?
 - **Website:** https://prestigedance.com/dance-camps/
 
-### McDonald-Wilson Dance Academy — Summer Dance Camp ✅✅ Very Close (NW)
-- **What:** Dance studio in Brentwood NW offering summer programs for ages 4–9. Styles include ballet, tap, and jazz. Very close to home.
-- **Ages:** 4–9 — she qualifies ✅
-- **Location:** 5107 33 St NW (Brentwood) — ~10 min from West Hillhurst ✅✅
-- **Note:** In 2025, their summer program ran Tue/Thu evenings only (not a full week day camp). Need to confirm 2026 format.
-- **Action:** Call 403-463-0280 or email mwdadance@gmail.com — ask: (1) Is there a full-day week-format summer camp in 2026? (2) If so, dates, hours, and price?
-- **Website:** https://www.mwda.ca/summer-dance-camps
+### ~~McDonald-Wilson Dance Academy — Summer Dance Camp~~ ❌ EXCLUDED (evening only)
+- Still showing 2025 content; confirmed evening Tue/Thu format (4:30–6:30pm) — not a day camp
+- No 2026 day camp format posted; if that changes: mwdadance@gmail.com or 403-463-0280
+- Moved to Excluded table below
 
 ---
 
@@ -133,6 +129,9 @@
 | Studio Bell — Music Makers (ages 6–9)      | Sold out all 2026 sessions                                              | No                            |
 | North Calgary Dance Centre                 | Half-day only (9:30am–12:30pm) — below cutoff                           | No                            |
 | Mahogany Dance Arts — Unicorn Sparkles     | Far SE (~40–55 min); Mon–Thurs only (4 days); ends at 3:30pm            | No                            |
+| Evolutions Dance — Enchanted Forest       | All camps half-day only (9–12pm or 1–4pm); AM/PM combo requires prior dance training | No |
+| Premiere Dance Academy — Pop Star Escapes | All camps half-day only (9–12pm or 1–4pm); Royal Oak NW location        | No                            |
+| McDonald-Wilson Dance Academy              | Evening Tue/Thu only (4:30–6:30pm) — not a day camp format              | No                            |
 | SAJRD Southern Alberta Junior Roller Derby | Season runs Sept–June only; no summer program                           | No                            |
 | Nature Play Kids — Forest Play Camps       | All sessions end at 1pm (half-day) or 3pm — below 3:30pm cutoff         | No                            |
 | City of Calgary — Dance Camp               | Half-day only (ages 7–9)                                                | No                            |
@@ -178,5 +177,6 @@
 | STS (Art Studio, Crafty Adventurers, Theatre, Forest Explorers) | CAMP-STS.md                  |
 | PULSE Studios Hip Hop Dance Camp                                | CAMP-PULSE.md                |
 | Free House Dance Plus                                           | CAMP-FreeHouseDance.md       |
+| StoryBook Theatre (Summer Theatre Camps)                        | CAMP-StorybookTheatre.md     |
 | WinSport (Wilderness Explorers, Summer Sampler)                 | CAMP-WinSport.md             |
 | City of Calgary (Rec Adventures, Arts Ventures, Arts & Dance, Rock Climbing, Field Sports, Sports) | CAMP-CityOfCalgary.md |

@@ -36,10 +36,9 @@ One line per camp. See individual CAMP-*.md files for full details.
 |     | Camp                                   | What you do                                                                    | $/wk         | Notes                                                     |
 | --- | -------------------------------------- | ------------------------------------------------------------------------------ | ------------ | --------------------------------------------------------- |
 |     | **Enchanted Events** — Fairy Camp      | Fairy crafts, dance, drama, singing, and magical adventures — graduation show  | ⚠️ Contact | ✅✅ 5 min away; ages 4–8; 9am–4pm; 2026 dates TBA ⭐  |
-|     | **Free House Dance Plus** — Dance Camp | Ballet, jazz, tap, lyrical, musical theatre — all in one week                  | ⚠️ Contact | ✅✅ 5 min away; Jul 13–17 & Jul 20–24                  |
+|     | **Free House Dance Plus** — Dance Camp | Ballet, jazz, tap, lyrical, musical theatre — all in one week                  | $375         | ✅✅ 5 min away; 9am–4pm; Jul 13–17 & Jul 20–24 only; before/after care $30 |
 |     | **PULSE Studios** — Hip Hop Camp       | Breaking, popping, house dance, and group choreography                         | $395+GST     | ✅ 10 min away; 9am–4pm; 7 weeks; street styles ⚠️     |
-|     | **StoryBook Theatre** — Theatre Camp   | Create and perform an original play by Friday — everyone shapes the story      | ⚠️ Contact | ✅ ~15 min NW; confirm ages 6–8 still offered in 2026    |
-|     | **Evolutions Dance** — Enchanted Forest | Dress as magical characters, adventure through dance, music, crafts, and drama | $335–360     | ⚠️ SE Calgary (~20 min); confirm full-day for ages 6–7  |
+|     | **StoryBook Theatre** — Theatre Camps  | Write, cast, rehearse, and perform an original play by Friday                  | $375         | ✅ ~15–20 min NW; ages 6–7 "Groundlings"; 9am–4pm; FREE before/after care; 6 weeks |
 
 ## 🎵 Music
 

@@ -49,6 +49,7 @@ Weeks run **Sunday to Saturday**. Camp programs typically run Mon–Fri within e
 | [WinSport Wilderness Explorers](CAMP-WinSport.md)        | Outdoor/Nature       | $296 (4-day) · Canada Olympic Park        |      |
 | [WinSport Summer Sampler](CAMP-WinSport.md)              | Multi-Activity       | $296 (4-day) · Ages 6–8                   |      |
 | [PULSE Studios Hip Hop](CAMP-PULSE.md)                   | Dance/Hip Hop        | $395+GST · Crescent Heights               |      |
+| [StoryBook Theatre](CAMP-StorybookTheatre.md)            | Drama/Theatre        | $375 · Ages 6–7 (Groundlings) · 4-day ⚠️ runs on Canada Day |      |
 | [Westmount SC — CAA](CAMP-WestmountStudentCare.md)       | General Day Camp     | $120 (2-day) · Summer Splash              |      |
 | [Westmount SC — JE](CAMP-WestmountStudentCare.md)        | General Day Camp     | $120 (2-day) · Summer Splash              |      |
 
@@ -86,6 +87,7 @@ Weeks run **Sunday to Saturday**. Camp programs typically run Mon–Fri within e
 | [STS Theatre Camp](CAMP-STS.md)                         | Drama/Theatre         | Price/hours TBD ⚠️ Far      |
 | [STS Forest Explorers](CAMP-STS.md)                     | Outdoor/Nature        | Price/hours TBD ⚠️ Far      |
 | [PULSE Studios Hip Hop](CAMP-PULSE.md)                   | Dance/Hip Hop         | $395+GST · Crescent Heights  |
+| [StoryBook Theatre](CAMP-StorybookTheatre.md)           | Drama/Theatre         | $375 · Ages 6–7 (Groundlings) · Triwood area NW       |
 | [City — Rec Adventures](CAMP-CityOfCalgary.md)           | Outdoor/Sports/Mixed  | $269 · Shouldice NW ~10 min · **4 spots** ⚠️ ages 5–7 |
 
 ---
@@ -121,7 +123,8 @@ Weeks run **Sunday to Saturday**. Camp programs typically run Mon–Fri within e
 | [STS Forest Explorers](CAMP-STS.md)                         | Outdoor/Nature       | Ages 4–8 · Price/hours TBD ⚠️ Far |
 | [PULSE Studios Hip Hop](CAMP-PULSE.md)                      | Dance/Hip Hop        | $395+GST · Crescent Heights        |
 | [Chinook Music — Magic of Music](CAMP-ChinookMusic.md)      | Music/Dance/Drama    | $375 · NW location ✅             |
-| [Free House Dance Plus](CAMP-FreeHouseDance.md)             | Dance (multi-style)  | Price TBD · ✅✅ 5 min away       |
+| [Free House Dance Plus](CAMP-FreeHouseDance.md)             | Dance (multi-style)  | $375 · 9am–4pm · ✅✅ 5 min away  |
+| [StoryBook Theatre](CAMP-StorybookTheatre.md)               | Drama/Theatre        | $375 · Ages 6–7 (Groundlings) · Beddington NW        |
 | [City — Rec Adventures](CAMP-CityOfCalgary.md)              | Outdoor/Sports/Mixed | $269 · Shouldice NW ~10 min · **10 spots** ages 5–7 |
 
 ---
@@ -160,7 +163,8 @@ Weeks run **Sunday to Saturday**. Camp programs typically run Mon–Fri within e
 | [STS Forest Explorers](CAMP-STS.md)                        | Outdoor/Nature        | Ages 4–8 · Price/hours TBD ⚠️ Far    |
 | [PULSE Studios Hip Hop](CAMP-PULSE.md)                     | Dance/Hip Hop         | $395+GST · Crescent Heights           |
 | [Chinook Music — Magic of Music](CAMP-ChinookMusic.md)     | Music/Dance/Drama     | $375 · South location ⚠️             |
-| [Free House Dance Plus](CAMP-FreeHouseDance.md)            | Dance (multi-style)   | Price TBD · ✅✅ 5 min away          |
+| [Free House Dance Plus](CAMP-FreeHouseDance.md)            | Dance (multi-style)   | $375 · 9am–4pm · ✅✅ 5 min away    |
+| [StoryBook Theatre](CAMP-StorybookTheatre.md)              | Drama/Theatre         | $375 · Ages 6–7 (Groundlings) · Beddington NW       |
 | [City — Rec Adventures](CAMP-CityOfCalgary.md)             | Outdoor/Sports/Mixed  | $269 · Shouldice NW ~10 min · **8 spots** ages 5–7 |
 
 ---
@@ -191,6 +195,7 @@ Weeks run **Sunday to Saturday**. Camp programs typically run Mon–Fri within e
 | [Westmount SC — CAA](CAMP-WestmountStudentCare.md)      | General Day Camp    | $290 · Pirate Party Week     |
 | [Westmount SC — JE](CAMP-WestmountStudentCare.md)       | General Day Camp    | $290 · Out at Sea Week       |
 | [PULSE Studios Hip Hop](CAMP-PULSE.md)                   | Dance/Hip Hop       | $395+GST · Crescent Heights  |
+| [StoryBook Theatre](CAMP-StorybookTheatre.md)             | Drama/Theatre        | $375 · Ages 6–7 (Groundlings) · Beddington NW        |
 | [City — Rec Adventures](CAMP-CityOfCalgary.md)           | Outdoor/Sports/Mixed | $269 · Shouldice NW ~10 min · **11 spots** ages 5–7 |
 | [City — Arts Ventures](CAMP-CityOfCalgary.md)            | Visual Arts          | $305 · N. Mt Pleasant NW ~8 min · **2 spots** ages 7–8 ⚠️ call first re: age |
 
@@ -220,6 +225,7 @@ Weeks run **Sunday to Saturday**. Camp programs typically run Mon–Fri within e
 | [Westmount SC — CAA](CAMP-WestmountStudentCare.md)      | General Day Camp     | $240 (4-day) · Undersea Explorers          |
 | [Westmount SC — JE](CAMP-WestmountStudentCare.md)       | General Day Camp     | $240 (4-day) · Kitchen Chemistry           |
 | [PULSE Studios Hip Hop](CAMP-PULSE.md)                   | Dance/Hip Hop        | $320+GST (4-day) · Crescent Heights        |
+| [StoryBook Theatre](CAMP-StorybookTheatre.md)            | Drama/Theatre        | $375 · Ages 6–7 (Groundlings) · 4-day ⚠️ runs on Heritage Day |
 | [City — Rec Adventures](CAMP-CityOfCalgary.md)           | Outdoor/Sports/Mixed | $215 (4-day) · Shouldice NW ~10 min · **12 spots** ages 5–7 |
 
 ---
@@ -235,7 +241,7 @@ Weeks run **Sunday to Saturday**. Camp programs typically run Mon–Fri within e
 | [UCalgary Tots on Treks](CAMPS-UofC.md)                 | Outdoor/Nature      | $370 · 11 spots                     |
 | [UCalgary Gymnastics — Cochrane](CAMPS-UofC.md)         | Gymnastics          | Price TBD · 3 spots ⚠️            |
 | [UCalgary Dinos Track & Field](CAMPS-UofC.md)           | Track/Field         | $425 · ends 3:15pm ⚠️             |
-| [Alien In-Line](CAMP-AlienInLine.md)                    | Inline Skating      | $425 · SW Calgary · Available       |
+| [Alien In-Line](CAMP-AlienInLine.md)                    | Inline Skating      | $425 · Lake Bonavista SW · Available · 8:30am–4:30pm |
 | [Butterfield Acres](CAMP-ButterfieldAcres.md)           | Farm/Animals        | Price TBD · Bus from Calgary        |
 | [Colour on Fire — Rosscarrock](CAMP-ColourOnFire.md)    | Visual Art          | $395                                |
 | [Colour on Fire — Edgemont NW](CAMP-ColourOnFire.md)    | Visual Art          | $395                                |

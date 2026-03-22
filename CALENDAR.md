@@ -78,6 +78,10 @@ Weeks run **Sunday to Saturday**. Camp programs typically run Mon–Fri within e
 | [Steamoji North: Art of Games](CAMPS-Steamoji.md)       | Game Design           | $399 · 6 spots ⚠️ ends 3pm  |
 | [Westmount SC — CAA](CAMP-WestmountStudentCare.md)      | General Day Camp      | $290 · Storybook Week         |
 | [Westmount SC — JE](CAMP-WestmountStudentCare.md)       | General Day Camp      | $290 · Outdoor Explorers Week |
+| [STS Art Studio](CAMP-STS.md)                           | Arts/Crafts           | Price/hours TBD ⚠️ Far      |
+| [STS Crafty Adventurers](CAMP-STS.md)                   | Arts/Crafts           | Price/hours TBD ⚠️ Far      |
+| [STS Theatre Camp](CAMP-STS.md)                         | Drama/Theatre         | Price/hours TBD ⚠️ Far      |
+| [STS Forest Explorers](CAMP-STS.md)                     | Outdoor/Nature        | Price/hours TBD ⚠️ Far      |
 
 ---
 
@@ -85,28 +89,31 @@ Weeks run **Sunday to Saturday**. Camp programs typically run Mon–Fri within e
 
 > Full 5-day camp week (Jul 13–17).
 
-| Camp                                                        | Type                 | Notes                            |
-| ----------------------------------------------------------- | -------------------- | -------------------------------- |
-| [MRU Magical Adventures](CAMP-MRU.md)                       | Arts/Crafts/Fantasy  | $400 · Waitlist                  |
-| [MRU C.A.T.S.](CAMP-MRU.md)                                 | STEAM mix            | $400 · Waitlist                  |
-| [UCalgary Mini Outdoor Sports & Games](CAMPS-UofC.md)       | Sports/Outdoor       | $370 · 1 spot ⚠️               |
-| [UCalgary Gymnastics — Cochrane](CAMPS-UofC.md)             | Gymnastics           | Price TBD · 2 spots ⚠️         |
-| [UCalgary Landscape Lab](CAMPS-UofC.md)                     | Landscape Design     | $370 · 14 spots                  |
-| [Colour on Fire — Rosscarrock](CAMP-ColourOnFire.md)        | Visual Art           | $395                             |
-| [Colour on Fire — Edgemont NW](CAMP-ColourOnFire.md)        | Visual Art           | $395                             |
-| [Quest Theatre](CAMP-QuestTheatre.md)                       | Drama/Theatre        | $400                             |
-| [CYPT](CAMP-CYPT.md)                                        | Drama/Theatre        | $350 · check website             |
-| [Camp STEAM](CAMP-Steam.md)                                 | STEAM/LEGO           | $268                             |
-| [SAIT Crafty Science](CAMPS-SAIT.md)                        | Art/Science          | $400 · Waitlist                  |
-| [SAIT STEAM Junior Engineers](CAMPS-SAIT.md)                | STEAM                | $400 · Waitlist                  |
-| [Rundle College](CAMP-RundleCollege.md)                     | Multiple combos      | Waitlist                         |
-| [The Confluence](CAMP-Confluence.md)                        | Nature/Outdoor       | $360                             |
-| [Heritage Park Prairie Explorers](CAMP-HeritagePark.md)     | Living History       | $325                             |
-| [Clip Clop Horseback Riding](CAMP-ClipClop.md)              | Horse/Outdoors       | Price TBD                        |
-| [Steamoji West: STEAM Goes Medieval](CAMPS-Steamoji.md)     | Engineering          | $399 · 5 spots ⚠️ ends 3pm     |
-| [Steamoji North: Carnival of Creativity](CAMPS-Steamoji.md) | Digital Storytelling | $399 · 4 spots ⚠️ ends 3pm     |
-| [Westmount SC — CAA](CAMP-WestmountStudentCare.md)          | General Day Camp     | $290 · Around the World Week     |
-| [Westmount SC — JE](CAMP-WestmountStudentCare.md)           | General Day Camp     | $290 · Witches & Wizards Week ⭐ |
+| Camp                                                        | Type                 | Notes                               |
+| ----------------------------------------------------------- | -------------------- | ----------------------------------- |
+| [MRU Magical Adventures](CAMP-MRU.md)                       | Arts/Crafts/Fantasy  | $400 · Waitlist                     |
+| [MRU C.A.T.S.](CAMP-MRU.md)                                 | STEAM mix            | $400 · Waitlist                     |
+| [UCalgary Mini Outdoor Sports & Games](CAMPS-UofC.md)       | Sports/Outdoor       | $370 · 1 spot ⚠️                  |
+| [UCalgary Gymnastics — Cochrane](CAMPS-UofC.md)             | Gymnastics           | Price TBD · 2 spots ⚠️            |
+| [UCalgary Landscape Lab](CAMPS-UofC.md)                     | Landscape Design     | $370 · 14 spots                     |
+| [Colour on Fire — Rosscarrock](CAMP-ColourOnFire.md)        | Visual Art           | $395                                |
+| [Colour on Fire — Edgemont NW](CAMP-ColourOnFire.md)        | Visual Art           | $395                                |
+| [Quest Theatre](CAMP-QuestTheatre.md)                       | Drama/Theatre        | $400                                |
+| [CYPT](CAMP-CYPT.md)                                        | Drama/Theatre        | $350 · check website                |
+| [Camp STEAM](CAMP-Steam.md)                                 | STEAM/LEGO           | $268                                |
+| [SAIT Crafty Science](CAMPS-SAIT.md)                        | Art/Science          | $400 · Waitlist                     |
+| [SAIT STEAM Junior Engineers](CAMPS-SAIT.md)                | STEAM                | $400 · Waitlist                     |
+| [Rundle College](CAMP-RundleCollege.md)                     | Multiple combos      | Waitlist                            |
+| [The Confluence](CAMP-Confluence.md)                        | Nature/Outdoor       | $360                                |
+| [Heritage Park Prairie Explorers](CAMP-HeritagePark.md)     | Living History       | $325                                |
+| [Clip Clop Horseback Riding](CAMP-ClipClop.md)              | Horse/Outdoors       | Price TBD                           |
+| [Steamoji West: STEAM Goes Medieval](CAMPS-Steamoji.md)     | Engineering          | $399 · 5 spots ⚠️ ends 3pm        |
+| [Steamoji North: Carnival of Creativity](CAMPS-Steamoji.md) | Digital Storytelling | $399 · 4 spots ⚠️ ends 3pm        |
+| [Westmount SC — CAA](CAMP-WestmountStudentCare.md)          | General Day Camp     | $290 · Around the World Week        |
+| [Westmount SC — JE](CAMP-WestmountStudentCare.md)           | General Day Camp     | $290 · Witches & Wizards Week ⭐    |
+| [STS Art Studio](CAMP-STS.md)                               | Arts/Crafts          | Price/hours TBD ⚠️ Far            |
+| [STS Theatre Camp](CAMP-STS.md)                             | Drama/Theatre        | Price/hours TBD ⚠️ Far            |
+| [STS Forest Explorers](CAMP-STS.md)                         | Outdoor/Nature       | Ages 4–8 · Price/hours TBD ⚠️ Far |
 
 ---
 
@@ -139,6 +146,9 @@ Weeks run **Sunday to Saturday**. Camp programs typically run Mon–Fri within e
 | [Steamoji North: RoboCity Builders](CAMPS-Steamoji.md)     | Robotics              | $399 · Open ⚠️ ends 3pm              |
 | [Westmount SC — CAA](CAMP-WestmountStudentCare.md)         | General Day Camp      | $290 · Mad Scientists Week             |
 | [Westmount SC — JE](CAMP-WestmountStudentCare.md)          | General Day Camp      | $290 · Survivor Week                   |
+| [STS Art Studio](CAMP-STS.md)                              | Arts/Crafts           | Price/hours TBD ⚠️ Far               |
+| [STS Theatre Camp](CAMP-STS.md)                            | Drama/Theatre         | Price/hours TBD ⚠️ Far               |
+| [STS Forest Explorers](CAMP-STS.md)                        | Outdoor/Nature        | Ages 4–8 · Price/hours TBD ⚠️ Far    |
 
 ---
 
@@ -200,28 +210,31 @@ Weeks run **Sunday to Saturday**. Camp programs typically run Mon–Fri within e
 
 > Full 5-day camp week (Aug 10–14).
 
-| Camp                                                    | Type                | Notes                             |
-| ------------------------------------------------------- | ------------------- | --------------------------------- |
-| [MRU Magical Adventures](CAMP-MRU.md)                   | Arts/Crafts/Fantasy | $400 · Swimming: 7 spots          |
-| [MRU C.A.T.S.](CAMP-MRU.md)                             | STEAM mix           | $400 · Climbing: 8 / Swimming: 20 |
-| [UCalgary Tots on Treks](CAMPS-UofC.md)                 | Outdoor/Nature      | $370 · 11 spots                   |
-| [UCalgary Gymnastics — Cochrane](CAMPS-UofC.md)         | Gymnastics          | Price TBD · 3 spots ⚠️          |
-| [UCalgary Dinos Track & Field](CAMPS-UofC.md)           | Track/Field         | $425 · ends 3:15pm ⚠️           |
-| [Alien In-Line](CAMP-AlienInLine.md)                    | Inline Skating      | $425 · SW Calgary · Available     |
-| [Butterfield Acres](CAMP-ButterfieldAcres.md)           | Farm/Animals        | Price TBD · Bus from Calgary      |
-| [Colour on Fire — Rosscarrock](CAMP-ColourOnFire.md)    | Visual Art          | $395                              |
-| [Colour on Fire — Edgemont NW](CAMP-ColourOnFire.md)    | Visual Art          | $395                              |
-| [Quest Theatre](CAMP-QuestTheatre.md)                   | Drama/Theatre       | $400                              |
-| [CYPT](CAMP-CYPT.md)                                    | Drama/Theatre       | $350 · check website              |
-| [Camp STEAM](CAMP-Steam.md)                             | STEAM/LEGO          | $268                              |
-| [SAIT Crafty Science](CAMPS-SAIT.md)                    | Art/Science         | $400 · Waitlist                   |
-| [SAIT Digital Creators](CAMPS-SAIT.md)                  | Coding              | $400 · Waitlist                   |
-| [The Confluence](CAMP-Confluence.md)                    | Nature/Outdoor      | $360                              |
-| [Heritage Park Prairie Explorers](CAMP-HeritagePark.md) | Living History      | $325                              |
-| [Clip Clop Horseback Riding](CAMP-ClipClop.md)          | Horse/Outdoors      | Price TBD                         |
-| [Steamoji West: STEAM Goes Medieval](CAMPS-Steamoji.md) | Engineering         | $399 · 4 spots ⚠️ ends 3pm      |
-| [Westmount SC — CAA](CAMP-WestmountStudentCare.md)      | General Day Camp    | $290 · Amazing Animals            |
-| [Westmount SC — JE](CAMP-WestmountStudentCare.md)       | General Day Camp    | $290 · Future Leaders             |
+| Camp                                                    | Type                | Notes                               |
+| ------------------------------------------------------- | ------------------- | ----------------------------------- |
+| [MRU Magical Adventures](CAMP-MRU.md)                   | Arts/Crafts/Fantasy | $400 · Swimming: 7 spots            |
+| [MRU C.A.T.S.](CAMP-MRU.md)                             | STEAM mix           | $400 · Climbing: 8 / Swimming: 20   |
+| [UCalgary Tots on Treks](CAMPS-UofC.md)                 | Outdoor/Nature      | $370 · 11 spots                     |
+| [UCalgary Gymnastics — Cochrane](CAMPS-UofC.md)         | Gymnastics          | Price TBD · 3 spots ⚠️            |
+| [UCalgary Dinos Track & Field](CAMPS-UofC.md)           | Track/Field         | $425 · ends 3:15pm ⚠️             |
+| [Alien In-Line](CAMP-AlienInLine.md)                    | Inline Skating      | $425 · SW Calgary · Available       |
+| [Butterfield Acres](CAMP-ButterfieldAcres.md)           | Farm/Animals        | Price TBD · Bus from Calgary        |
+| [Colour on Fire — Rosscarrock](CAMP-ColourOnFire.md)    | Visual Art          | $395                                |
+| [Colour on Fire — Edgemont NW](CAMP-ColourOnFire.md)    | Visual Art          | $395                                |
+| [Quest Theatre](CAMP-QuestTheatre.md)                   | Drama/Theatre       | $400                                |
+| [CYPT](CAMP-CYPT.md)                                    | Drama/Theatre       | $350 · check website                |
+| [Camp STEAM](CAMP-Steam.md)                             | STEAM/LEGO          | $268                                |
+| [SAIT Crafty Science](CAMPS-SAIT.md)                    | Art/Science         | $400 · Waitlist                     |
+| [SAIT Digital Creators](CAMPS-SAIT.md)                  | Coding              | $400 · Waitlist                     |
+| [The Confluence](CAMP-Confluence.md)                    | Nature/Outdoor      | $360                                |
+| [Heritage Park Prairie Explorers](CAMP-HeritagePark.md) | Living History      | $325                                |
+| [Clip Clop Horseback Riding](CAMP-ClipClop.md)          | Horse/Outdoors      | Price TBD                           |
+| [Steamoji West: STEAM Goes Medieval](CAMPS-Steamoji.md) | Engineering         | $399 · 4 spots ⚠️ ends 3pm        |
+| [Westmount SC — CAA](CAMP-WestmountStudentCare.md)      | General Day Camp    | $290 · Amazing Animals              |
+| [Westmount SC — JE](CAMP-WestmountStudentCare.md)       | General Day Camp    | $290 · Future Leaders               |
+| [STS Art Studio](CAMP-STS.md)                           | Arts/Crafts         | Price/hours TBD ⚠️ Far            |
+| [STS Theatre Camp](CAMP-STS.md)                         | Drama/Theatre       | Price/hours TBD ⚠️ Far            |
+| [STS Forest Explorers](CAMP-STS.md)                     | Outdoor/Nature      | Ages 4–8 · Price/hours TBD ⚠️ Far |
 
 ---
 
@@ -246,6 +259,8 @@ Weeks run **Sunday to Saturday**. Camp programs typically run Mon–Fri within e
 | [Steamoji West: Carnival of Creativity](CAMPS-Steamoji.md) | Digital Storytelling  | $399 · 3 spots ⚠️ ends 3pm        |
 | [Westmount SC — CAA](CAMP-WestmountStudentCare.md)         | General Day Camp      | $290 · Medieval Times *(last week)* |
 | [Westmount SC — JE](CAMP-WestmountStudentCare.md)          | General Day Camp      | $290 · Around the World             |
+| [STS Art Studio](CAMP-STS.md)                              | Arts/Crafts           | Price/hours TBD ⚠️ Far            |
+| [STS Theatre Camp](CAMP-STS.md)                            | Drama/Theatre         | Price/hours TBD ⚠️ Far            |
 
 ---
 
@@ -263,7 +278,9 @@ Weeks run **Sunday to Saturday**. Camp programs typically run Mon–Fri within e
 | [Clip Clop Horseback Riding](CAMP-ClipClop.md)           | Horse/Outdoors      | Price TBD · last week of season |
 | [Steamoji West: Art of Games](CAMPS-Steamoji.md)         | Game Design         | $399 · 6 spots ⚠️ ends 3pm    |
 | [Steamoji North: STEAM Goes Medieval](CAMPS-Steamoji.md) | Engineering         | $399 · Open ⚠️ ends 3pm       |
-| [Westmount SC — JE](CAMP-WestmountStudentCare.md)        | General Day Camp    | $290 · Out of This World |
+| [Westmount SC — JE](CAMP-WestmountStudentCare.md)        | General Day Camp    | $290 · Out of This World        |
+| [STS Art Studio](CAMP-STS.md)                            | Arts/Crafts         | Price/hours TBD ⚠️ Far        |
+| [STS Theatre Camp](CAMP-STS.md)                          | Drama/Theatre       | Price/hours TBD ⚠️ Far        |
 
 ---
 

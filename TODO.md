@@ -60,6 +60,14 @@
 - **Action:** Email juniors@calgaryrollerderby.com or info@calgaryrollerderby.com — ask: (1) Is there a summer camp or summer skating program for 2026? (2) What ages / skill levels does the junior program accept?
 - **Website:** https://calgaryrollerderby.com/
 
+### STS Summer Camps — Confirm Hours & Pricing ⚠️ Far (Foothills, ~45 min S)
+- **What:** Art Studio, Crafty Adventurers, Theatre Camp, Forest Explorers. Private school campus, large grounds. Open to non-STS students.
+- **Ages:** Arts camps ages 4-14 / 6-10 / 6-12; Forest Explorers ages 4-8 — she qualifies ✅
+- **Location:** 298136 24 St W, Foothills, AB — ~45 min from West Hillhurst ⚠️
+- **Action:** Call (403) 938-4431 or email camps@sts.ab.ca — ask: (1) What are the daily start and end times? (2) Is there before/aftercare? (3) What is the price per week? (4) Is busing from Calgary available?
+- **Website:** https://www.stssummercamps.ca/camp-schedule
+- **CAMP file:** CAMP-STS.md already created
+
 ### Alien In-Line — Confirm Hours ✅ Close (NW)
 - **What:** Inline skate camp, full day, ages 6–8, NW Calgary locations. CAMP file written — daily start/end times not confirmed.
 - **Action:** Call 403-262-4404 or email info@alieninline.com — confirm exact daily hours (full day start/end times). CAMP-AlienInLine.md already created.
@@ -101,33 +109,34 @@
 | North Calgary Dance Centre                 | Half-day only (9:30am–12:30pm) — below cutoff                           | No                            |
 | Mahogany Dance Arts — Unicorn Sparkles     | Far SE (~40–55 min); Mon–Thurs only (4 days); ends at 3:30pm            | No                            |
 | SAJRD Southern Alberta Junior Roller Derby | Season runs Sept–June only; no summer program                           | No                            |
-| Nature Play Kids — Forest Play Camps       | All sessions end at 1pm (half-day) or 3pm — below 3:30pm cutoff        | No                            |
+| Nature Play Kids — Forest Play Camps       | All sessions end at 1pm (half-day) or 3pm — below 3:30pm cutoff         | No                            |
 
 ---
 
 ## ✅ Researched — CAMP files created
 
-| Provider                                             | File                         |
-| ---------------------------------------------------- | ---------------------------- |
-| Westmount Student Care (CAA + JE locations)          | CAMP-WestmountStudentCare.md |
-| The Confluence                                       | CAMP-Confluence.md           |
-| Quest Theatre                                        | CAMP-QuestTheatre.md         |
-| Calgary Young People's Theatre                       | CAMP-CYPT.md                 |
-| JKA Empower Karate                                   | CAMP-JKAKarate.md            |
-| Colour on Fire Art Studio                            | CAMP-ColourOnFire.md         |
-| MRU Camps (Magical Adventures, Tiny Tales, C.A.T.S.) | CAMP-MRU.md                  |
-| Clip Clop Horseback Riding                           | CAMP-ClipClop.md             |
-| Butterfield Acres Farm Camp                          | CAMP-ButterfieldAcres.md     |
-| Bar JO Ranch                                         | CAMP-BarJO.md                |
-| Element Martial Arts                                 | CAMP-ElementMA.md            |
-| Growing Roots Forest Play                            | CAMP-GrowingRoots.md         |
-| Pinnovate DIY Studio                                 | CAMP-Pinnovate.md            |
-| Affinity Academy                                     | CAMP-AffinityAcademy.md      |
-| Camp STEAM Canada                                    | CAMP-Steam.md                |
-| University of Calgary                                | CAMPS-UofC.md                |
-| SAIT                                                 | CAMPS-SAIT.md                |
-| Steamoji (Calgary West + North)                      | CAMPS-Steamoji.md            |
-| Alien In-Line Inline Skate Camp                      | CAMP-AlienInLine.md          |
-| Chinook School of Music                              | CAMP-ChinookMusic.md         |
-| Heritage Park Prairie Explorers                      | CAMP-HeritagePark.md         |
-| Rundle College (Creative Souls, Theatre, LEGO)       | CAMP-RundleCollege.md        |
+| Provider                                                        | File                         |
+| --------------------------------------------------------------- | ---------------------------- |
+| Westmount Student Care (CAA + JE locations)                     | CAMP-WestmountStudentCare.md |
+| The Confluence                                                  | CAMP-Confluence.md           |
+| Quest Theatre                                                   | CAMP-QuestTheatre.md         |
+| Calgary Young People's Theatre                                  | CAMP-CYPT.md                 |
+| JKA Empower Karate                                              | CAMP-JKAKarate.md            |
+| Colour on Fire Art Studio                                       | CAMP-ColourOnFire.md         |
+| MRU Camps (Magical Adventures, Tiny Tales, C.A.T.S.)            | CAMP-MRU.md                  |
+| Clip Clop Horseback Riding                                      | CAMP-ClipClop.md             |
+| Butterfield Acres Farm Camp                                     | CAMP-ButterfieldAcres.md     |
+| Bar JO Ranch                                                    | CAMP-BarJO.md                |
+| Element Martial Arts                                            | CAMP-ElementMA.md            |
+| Growing Roots Forest Play                                       | CAMP-GrowingRoots.md         |
+| Pinnovate DIY Studio                                            | CAMP-Pinnovate.md            |
+| Affinity Academy                                                | CAMP-AffinityAcademy.md      |
+| Camp STEAM Canada                                               | CAMP-Steam.md                |
+| University of Calgary                                           | CAMPS-UofC.md                |
+| SAIT                                                            | CAMPS-SAIT.md                |
+| Steamoji (Calgary West + North)                                 | CAMPS-Steamoji.md            |
+| Alien In-Line Inline Skate Camp                                 | CAMP-AlienInLine.md          |
+| Chinook School of Music                                         | CAMP-ChinookMusic.md         |
+| Heritage Park Prairie Explorers                                 | CAMP-HeritagePark.md         |
+| Rundle College (Creative Souls, Theatre, LEGO)                  | CAMP-RundleCollege.md        |
+| STS (Art Studio, Crafty Adventurers, Theatre, Forest Explorers) | CAMP-STS.md                  |

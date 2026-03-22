@@ -384,6 +384,18 @@
         "marker-color": "#7B2D8B",
         "marker-symbol": "art-gallery"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-114.1200, 50.8430] },
+      "properties": {
+        "name": "STS Summer Camps",
+        "address": "298136 24 St W, Foothills, AB T1S 7A4",
+        "category": "Arts & Design",
+        "description": "Art Studio, Crafty Adventurers, Theatre Camp, Forest Explorers. Ages 4-14. Price/hours TBD -- confirm before booking. ~45 min south of home. https://github.com/brianlow/summer-camps-2026/blob/main/CAMP-STS.md",
+        "marker-color": "#7B2D8B",
+        "marker-symbol": "art-gallery"
+      }
     }
   ]
 }

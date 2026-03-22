@@ -17,16 +17,19 @@ One line per camp. See individual CAMP-*.md files for full details.
 |     | **Rundle College** — Art             | Clay, acrylics, watercolours, pastels — animals, nature, and abstract designs       | $340–420 | ½ day (PM); waitlist                                               |
 |     | **Rundle College** — Creative Souls  | Crafts, visual art, mixed media, journaling, yoga, and nature-inspired art          | $340–420 | ½ day (AM or PM)                                                   |
 |     | **Rundle College** — Math+Art Fusion | Geometry meets graffiti, symmetry meets sketching — math and art together           | $420     | ½ day (PM); Week 4                                                 |
+|     | **STS** — Art Studio & School Camp   | description needed                                                                  | ⚠️ TBD | ⚠️ Far (~45 min S, Foothills); hours TBD                         |
+|     | **STS** — Crafty Adventurers Camp    | description needed                                                                  | ⚠️ TBD | ⚠️ Far (~45 min S, Foothills); Weeks 1–2 only; hours TBD         |
 
 ## 🎭 Drama & Theatre
 
-|     | Camp                              | What you do                                                                 | $/wk     | Notes                    |
-| --- | --------------------------------- | --------------------------------------------------------------------------- | -------- | ------------------------ |
-|     | **CYPT** — Drama Camp             | Learn acting and improv, then make a whole play from scratch and perform it | $350     | Very close (NW, 8 min)   |
-|     | **MRU** — C.A.T.S.                | Crafts, puppet theatre, science experiments, and basic computer skills      | $400     | All summer               |
-|     | **Quest Theatre** — Drama Camp    | Make a play with a small group, build props and costumes, perform Friday    | $400     | Small groups (max 16) ✅ |
-|     | **Rundle College** — Theatre Camp | Drama games, storytelling, and perform an original story on a real stage    | $340–420 | ½ day (PM); waitlist     |
-|     | **SAIT** — Acting Stars           | Act out characters, drama games, and bring stories to life on stage         | $400     | Jun 29 & Aug 4 only      |
+|     | Camp                              | What you do                                                                 | $/wk     | Notes                                      |
+| --- | --------------------------------- | --------------------------------------------------------------------------- | -------- | ------------------------------------------ |
+|     | **CYPT** — Drama Camp             | Learn acting and improv, then make a whole play from scratch and perform it | $350     | Very close (NW, 8 min)                     |
+|     | **STS** — Theatre Camp            | description needed                                                          | ⚠️ TBD | ⚠️ Far (~45 min S, Foothills); hours TBD |
+|     | **MRU** — C.A.T.S.                | Crafts, puppet theatre, science experiments, and basic computer skills      | $400     | All summer                                 |
+|     | **Quest Theatre** — Drama Camp    | Make a play with a small group, build props and costumes, perform Friday    | $400     | Small groups (max 16) ✅                   |
+|     | **Rundle College** — Theatre Camp | Drama games, storytelling, and perform an original story on a real stage    | $340–420 | ½ day (PM); waitlist                       |
+|     | **SAIT** — Acting Stars           | Act out characters, drama games, and bring stories to life on stage         | $400     | Jun 29 & Aug 4 only                        |
 
 ## 🎵 Music
 
@@ -44,13 +47,14 @@ One line per camp. See individual CAMP-*.md files for full details.
 
 ## 🌿 Nature & Outdoors
 
-|     | Camp                                  | What you do                                                                        | $/wk         | Notes                        |
-| --- | ------------------------------------- | ---------------------------------------------------------------------------------- | ------------ | ---------------------------- |
-|     | **Confluence** — Birds & Bison        | Spot wildlife along the river, visit the zoo, do nature crafts, go on field trips  | $335–360     | SE location (~20 min)        |
-|     | **Growing Roots** — Forest Explorers  | Child-led outdoor play in real forests, meadows, and valleys                       | ⚠️ Contact | ⚠️ Far (~40 min, Cochrane) |
-|     | **Heritage Park** — Prairie Explorers | Pioneer activities, bannock-making, Indigenous crafts in a real historical village | $325         | SW location (~20 min)        |
-|     | **SAIT** — Great Outdoors             | Explore Calgary parks, outdoor challenges and team adventures every day            | $400         | Jun 29 & Aug 4 only          |
-|     | **UCalgary** — Tots on Treks          | Catch bugs, hike trails, visit the zoo, and splash in the pool                     | $370         | Includes swimming            |
+|     | Camp                                  | What you do                                                                        | $/wk         | Notes                                                |
+| --- | ------------------------------------- | ---------------------------------------------------------------------------------- | ------------ | ---------------------------------------------------- |
+|     | **Confluence** — Birds & Bison        | Spot wildlife along the river, visit the zoo, do nature crafts, go on field trips  | $335–360     | SE location (~20 min)                                |
+|     | **Growing Roots** — Forest Explorers  | Child-led outdoor play in real forests, meadows, and valleys                       | ⚠️ Contact | ⚠️ Far (~40 min, Cochrane)                         |
+|     | **STS** — Forest Explorers            | description needed                                                                 | ⚠️ TBD     | ⚠️ Far (~45 min S, Foothills); ages 4–8; hours TBD |
+|     | **Heritage Park** — Prairie Explorers | Pioneer activities, bannock-making, Indigenous crafts in a real historical village | $325         | SW location (~20 min)                                |
+|     | **SAIT** — Great Outdoors             | Explore Calgary parks, outdoor challenges and team adventures every day            | $400         | Jun 29 & Aug 4 only                                  |
+|     | **UCalgary** — Tots on Treks          | Catch bugs, hike trails, visit the zoo, and splash in the pool                     | $370         | Includes swimming                                    |
 
 ## ⚽ Sports & Movement
 

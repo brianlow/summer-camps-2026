@@ -1,0 +1,389 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-114.1867775, 51.0479541] },
+      "properties": {
+        "name": "Steamoji (Robotics)",
+        "address": "555 Strathcona Blvd SW, Calgary, AB",
+        "category": "STEM & Tech",
+        "description": "Build a real robot using VEX kits with block-based coding. Ages 6-8. $499/week. Also available at Calgary North location. https://github.com/brianlow/summer-camps-2026/blob/main/CAMPS-Steamoji.md",
+        "marker-color": "#0075A2",
+        "marker-symbol": "star"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-114.1867775, 51.0479541] },
+      "properties": {
+        "name": "Steamoji (Game Design)",
+        "address": "555 Strathcona Blvd SW, Calgary, AB",
+        "category": "Arts & Design",
+        "description": "Design your own board or card game -- draw characters, invent the rules, play with friends. Ages 5+. $399/week. Also at Calgary North. https://github.com/brianlow/summer-camps-2026/blob/main/CAMPS-Steamoji.md",
+        "marker-color": "#7B2D8B",
+        "marker-symbol": "art-gallery"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-114.1867775, 51.0479541] },
+      "properties": {
+        "name": "Steamoji (Medieval Eng)",
+        "address": "555 Strathcona Blvd SW, Calgary, AB",
+        "category": "STEM & Tech",
+        "description": "Build castles and a catapult -- structural engineering and problem-solving. Ages 5+. $399/week. Also at Calgary North. https://github.com/brianlow/summer-camps-2026/blob/main/CAMPS-Steamoji.md",
+        "marker-color": "#0075A2",
+        "marker-symbol": "star"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-114.1867775, 51.0479541] },
+      "properties": {
+        "name": "Steamoji (Digital Story)",
+        "address": "555 Strathcona Blvd SW, Calgary, AB",
+        "category": "Arts & Design",
+        "description": "Make a digital story with crafted props using Scratch Jr. Art + coding + making. Ages 5+. $399/week. Also at Calgary North. https://github.com/brianlow/summer-camps-2026/blob/main/CAMPS-Steamoji.md",
+        "marker-color": "#7B2D8B",
+        "marker-symbol": "art-gallery"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-114.1867775, 51.0479541] },
+      "properties": {
+        "name": "Steamoji (Robot City)",
+        "address": "555 Strathcona Blvd SW, Calgary, AB",
+        "category": "STEM & Tech",
+        "description": "Build a city of lights and moving bots. Electronics and team design. Ages 5+. $399/week. Also at Calgary North. https://github.com/brianlow/summer-camps-2026/blob/main/CAMPS-Steamoji.md",
+        "marker-color": "#0075A2",
+        "marker-symbol": "star"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-114.1086315, 51.1740254] },
+      "properties": {
+        "name": "Steamoji North (extra dates)",
+        "address": "2060 Symons Valley Pkwy NW, Calgary, AB",
+        "category": "STEM & Tech",
+        "description": "Same programs as Steamoji West (Robotics, Game Design, Medieval, Digital Story, Robot City) with additional date options. ~25-30 min from home. https://github.com/brianlow/summer-camps-2026/blob/main/CAMPS-Steamoji.md",
+        "marker-color": "#0075A2",
+        "marker-symbol": "star"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-114.0878809, 51.0631292] },
+      "properties": {
+        "name": "SAIT (Acting)",
+        "address": "1301 16 Ave NW, Calgary, AB",
+        "category": "Arts & Design",
+        "description": "Act out characters and bring stories to life on stage. Confidence-building drama games. Grades 2-3. $400/week. Free before/after care. https://github.com/brianlow/summer-camps-2026/blob/main/CAMPS-SAIT.md",
+        "marker-color": "#7B2D8B",
+        "marker-symbol": "art-gallery"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-114.0878809, 51.0631292] },
+      "properties": {
+        "name": "SAIT (Crafty Science)",
+        "address": "1301 16 Ave NW, Calgary, AB",
+        "category": "Science",
+        "description": "Mix art and science -- experiments with colours and materials. Grades 2-3. $400/week. Free before/after care. Currently waitlisted. https://github.com/brianlow/summer-camps-2026/blob/main/CAMPS-SAIT.md",
+        "marker-color": "#1E8449",
+        "marker-symbol": "college"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-114.0878809, 51.0631292] },
+      "properties": {
+        "name": "SAIT (Coding)",
+        "address": "1301 16 Ave NW, Calgary, AB",
+        "category": "STEM & Tech",
+        "description": "Learn to code by making games and interactive projects. No experience needed. Grades 2-3. $400/week. Free before/after care. https://github.com/brianlow/summer-camps-2026/blob/main/CAMPS-SAIT.md",
+        "marker-color": "#0075A2",
+        "marker-symbol": "star"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-114.0878809, 51.0631292] },
+      "properties": {
+        "name": "SAIT (Outdoor)",
+        "address": "1301 16 Ave NW, Calgary, AB",
+        "category": "Outdoor & Nature",
+        "description": "Explore parks and outdoor challenges -- nature and teamwork activities offsite. Grades 2-3. $400/week. Free before/after care. https://github.com/brianlow/summer-camps-2026/blob/main/CAMPS-SAIT.md",
+        "marker-color": "#D4680A",
+        "marker-symbol": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-114.0878809, 51.0631292] },
+      "properties": {
+        "name": "SAIT (SciSpy)",
+        "address": "1301 16 Ave NW, Calgary, AB",
+        "category": "Science",
+        "description": "Solve mysteries using science -- decode clues and run experiments like a detective. Grades 2-3. $400/week. Free before/after care. Currently waitlisted. https://github.com/brianlow/summer-camps-2026/blob/main/CAMPS-SAIT.md",
+        "marker-color": "#1E8449",
+        "marker-symbol": "college"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-114.0878809, 51.0631292] },
+      "properties": {
+        "name": "SAIT (STEAM Eng)",
+        "address": "1301 16 Ave NW, Calgary, AB",
+        "category": "STEM & Tech",
+        "description": "Design, build, and invent across science, tech, art, and math challenges. Grades 2-3. $400/week. Free before/after care. Currently waitlisted. https://github.com/brianlow/summer-camps-2026/blob/main/CAMPS-SAIT.md",
+        "marker-color": "#0075A2",
+        "marker-symbol": "star"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-114.1321361, 51.0805414] },
+      "properties": {
+        "name": "UCalgary (Nature Treks)",
+        "address": "2500 University Dr NW, Calgary, AB",
+        "category": "Outdoor & Nature",
+        "description": "Daily outdoor exploring -- bugs, hikes, zoo visit, Bowness Park day trip, pool time. Includes swimming. Grades 1-2. $370/week. https://github.com/brianlow/summer-camps-2026/blob/main/CAMPS-UofC.md",
+        "marker-color": "#D4680A",
+        "marker-symbol": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-114.1321361, 51.0805414] },
+      "properties": {
+        "name": "UCalgary (Climbing)",
+        "address": "2500 University Dr NW, Calgary, AB",
+        "category": "Sports",
+        "description": "Indoor climbing gym + outdoor adventure park + swimming every day. No experience needed. Grades 2-3. $400/week. https://github.com/brianlow/summer-camps-2026/blob/main/CAMPS-UofC.md",
+        "marker-color": "#C0392B",
+        "marker-symbol": "swimming"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-114.1321361, 51.0805414] },
+      "properties": {
+        "name": "UCalgary (LEGO Build)",
+        "address": "2500 University Dr NW, Calgary, AB",
+        "category": "STEM & Tech",
+        "description": "Build giant LEGO cities, bridges, and vehicles as a team. Includes pool time. Grades 2-3. $370/week. https://github.com/brianlow/summer-camps-2026/blob/main/CAMPS-UofC.md",
+        "marker-color": "#0075A2",
+        "marker-symbol": "star"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-114.1321361, 51.0805414] },
+      "properties": {
+        "name": "UCalgary (Outdoor Sports)",
+        "address": "2500 University Dr NW, Calgary, AB",
+        "category": "Sports",
+        "description": "A different sport every day -- soccer, kickball, frisbee, cricket, pool games. Grades 2-3. $370/week. https://github.com/brianlow/summer-camps-2026/blob/main/CAMPS-UofC.md",
+        "marker-color": "#C0392B",
+        "marker-symbol": "swimming"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-114.1321361, 51.0805414] },
+      "properties": {
+        "name": "UCalgary (GeoVenture)",
+        "address": "2500 University Dr NW, Calgary, AB",
+        "category": "Science",
+        "description": "Google Earth and GIS tools + outdoor geocaching to explore geography and natural systems. Grades 2-4. $370/week. https://github.com/brianlow/summer-camps-2026/blob/main/CAMPS-UofC.md",
+        "marker-color": "#1E8449",
+        "marker-symbol": "college"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-114.1321361, 51.0805414] },
+      "properties": {
+        "name": "UCalgary (LEGO Film)",
+        "address": "2500 University Dr NW, Calgary, AB",
+        "category": "Arts & Design",
+        "description": "Write, film, and edit your own LEGO stop-motion movie -- ends with a mini film festival. Grades 2-4. $425/week. https://github.com/brianlow/summer-camps-2026/blob/main/CAMPS-UofC.md",
+        "marker-color": "#7B2D8B",
+        "marker-symbol": "art-gallery"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-114.1321361, 51.0805414] },
+      "properties": {
+        "name": "UCalgary (Early Tech)",
+        "address": "2500 University Dr NW, Calgary, AB",
+        "category": "STEM & Tech",
+        "description": "Build circuits and program a robot using colours -- no typing needed. Intro to electronics. Grades 1-2. $296/week. https://github.com/brianlow/summer-camps-2026/blob/main/CAMPS-UofC.md",
+        "marker-color": "#0075A2",
+        "marker-symbol": "star"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-114.1321361, 51.0805414] },
+      "properties": {
+        "name": "UCalgary (Dinos Soccer)",
+        "address": "2500 University Dr NW, Calgary, AB",
+        "category": "Sports",
+        "description": "Girls-only soccer -- drills, games, and scrimmage coached by UCalgary Dinos athletes. Girls Grades 2-3. ~$300/week. https://github.com/brianlow/summer-camps-2026/blob/main/CAMPS-UofC.md",
+        "marker-color": "#C0392B",
+        "marker-symbol": "swimming"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-114.1321361, 51.0805414] },
+      "properties": {
+        "name": "UCalgary (Track & Field)",
+        "address": "2500 University Dr NW, Calgary, AB",
+        "category": "Sports",
+        "description": "Run, jump, and throw events -- mini track meet at end of week. Note: ends 3:15pm (15 min before cutoff). Grades 2-5. $425/week. https://github.com/brianlow/summer-camps-2026/blob/main/CAMPS-UofC.md",
+        "marker-color": "#C0392B",
+        "marker-symbol": "swimming"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-114.0792419, 51.0464907] },
+      "properties": {
+        "name": "UCalgary (Architecture)",
+        "address": "801 7 Ave SW, Calgary, AB",
+        "category": "Arts & Design",
+        "description": "Design and build model buildings inspired by real Calgary architecture. Led by UCalgary students. Grades 2-4. ~$370/week. https://github.com/brianlow/summer-camps-2026/blob/main/CAMPS-UofC.md",
+        "marker-color": "#7B2D8B",
+        "marker-symbol": "art-gallery"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-114.0792419, 51.0464907] },
+      "properties": {
+        "name": "UCalgary (City Building)",
+        "address": "801 7 Ave SW, Calgary, AB",
+        "category": "Arts & Design",
+        "description": "Use downtown Calgary streets to design a city -- mapping, models, and urban planning. Grades 2-4. ~$370/week. https://github.com/brianlow/summer-camps-2026/blob/main/CAMPS-UofC.md",
+        "marker-color": "#7B2D8B",
+        "marker-symbol": "art-gallery"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-114.0792419, 51.0464907] },
+      "properties": {
+        "name": "UCalgary (Landscape)",
+        "address": "801 7 Ave SW, Calgary, AB",
+        "category": "Arts & Design",
+        "description": "Design parks and outdoor spaces with real materials -- sticks, soil, stones. Sustainable design. Grades 2-4. ~$370/week. https://github.com/brianlow/summer-camps-2026/blob/main/CAMPS-UofC.md",
+        "marker-color": "#7B2D8B",
+        "marker-symbol": "art-gallery"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-114.4539441, 51.1758045] },
+      "properties": {
+        "name": "UCalgary (Gymnastics)",
+        "address": "Spray Lake Sawmills Family Sport Centre, Cochrane, AB",
+        "category": "Sports",
+        "description": "Recreational gymnastics with fun weekly themes -- circus tricks, wizards, beach week. ~40 min from home. Ages 6-13. https://github.com/brianlow/summer-camps-2026/blob/main/CAMPS-UofC.md",
+        "marker-color": "#C0392B",
+        "marker-symbol": "swimming"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-114.1117425, 51.0863732] },
+      "properties": {
+        "name": "Alien In-Line (Skating)",
+        "address": "Triwood Community Association, Calgary, AB",
+        "category": "Sports",
+        "description": "Learn to inline skate from scratch -- all safety gear provided. NW Calgary locations, ~10-25 min from home. Location varies by week (Triwood, Montgomery, Huntington Hills, Edgemont). Ages 6-8. $425/week. https://github.com/brianlow/summer-camps-2026/blob/main/CAMP-AlienInLine.md",
+        "marker-color": "#C0392B",
+        "marker-symbol": "swimming"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-114.2131202, 51.0958779] },
+      "properties": {
+        "name": "Chinook Music (Magic of Music)",
+        "address": "1101 48 Ave NW, Calgary, AB",
+        "category": "Arts & Design",
+        "description": "Singing, dancing, rhythm games, crafts, acting, and dress-up -- all music-themed. No instruments. Ages 5-6. $375/week. Before/after care available. ~15 min from home. https://github.com/brianlow/summer-camps-2026/blob/main/CAMP-ChinookMusic.md",
+        "marker-color": "#7B2D8B",
+        "marker-symbol": "music"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-114.1070459, 50.9851303] },
+      "properties": {
+        "name": "Heritage Park (Prairie Explorers)",
+        "address": "1900 Heritage Dr SW, Calgary, AB",
+        "category": "Outdoor & Nature",
+        "description": "Explore a historical village -- bannock-making, fur trading, Indigenous traditions, pioneer crafts. Ages 6-9. $325/week. ~20-25 min from home. https://github.com/brianlow/summer-camps-2026/blob/main/CAMP-HeritagePark.md",
+        "marker-color": "#D4680A",
+        "marker-symbol": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-114.1970960, 51.0368605] },
+      "properties": {
+        "name": "Rundle (Creative Arts)",
+        "address": "7615 17 Ave SW, Calgary, AB",
+        "category": "Arts & Design",
+        "description": "AM crafts and visual art + PM theatre or other combo. Hands-on creative projects and drama. Grades 1-3. $340-420/week. ~20-25 min from home. https://github.com/brianlow/summer-camps-2026/blob/main/CAMP-RundleCollege.md",
+        "marker-color": "#7B2D8B",
+        "marker-symbol": "art-gallery"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-114.1970960, 51.0368605] },
+      "properties": {
+        "name": "Rundle (LEGO)",
+        "address": "7615 17 Ave SW, Calgary, AB",
+        "category": "STEM & Tech",
+        "description": "LEGO building and storytelling -- AM or PM half, paired with another camp. Grades 1-3. $340-420/week. ~20-25 min from home. https://github.com/brianlow/summer-camps-2026/blob/main/CAMP-RundleCollege.md",
+        "marker-color": "#0075A2",
+        "marker-symbol": "star"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-114.1075583, 51.0362578] },
+      "properties": {
+        "name": "Westmount SC (CAA)",
+        "address": "2036 20 Ave SW, Calgary, AB",
+        "category": "Arts & Design",
+        "description": "Full-day general day camp with themed crafts weeks -- Storybook, Pirate Party, Medieval Times (unicorns!). Grades 1-6. $290/week. Jul 2 - Aug 20. ~15 min from home. https://github.com/brianlow/summer-camps-2026/blob/main/CAMP-WestmountStudentCare.md",
+        "marker-color": "#7B2D8B",
+        "marker-symbol": "art-gallery"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-114.1270693, 50.9958790] },
+      "properties": {
+        "name": "Westmount SC (JE)",
+        "address": "3031 Lindsay Dr SW, Calgary, AB",
+        "category": "Arts & Design",
+        "description": "Full-day general day camp -- themed weeks include Witches & Wizards, Out at Sea, Kitchen Chemistry, Out of This World. Grades 1-6. $290/week. Jul 2 - Aug 28. ~20 min from home. https://github.com/brianlow/summer-camps-2026/blob/main/CAMP-WestmountStudentCare.md",
+        "marker-color": "#7B2D8B",
+        "marker-symbol": "art-gallery"
+      }
+    }
+  ]
+}

@@ -101,6 +101,7 @@
 | North Calgary Dance Centre                 | Half-day only (9:30am–12:30pm) — below cutoff                           | No                            |
 | Mahogany Dance Arts — Unicorn Sparkles     | Far SE (~40–55 min); Mon–Thurs only (4 days); ends at 3:30pm            | No                            |
 | SAJRD Southern Alberta Junior Roller Derby | Season runs Sept–June only; no summer program                           | No                            |
+| Nature Play Kids — Forest Play Camps       | All sessions end at 1pm (half-day) or 3pm — below 3:30pm cutoff        | No                            |
 
 ---
 

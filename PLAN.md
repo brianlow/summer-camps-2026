@@ -18,10 +18,15 @@ We are planning summer camps for my daughter
 1. Research camp
 2. Save results to CAMP-{provider}.md (e.g. CAMPS-UofC.md, CAMPS-SAIT.md) to keep files manageable and allow parallel research
 3. Update TODO.md
+4. Update SUMMARY.md
+5. Update CALENDAR.md
+6. Update MAP.md
 
 
 Notes:
 - **TODO.md** tracks outstanding and in-progress work, keep this up to date
+- **SUMMARY.md** summarized list of camps for quick review
+- **CALENDAR.md** info organized by week
 - Keep **PLAN.md** updated with decisions and process learnings
 - Camp files are split by provider
 - Do not use Facebook as a research source

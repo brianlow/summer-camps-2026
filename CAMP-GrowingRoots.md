@@ -16,8 +16,8 @@
 
 **Spots:**
 
-| Dates | Notes |
-|---|---|
+| Dates       | Notes                                                                    |
+| ----------- | ------------------------------------------------------------------------ |
 | Summer 2026 | Dates and availability not published — check website or contact directly |
 
 ## Notes

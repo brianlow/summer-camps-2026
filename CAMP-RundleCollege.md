@@ -117,15 +117,15 @@ Multiple themed camps for Grades 1–3 (ages ~6–8). Camps are run in AM + PM "
 - **Phone / Email:** 403-282-8411 | summercamps@rundle.ab.ca
 - **Spots:**
 
-| Dates | Available Combos | Price |
-|---|---|---|
-| Week 1 (June 29–July 3) | Basketball & More AM + Stampede PM | $340 |
-| Week 1 (June 29–July 3) | Basketball & More AM + LEGO® PM | $340 |
-| Week 1 (June 29–July 3) | Sportz Sizzler AM + Creative Souls PM | $340 |
-| Week 2 (July 6–10) | ⏳ Waitlist | — |
-| Week 3 (July 13–17) | ⏳ Waitlist | — |
-| Week 4 (July 20–24) | Multi-Sport AM + LEGO® PM | $400 |
-| Week 4 (July 20–24) | Multi-Sport AM + Sportz Sizzler PM | $400 |
-| Week 4 (July 20–24) | Multi-Sport AM + Math+Art Fusion PM | $420 |
+| Dates                   | Available Combos                      | Price | Cassia? |
+| ----------------------- | ------------------------------------- | ----- | ------- |
+| Week 1 (June 29–July 3) | Basketball & More AM + Stampede PM    | $340  |         |
+| Week 1 (June 29–July 3) | Basketball & More AM + LEGO® PM       | $340  |         |
+| Week 1 (June 29–July 3) | Sportz Sizzler AM + Creative Souls PM | $340  | ❤️      |
+| Week 2 (July 6–10)      | ⏳ Waitlist                           | —     |         |
+| Week 3 (July 13–17)     | ⏳ Waitlist                           | —     |         |
+| Week 4 (July 20–24)     | Multi-Sport AM + LEGO® PM             | $400  |         |
+| Week 4 (July 20–24)     | Multi-Sport AM + Sportz Sizzler PM    | $400  |         |
+| Week 4 (July 20–24)     | Multi-Sport AM + Math+Art Fusion PM   | $420  |         |
 
 > ⚠️ **Note:** Registration opened January 27, 2026. Only 4 weeks offered (ends July 24). Week 1 note: Monday June 29 – Friday July 3 (except Wednesday July 1 — Canada Day). Check available combinations on website — specific AM/PM pairings may have limited spots. Also note SW Calgary location (~20–25 min drive).

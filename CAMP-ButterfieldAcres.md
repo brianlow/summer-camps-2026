@@ -14,12 +14,13 @@
 - **What's included:** Farm T-shirt, animal memory photo, all activities
 - **Refund policy:** Refund only if camp cancelled due to low registration; substituting another child is allowed if camper can't attend
 - **Location:** 254077 Rocky Ridge Rd, Calgary (NW edge/Rocky Ridge) — ~25 min from West Hillhurst ✅ ([map](https://maps.google.com/?q=254077+Rocky+Ridge+Rd,+Calgary,+AB))
+- **Bus**: stops at South Center and Kilarney Aquatic & Rec Center  (about 10 min away)
 - **More info / Book:** https://www.butterfieldacres.com/summer-day-camps/
 
 **Bus weeks (Calgary pickup available):**
 
-| Dates | Notes |
-|---|---|
+| Dates     | Notes            |
+| --------- | ---------------- |
 | Jul 20–24 | Bus from Calgary |
 | Aug 10–14 | Bus from Calgary |
 

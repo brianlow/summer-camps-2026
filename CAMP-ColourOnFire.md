@@ -19,9 +19,9 @@
 
 **Spots (Rosscarrock CA — SW):**
 
-| Dates | Notes |
-|---|---|
-| Jul 6–10 | Available |
+| Dates     | Notes     |
+| --------- | --------- |
+| Jul 6–10  | Available |
 | Jul 13–17 | Available |
 | Jul 20–24 | Available |
 | Jul 27–31 | Available |
@@ -29,15 +29,15 @@
 
 **Spots (Edgemont CA — NW):**
 
-| Dates | Notes |
-|---|---|
-| Jul 6–10 | Available |
-| Jul 13–17 | Available |
-| Jul 20–24 | Available |
-| Jul 27–31 | Available |
-| Aug 10–14 | Available |
-| Aug 17–21 | Available |
-| (Weeks 1–2 and Week 5 noted as full at time of research — confirm current availability) | ⚠️ |
+| Dates                                                                                   | Notes     |
+| --------------------------------------------------------------------------------------- | --------- |
+| Jul 6–10                                                                                | Available |
+| Jul 13–17                                                                               | Available |
+| Jul 20–24                                                                               | Available |
+| Jul 27–31                                                                               | Available |
+| Aug 10–14                                                                               | Available |
+| Aug 17–21                                                                               | Available |
+| (Weeks 1–2 and Week 5 noted as full at time of research — confirm current availability) | ⚠️      |
 
 ## Notes
 - 6 weeks at Edgemont NW vs 5 weeks at Rosscarrock SW — Edgemont offers more flexibility

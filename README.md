@@ -43,17 +43,17 @@
 
 ## 🎵 Music
 
-| Camp                               | What you do                                                  | $/wk | Notes              |
-| ---------------------------------- | ------------------------------------------------------------ | ---- | ------------------ |
-| **Chinook Music** — Magic of Music | Singing, dancing, rhythm games, crafts, acting, and dress-up | $375 | Ages 5–6 only ⚠️ |
+|     | Camp                               | What you do                                                  | $/wk | Notes              |
+| --- | ---------------------------------- | ------------------------------------------------------------ | ---- | ------------------ |
+|     | **Chinook Music** — Magic of Music | Singing, dancing, rhythm games, crafts, acting, and dress-up | $375 | Ages 5–6 only ⚠️ |
 
 ## 🐴 Animals & Farm
 
-| Camp                                  | What you do                                                               | $/wk         | Notes                                   |
-| ------------------------------------- | ------------------------------------------------------------------------- | ------------ | --------------------------------------- |
-| **Bar JO Ranch** — Horse & Pony Camp  | Real ranch adventure — ride ponies, care for horses in the foothills      | ⚠️ Contact | ⚠️ Far (~60 min); bus from SW Calgary |
-| **Butterfield Acres** — Farm Day Camp | Care for farm animals, wagon rides, and outdoor adventures on a real farm | ⚠️ Contact | NW edge of city (~25 min)               |
-| **Clip Clop** — Rookie Rider          | Learn to ride a horse, groom and tack up, horse-themed games and crafts   | ⚠️ Contact | NW Calgary (~20 min)                    |
+|     | Camp                                  | What you do                                                               | $/wk         | Notes                                   |
+| --- | ------------------------------------- | ------------------------------------------------------------------------- | ------------ | --------------------------------------- |
+|     | **Bar JO Ranch** — Horse & Pony Camp  | Real ranch adventure — ride ponies, care for horses in the foothills      | ⚠️ Contact | ⚠️ Far (~60 min); bus from SW Calgary |
+|     | **Butterfield Acres** — Farm Day Camp | Care for farm animals, wagon rides, and outdoor adventures on a real farm | ⚠️ Contact | NW edge of city (~25 min)               |
+|     | **Clip Clop** — Rookie Rider          | Learn to ride a horse, groom and tack up, horse-themed games and crafts   | ⚠️ Contact | NW Calgary (~20 min)                    |
 
 ## 🏙️ City of Calgary
 

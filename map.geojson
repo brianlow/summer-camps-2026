@@ -435,18 +435,6 @@
     },
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [-114.0975, 51.0595] },
-      "properties": {
-        "name": "Enchanted Events (Fairy Camp)",
-        "address": "#9, 213 19th St NW, Calgary, AB",
-        "category": "Arts & Design",
-        "description": "Fairy-themed camp -- crafts, dance, drama, singing, magical adventures. Ages 4-8. 9am-4pm. 2026 dates TBA -- contact to register interest. ~5 min from home. TOP PICK. https://www.enchantedevents.ca/fairy_camp_1.html",
-        "marker-color": "#7B2D8B",
-        "marker-symbol": "star"
-      }
-    },
-    {
-      "type": "Feature",
       "geometry": { "type": "Point", "coordinates": [-114.2281, 51.0786] },
       "properties": {
         "name": "WinSport (Wilderness Explorers)",

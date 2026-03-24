@@ -36,7 +36,6 @@
 
 |     | Camp                                   | What you do                                                                   | $/wk         | Notes                                                   |
 | --- | -------------------------------------- | ----------------------------------------------------------------------------- | ------------ | ------------------------------------------------------- |
-|     | **Enchanted Events** — Fairy Camp      | Fairy crafts, dance, drama, singing, and magical adventures — graduation show | ⚠️ Contact | ✅✅ 5 min away; 2026 dates TBA ⭐                      |
 |     | **Free House Dance Plus** — Dance Camp | Ballet, jazz, tap, lyrical, musical theatre — all in one week                 | $375         | ✅✅ 5 min away; Jul 13–17 & Jul 20–24 only; after care |
 |     | **PULSE Studios** — Hip Hop Camp       | Breaking, popping, house dance, and group choreography                        | $395+GST     | ✅ 10 min away; 7 weeks; street styles ⚠️             |
 |     | **StoryBook Theatre** — Theatre Camps  | Write, cast, rehearse, and perform an original play by Friday                 | $375         | ✅ ~15–20 min NW; 9am–4pm; FREE after care; 6 weeks     |
@@ -60,7 +59,7 @@
 |     | Camp                                      | What you do                                                                | $/wk | Notes                                                                 |
 | --- | ----------------------------------------- | -------------------------------------------------------------------------- | ---- | --------------------------------------------------------------------- |
 |     | **City of Calgary** — Rec Adventures (NW) | Games, sports, crafts, outdoor adventures, park trips, and swimming        | $269 | ✅✅ Shouldice Aquatic Centre, ~10 min; spots available               |
-|     | **City of Calgary** — Arts Ventures (NW)  | Drawing, painting, mixed media, and sculpture — take-home artwork          | $305 | ✅ N. Mt Pleasant Arts Centre, ~8 min; **mostly full** ⚠️           |
+| ❤️ | **City of Calgary** — Arts Ventures (NW)  | Drawing, painting, mixed media, and sculpture — take-home artwork          | $305 | ✅ N. Mt Pleasant Arts Centre, ~8 min; **mostly full** ⚠️           |
 |     | **City of Calgary** — Arts & Dance        | Art techniques + dance — create choreography and artwork each day          | $290 | 7–9 age group **sold out**; Wildflower Arts Centre (SW, ~20 min) ⚠️ |
 |     | **City of Calgary** — Rock Climbing       | 2 hrs/day bouldering + climbing-wall instruction, plus crafts and swimming | $285 | **Completely sold out** ❌; Southland (SW, ~25 min)                   |
 |     | **City of Calgary** — Field Sports        | Ultimate frisbee, soccer, lacrosse — park trips and water activities       | $269 | Lots of spots; locations SE/SW (~25–35 min) ⚠️                      |

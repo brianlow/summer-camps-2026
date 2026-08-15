@@ -13,4 +13,7 @@ week-by-week schedule.
 
 | Camp | Verdict | Notes |
 |---|---|---|
-| City of Calgary — Arts Ventures ("Mount Pleasant Art Camp") | 👍 Liked | ⚠️ Don't rebook if it's the same drawing/painting/mixed-media/sculpture activity as before — check with the instructor/City of Calgary whether projects differ before booking again |
+| [Quest Theatre](CAMP-QuestTheatre.md) | 👍 Liked | |
+| [UCalgary — Tots on Treks](CAMPS-UofC.md) | 👍 Liked | |
+| [City of Calgary — Arts Ventures](CAMP-CityOfCalgary.md) ("Mount Pleasant Art Camp") | 👍 Liked | ⚠️ Don't rebook if it's the same drawing/painting/mixed-media/sculpture activity as before — check with the instructor/City of Calgary whether projects differ before booking again |
+| [The Confluence — Birds & Bison](CAMP-Confluence.md) | 👍 Liked | |

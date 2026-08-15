@@ -38,6 +38,8 @@
 
 ## Arts Ventures: Summer Day Camp *(Ages 7–8 | Mixed)* ⚠️ Mostly full
 
+> ⚠️ **Already attended once this summer ("Mount Pleasant Art Camp") — she loved it.** Don't rebook for the remaining weeks unless the activities/projects differ from what she already did — confirm with the instructor or City of Calgary first. See [REVIEWS.md](REVIEWS.md).
+
 **For her:** A week of drawing, painting, mixed media, and sculpture — take-home artwork. Supervised outdoor breaks each day.
 **For you:** Visual arts camp at a nearby NW arts centre. Strong match for her interests, but the 7–8 age group is almost completely sold out. Also: need to confirm she qualifies if she's 6 turning 7 during camp.
 

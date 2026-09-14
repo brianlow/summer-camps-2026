@@ -2,6 +2,8 @@
 
 ## Summer Art Camp *(Ages 5–14 | Mixed)*
 
+> ✅ **Attended summer 2026 — recommend.** Real art instruction, not just crafts — explored a variety of styles and media as described below. See [REVIEWS.md](REVIEWS.md).
+
 **For her:** Spend a whole week painting, drawing, and working with mixed media — from watercolours to chalk pastels to charcoal. On Thursdays, a real art exhibition opens for families to see all the work from the week. Everything she makes, she takes home.
 
 **For you:** Dedicated fine art instruction — sketching, shading, colour theory, mixed media and visual art. All supplies included. Two Calgary locations; the **Edgemont NW** site is closer to West Hillhurst. No swimming.
